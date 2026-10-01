@@ -8,3 +8,6 @@ _site/
 Gender GRAD/
 index_sol191_referencia.qmd
 PROGRAMA 2025-*.md
+
+/.quarto/
+**/*.quarto_ipynb

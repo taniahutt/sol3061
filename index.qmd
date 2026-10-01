@@ -96,14 +96,14 @@ Antes de cada clase, el curso lee en conjunto los textos obligatorios (marcados 
 
 **Qué se pide.** Al menos **2 anotaciones por cada texto obligatorio**, publicadas en el grupo del curso **a más tardar el martes previo a la clase, a las 23:59**. Se recomienda anotar antes (idealmente el fin de semana): así quien lidera puede considerar sus aportes y el resto del curso alcanza a responderles.
 
-**Tipos de anotación.** Cada anotación debe ir anclada a un pasaje específico del texto y llevar una etiqueta (*tag*) que indique su tipo. Por cada texto obligatorio, al menos una de las anotaciones debe ser de alguno de estos tipos de reflexión:
+**Tipos de anotación.** Cada anotación debe ir anclada a un pasaje específico del texto y llevar una etiqueta (*tag*) que indique su tipo:
 
--   `#pregunta`: una pregunta genuina sobre el pasaje, que no tenga respuesta obvia en el mismo texto (no una duda de comprensión básica). Explica por qué te la haces.
--   `#tensión`: un supuesto, limitación, contradicción o punto ciego del argumento, con la razón por la cual lo ves así.
--   `#conexión`: relaciona el pasaje con otra lectura, concepto o teoría del curso.
--   `#contexto`: aplica el pasaje a un caso de Chile o América Latina, o a evidencia empírica que conozcas.
+-   `pregunta`: una pregunta genuina sobre el pasaje, que no tenga respuesta obvia en el mismo texto (no una duda de comprensión básica). Explica por qué te la haces.
+-   `crítica/tensión`: un supuesto, limitación, contradicción o punto ciego del argumento, con la razón por la cual lo ves así.
+-   `conexión`: relaciona el pasaje con otra lectura, concepto o teoría del curso, o con un caso o evidencia que conozcas.
+-   `respuesta`: respuesta a la anotación de otra persona, ya sea para contestar una pregunta, agregar evidencia o plantear un desacuerdo fundamentado.
 
-La otra anotación puede ser del mismo tipo o una **`#respuesta`** a una anotación de otra persona: puedes responder una pregunta, agregar evidencia, o plantear un desacuerdo fundamentado. **Cada semana, al menos una de tus anotaciones debe ser una respuesta a una compañera o compañero.** Las respuestas cuentan como anotaciones.
+Las anotaciones de un mismo texto **no pueden ser todas del mismo tipo**: usa al menos dos etiquetas distintas por texto.
 
 **Calidad mínima para el check de "completo".** Cada anotación debe:
 

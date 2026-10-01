@@ -1,0 +1,57 @@
+/*-- scss:defaults --*/
+$presentation-font-size-root: 30px;
+$presentation-heading-color: #3f5d34;
+$link-color: #3f5d34;
+$presentation-heading-font-weight: 600;
+$presentation-title-slide-text-align: left;
+
+/*-- scss:rules --*/
+.reveal .slides section { text-align: left; }
+.reveal h2 { font-size: 1.5em; margin-bottom: .5em; }
+.reveal .cite { font-size: .6em; color: #666; margin-top: -.8em; }
+.reveal ul, .reveal ol { margin-left: 1em; }
+.reveal li { margin-bottom: .25em; }
+.reveal li li { font-size: .9em; }
+.reveal .credit { font-size: .4em; color: #777; display: block; text-align: right; margin-top: .2em; }
+.reveal img { margin: 0 auto; max-height: 560px; }
+.reveal .column img { display: block; }
+
+/* portadas */
+#title-slide[data-background-image*="C1/"] h1,
+#title-slide[data-background-image*="C1/"] .subtitle { margin-left: 50%; }
+#title-slide[data-background-image*="C1/"] h1 { margin-top: 1.6em; }
+#title-slide[data-background-size="cover"] h1, #title-slide[data-background-size="cover"] .subtitle {
+  display: inline-block; color: #fff; background: rgba(28, 30, 44, .78);
+  padding: .25em .6em; margin-left: 0;
+}
+#title-slide[data-background-size="cover"] .subtitle { font-size: 1.1em; margin-top: .3em; }
+
+/* diapositivas sobre fondo oscuro */
+.on-dark, .on-dark h2, .on-dark p, .on-dark li { color: #fff; }
+.on-dark .panel { background: rgba(20, 20, 30, .62); padding: .4em .8em; border-radius: 6px; }
+
+/* cajas */
+.box { border-radius: 12px; padding: .5em .8em; font-size: .85em; margin-bottom: .4em; }
+.box h4, .box p { margin: .15em 0; }
+.box-ok { background: #e8f1e3; border-left: 6px solid #3f5d34; }
+.box-q  { background: #e9eef7; border-left: 6px solid #3d5a8a; }
+.box-no { background: #f9e5e3; border-left: 6px solid #a8372c; }
+.quote-callout { background: #f2ecf7; border-left: 6px solid #6b3fa0; padding: .5em .8em; border-radius: 8px; font-size: .75em; font-style: italic; }
+
+/* lista con iconos (reemplaza SmartArt "Icon vertical solid list") */
+.icon-list { display: flex; flex-direction: column; gap: .35em; margin-top: .3em; }
+.icon-row { display: flex; align-items: center; gap: .8em; background: #f1f4ee; border-radius: 8px; padding: .45em .9em; font-size: .85em; }
+.icon-row img { width: 64px; height: 64px; margin: 0; flex: none; }
+.icon-row p { margin: 0; }
+
+/* proceso horizontal (reemplaza SmartArt "Basic process") */
+.process { display: flex; align-items: stretch; gap: .5em; margin-top: 1em; }
+.process .step { flex: 1; background: #e8f1e3; border-radius: 14px; padding: .6em .9em; font-size: .85em; }
+.process .step h4 { margin: 0 0 .3em; color: #3f5d34; }
+.process .arrow { align-self: center; font-size: 2em; color: #3f5d34; }
+
+/* par de cajas (reemplaza SmartArt "Hierarchy") */
+.pair { display: flex; gap: .6em; margin-top: .5em; }
+.pair > div { flex: 1; background: #e8f1e3; border-radius: 10px; padding: .5em .7em; font-size: .8em; }
+
+.reveal .compact { font-size: .95em; }

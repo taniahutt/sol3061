@@ -11,3 +11,12 @@ PROGRAMA 2025-*.md
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Presentaciones de clase: se publican una vez que la clase ocurre
+# (para publicar una clase, borrar sus dos líneas y enlazarla en index.qmd)
+clases/C1_clase.qmd
+clases/img/C1/
+clases/C2_clase.qmd
+clases/img/C2/
+clases/C3_clase.qmd
+clases/img/C3/

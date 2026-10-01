@@ -118,7 +118,7 @@ Las anotaciones de un mismo texto **no pueden ser todas del mismo tipo**: usa al
 
 ### Liderazgo y guía de discusión grupal (15%)
 
-Cada semana una o un estudiante tomará el rol de liderar la discusión. Es la instancia principal para evaluar la comprensión crítica de las lecturas. Esto considera la preparación de una guía o presentación corta con los temas y preguntas principales a ser discutidos durante la sesión así como incentivar el diálogo, discusión y reflexión entre estudiantes.
+Cada semana una o un estudiante tomará el rol de liderar la discusión. Es la instancia principal para evaluar la comprensión crítica de las lecturas. El rol considera la preparación de una guía o presentación corta con los temas y preguntas principales a ser discutidos durante la sesión así como incentivar el diálogo, discusión y reflexión entre estudiantes.
 
 Hay 7 sesiones con liderazgo estudiantil (clases 2 a 8). Como el curso tiene 9 estudiantes, la mayoría de las sesiones será liderada por una persona y **las clases 5 y 6 serán lideradas por dos personas**:
 

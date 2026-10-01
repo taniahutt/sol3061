@@ -80,19 +80,20 @@ Para el mapa crítico de literatura, el mini-congreso y la mini propuesta, se su
 
 | Componente                                          | Ponderación |
 |:----------------------------------------------------|:-----------:|
-| Anotación social previa a la clase (Hypothesis)     |     10%     |
+| Anotación social previa a la clase (Hypothesis)     |     15%     |
 | Liderazgo y guía de discusión grupal                |     15%     |
 | Participación activa en la clase                    |     10%     |
 | Memo de preguntas de investigación                  |      5%     |
 | Mapa crítico de literatura y comentario a un par    |     20%     |
 | Mini-congreso                                       |     10%     |
 | Mini propuesta de investigación                     |     25%     |
-| Por definir                                         |      5%     |
 | **Total**                                           |   **100%**  |
 
 El trabajo de investigación se desarrolla de manera escalonada (memo de preguntas → mapa crítico de literatura → mini-congreso → mini propuesta), de modo que la pregunta se va afinando a lo largo del semestre y la profesora puede dar retroalimentación en cada etapa.
 
-### Anotación social previa a la clase (10%)
+**Las entregas del proyecto son siempre los viernes a las 23:59**, para que la noche del martes previo a la clase se dedique a leer y anotar los textos.
+
+### Anotación social previa a la clase (15%)
 
 Antes de cada clase, el curso lee en conjunto los textos obligatorios (marcados con **\*\***) usando [Hypothesis](https://web.hypothes.is), una herramienta que permite anotar directamente sobre el texto y responderse entre compañeras/os. Las anotaciones son la evidencia de que se hizo la lectura y alimentan la discusión: quien lidera la sesión las usa para preparar la guía. Las lecturas se anotan en el grupo privado del curso en Hypothesis ([enlace de invitación al grupo](https://hypothes.is/groups/87d89bJJ/sol3061)).
 
@@ -135,16 +136,16 @@ Se espera que las y los estudiantes asistan a la hora y participen activamente d
 
 ### Memo de preguntas de investigación (5%)
 
-Memo de **una página** con 2 o 3 preguntas de investigación candidatas, enmarcadas en la sociología del género. Para cada una, explica en una o dos frases por qué importa: qué problema, debate o vacío aborda. No se requiere un diseño de investigación. Se entrega a más tardar el **28 de octubre a las 23:59 por Canvas**. Se evalúa como completo o incompleto, y la profesora entrega una retroalimentación breve para ayudar a elegir y afinar la pregunta.
+Memo de **una página** con 2 o 3 preguntas de investigación candidatas, enmarcadas en la sociología del género. Para cada una, explica en una o dos frases por qué importa: qué problema, debate o vacío aborda. No se requiere un diseño de investigación. Se entrega a más tardar el **viernes 23 de octubre a las 23:59 por Canvas**. Se evalúa como completo o incompleto, y la profesora entrega una retroalimentación breve para ayudar a elegir y afinar la pregunta.
 
 ### Mapa crítico de literatura y comentario a un par (20%)
 
 El mapa crítico es una revisión de literatura breve y analítica que busca responder: ¿cómo conversa tu pregunta con lo que ya sabemos, y qué aporta que aún no está respondido? Combina lecturas del curso con literatura nueva específica a tu pregunta. Contiene:
 
-1.  **Tabla de 6 a 8 trabajos** con: la pregunta que abordan, datos y métodos, hallazgo principal, y el supuesto o limitación que ves.
+1.  **Tabla de al menos 6 trabajos (idealmente hasta 8)** con: la pregunta que abordan, datos y métodos, hallazgo principal, y el supuesto o limitación que ves.
 2.  **Análisis crítico (máximo 2 páginas):** cómo conversan estos estudios entre sí (acuerdos, tensiones, supuestos que comparten), qué falta, y cómo tu pregunta, ya afinada, contribuye. La contribución debe ser concreta: por ejemplo, llenar un vacío empírico o de contexto, resolver una tensión entre estudios, extender una teoría a un caso nuevo, o cuestionar un supuesto o una medición. Una plantilla útil: *"Los estudios A y B encuentran o asumen X, pero no explican Y; responder [mi pregunta] permite Z."* No basta con que la pregunta sea interesante: debes argumentar por qué importa.
 
-Se entrega el **viernes 13 de noviembre a las 23:59 por Canvas**. A cada estudiante la profesora le asigna el mapa de otra persona del curso, al que debe responder con un **comentario escrito de máximo una página**, a más tardar el **martes 17 de noviembre a las 23:59**: qué le pareció más sólido, qué vacíos o supuestos ve, y qué literatura podría dialogar con la pregunta. De este componente, 15% corresponde al mapa y 5% al comentario.
+Se entrega el **viernes 6 de noviembre a las 23:59 por Canvas**. A cada estudiante la profesora le asigna el mapa de otra persona del curso, al que debe responder con un **comentario escrito de máximo una página**, a más tardar el **viernes 13 de noviembre a las 23:59**, antes del mini-congreso: qué le pareció más sólido, qué vacíos o supuestos ve, y qué literatura podría dialogar con la pregunta. De este componente, 15% corresponde al mapa y 5% al comentario.
 
 ### Mini-congreso (10%)
 
@@ -155,14 +156,14 @@ Cada estudiante presenta su proyecto para recibir retroalimentación del resto d
 
 ### Mini propuesta de investigación (25%)
 
-La mini propuesta es la versión final del proyecto. Debe incorporar la revisión crítica de la literatura y la retroalimentación recibida en el mapa y en el mini-congreso. Tiene una **extensión aproximada de 5 páginas, y no puede superar las 6** (Times New Roman o similar, interlineado 1.15), sin considerar bibliografía ni tablas o figuras. El énfasis está en la pregunta y en su contribución; el diseño de investigación debe ocupar menos espacio que el resto. La estructura sugerida es la siguiente:
+La mini propuesta es la versión final del proyecto. Debe incorporar la revisión crítica de la literatura y la retroalimentación recibida en el mapa y en el mini-congreso. Tiene una **extensión aproximada de 5 a 6 páginas, y no puede superar las 6** (Times New Roman o similar, interlineado 1.15), sin considerar bibliografía ni tablas o figuras. El énfasis está en la pregunta y en su contribución: la revisión de la literatura es la parte más extensa, y el diseño de investigación ocupa menos espacio que el resto. La estructura sugerida es la siguiente:
 
-1.  **Introducción y pregunta de investigación** (aprox. 1 página): cuál es el problema y por qué es importante.
-2.  **Revisión crítica de la literatura y contribución** (aprox. 2 a 3 páginas): el centro del documento. La contribución de la pregunta debe quedar clara.
-3.  **Diseño de la investigación** (aprox. 1 página, de forma esquemática): datos, métodos, variables o medidas clave, y posibles limitaciones.
+1.  **Introducción y pregunta de investigación** (aprox. 1 página): aspectos de contexto que muestren por qué la pregunta es importante, incluyendo su relevancia para la política pública u otro ámbito aplicado, y algún gancho que motive el problema. Termina con la pregunta de investigación.
+2.  **Revisión crítica de la literatura y contribución** (aprox. 3 páginas): el centro del documento. La contribución de la pregunta debe quedar clara.
+3.  **Diseño de la investigación y limitaciones** (aprox. 1 a 1.5 páginas, de forma esquemática): datos, métodos, variables o medidas clave, y limitaciones tanto teóricas como prácticas.
 4.  **Carta de cambios** (**máximo media página**, al final del documento, no cuenta en la extensión): qué cambió desde el mapa crítico y por qué.
 
-Se entrega el **4 de diciembre a las 23:59 por Canvas**.
+Se entrega el **viernes 4 de diciembre a las 23:59 por Canvas**.
 
 ## Políticas del curso
 
@@ -202,18 +203,19 @@ Las peticiones de re-corrección deberán hacerse por escrito a la profesora y s
 | 1 | 7-Oct | Introducción al curso <br> ¿Por qué una sociología del género? | — | — |
 | 2 | 14-Oct | El nivel micro: el cuerpo y las identidades. |  |  |
 | 3 | 21-Oct | Interacciones: cómo se produce y reproduce el género en las interacciones. |  |  |
-| 4 | 28-Oct | Instituciones generizadas (*gendered*) |  | Memo de preguntas de investigación |
+|  | 23-Oct | Entrega memo de preguntas |  | Memo de preguntas (23:59) |
+| 4 | 28-Oct | Instituciones generizadas (*gendered*) |  |  |
 |  | 2-Nov |  |  | Completar encuesta de evaluación temprana del curso |
 | 5 | 4-Nov | Sistema multinivel e interseccionalidad | 2 líderes: (1) multinivel, (2) interseccionalidad |  |
+|  | 6-Nov | Entrega mapa crítico de literatura |  | Mapa crítico (23:59) |
 | 6 | 11-Nov | Trabajo, mercado laboral, y familia | 2 líderes: se reparten las lecturas |  |
-|  | 13-Nov | Entrega mapa crítico de literatura |  | Mapa crítico (23:59) |
-|  | 17-Nov |  |  | Comentario al mapa de un par (23:59) |
+|  | 13-Nov | Entrega comentario al mapa de un par |  | Comentario al mapa (23:59) |
 | 7 | 18-Nov | Sexualidades <br> Mini-congreso (5 estudiantes) |  | Mini-congreso |
 | 8 | 25-Nov | Módulo 1: tema elegido por estudiantes. <br> Módulo 2: Mini-congreso (4 estudiantes) |  | Mini-congreso |
 |  | 4-Dic | Entrega mini propuesta |  | Mini propuesta (23:59) |
 
 ::: callout-note
-Las anotaciones en Hypothesis se entregan cada **martes previo a la clase, a las 23:59** (ver Evaluaciones).
+Las anotaciones en Hypothesis se entregan cada **martes previo a la clase, a las 23:59**. Las entregas del proyecto son los **viernes a las 23:59** (ver Evaluaciones).
 :::
 
 ------------------------------------------------------------------------
@@ -345,7 +347,7 @@ Deben elegir tres lecturas/video. Pueden ser todas del mismo tema o diferentes t
 
 | Dimensión | Ponderación | Descripción |
 |:--------------------------|:-----------:|:-----------------------------------|
-| Selección y precisión de la tabla | 25% | Los trabajos son pertinentes a la pregunta, y la tabla resume con precisión su pregunta, datos y métodos, hallazgo, y el supuesto o limitación. |
+| Selección y precisión de la tabla | 25% | Incluye al menos 6 trabajos pertinentes a la pregunta, y la tabla resume con precisión su pregunta, datos y métodos, hallazgo, y el supuesto o limitación. |
 | Análisis crítico: conversación entre estudios | 35% | Pone a los estudios a dialogar: identifica acuerdos, tensiones y supuestos compartidos, en lugar de resumirlos uno a uno. |
 | Vacío y contribución de la pregunta | 30% | Argumenta por qué la pregunta importa (no solo que es interesante) y qué aporta específicamente a la literatura. |
 | Claridad y formato | 10% | Coherencia, orden, extensión adecuada y escritura académica. |
@@ -372,8 +374,8 @@ Deben elegir tres lecturas/video. Pueden ser todas del mismo tema o diferentes t
 
 | Dimensión | Ponderación | Descripción |
 |:--------------------------|:-----------:|:-----------------------------------|
-| Pregunta de investigación | 20% | Pregunta clara, acotada, coherente y factible. |
+| Introducción y pregunta de investigación | 20% | El contexto y la relevancia (incluida la política pública u otro ámbito aplicado) muestran por qué la pregunta es importante, con un gancho que motiva el problema. La pregunta es clara, acotada y factible. |
 | Revisión crítica de la literatura y diálogo con el curso | 30% | Evalúa el análisis crítico, el diálogo con las lecturas del curso y con literatura específica del tema, más allá del resumen. |
 | Contribución y justificación de su importancia | 25% | Define claramente qué aporta la pregunta a la literatura y por qué es importante—relevancia teórica y práctica. |
-| Diseño de la investigación | 15% | Coherencia, de forma esquemática, entre pregunta, datos y métodos; limitaciones reconocidas. |
+| Diseño de la investigación y limitaciones | 15% | Coherencia, de forma esquemática, entre pregunta, datos y métodos; reconoce limitaciones teóricas y prácticas. |
 | Carta de cambios, claridad y presentación | 10% | Carta breve que explica qué cambió desde el mapa; organización, formato, redacción y referencias. |

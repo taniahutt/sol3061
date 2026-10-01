@@ -64,6 +64,7 @@ Este curso provee una comprensión introductoria del género como constructo soc
 ## Metodología
 
 -   Seminario/Discusión grupal de artículos
+-   Anotación social de las lecturas (Hypothesis)
 -   Informes de lectura
 -   Propuesta de proyecto de investigación final
 
@@ -79,7 +80,9 @@ Para las últimas tres entregas (pre-entrega, presentación oral y trabajo final
 
 | Componente                                 | Ponderación |
 |:-------------------------------------------|:-----------:|
-| Informes de lectura previos a la clase     |     30%     |
+| Anotación social previa a la clase (Hypothesis) |  10%   |
+| Informes de lectura previos a la clase     |     15%     |
+| Por definir                                |      5%     |
 | Liderazgo y guía de discusión grupal       |     10%     |
 | Participación activa en la clase           |     10%     |
 | Trabajo final: propuesta de investigación  |     35%     |
@@ -87,13 +90,37 @@ Para las últimas tres entregas (pre-entrega, presentación oral y trabajo final
 | Presentación oral propuesta de investigación |   10%     |
 | **Total**                                  |   **100%**  |
 
-### Informes de lectura previos a la clase (30%)
+### Anotación social previa a la clase (10%)
+
+Antes de cada clase, el curso lee en conjunto los textos obligatorios (marcados con **\*\***) usando [Hypothesis](https://web.hypothes.is), una herramienta que permite anotar directamente sobre el texto y responderse entre compañeras/os. Las anotaciones son la evidencia de que se hizo la lectura y alimentan la discusión: quien lidera la sesión las usa para preparar la guía. Las lecturas se anotan en el grupo privado del curso en Hypothesis [(enlace de invitación: por definir)](#).
+
+**Qué se pide.** Al menos **2 anotaciones por cada texto obligatorio**, publicadas en el grupo del curso **a más tardar el martes previo a la clase, a las 23:59**. Se recomienda anotar antes (idealmente el fin de semana): así quien lidera puede considerar sus aportes y el resto del curso alcanza a responderles.
+
+**Tipos de anotación.** Cada anotación debe ir anclada a un pasaje específico del texto y llevar una etiqueta (*tag*) que indique su tipo. Por cada texto obligatorio, al menos una de las anotaciones debe ser de alguno de estos tipos de reflexión:
+
+-   `#pregunta`: una pregunta genuina sobre el pasaje, que no tenga respuesta obvia en el mismo texto (no una duda de comprensión básica). Explica por qué te la haces.
+-   `#tensión`: un supuesto, limitación, contradicción o punto ciego del argumento, con la razón por la cual lo ves así.
+-   `#conexión`: relaciona el pasaje con otra lectura, concepto o teoría del curso.
+-   `#contexto`: aplica el pasaje a un caso de Chile o América Latina, o a evidencia empírica que conozcas.
+
+La otra anotación puede ser del mismo tipo o una **`#respuesta`** a una anotación de otra persona: puedes responder una pregunta, agregar evidencia, o plantear un desacuerdo fundamentado. **Cada semana, al menos una de tus anotaciones debe ser una respuesta a una compañera o compañero.** Las respuestas cuentan como anotaciones.
+
+**Calidad mínima para el check de "completo".** Cada anotación debe:
+
+1.  Estar anclada a un pasaje específico y publicada en el grupo del curso, con su etiqueta.
+2.  Tener al menos 2–3 oraciones, explicando qué observas y por qué.
+3.  Agregar algo propio: no es un resumen del pasaje, un simple subrayado, ni comentarios como "interesante" o "estoy de acuerdo".
+4.  Ser de autoría propia. La profesora podrá pedir que expliques tus anotaciones en clase.
+
+**Cómo se evalúa.** Cada semana (clases 2 a 8) se marca como *completa* o *incompleta*, según el cumplimiento de lo anterior. **Se exigen 5 de las 7 semanas**: pueden saltarse la semana en que lideran la discusión y una semana adicional. El puntaje corresponde a la proporción de semanas completas sobre las 5 exigidas, hasta un máximo de 100%. En la clase 8, se anotan las lecturas seleccionadas por el curso.
+
+### Informes de lectura previos a la clase (15%)
 
 El informe debe entregar una reflexión analítica de los textos obligatorios de cada semana, reflejando una lectura profunda. No debe ser un resumen de los textos. Por ejemplo, en el informe pueden abordar algunas de las preguntas guías de esa semana, conectar las lecturas a las teorías discutidas en clases, criticar posibles limitaciones o problemas, aplicar aspectos de las lecturas al contexto regional o nacional, o desarrollar nuevas preguntas que emerjan de los textos. También pueden realizar comparaciones con lecturas de semanas anteriores pero siempre poniendo el foco en las lecturas de esa semana. Se espera que cada informe aborde al menos dos de los textos asignados para esa semana.
 
 -   El informe tendrá una extensión **máxima** de 1.5 páginas, a espacio simple letra tamaño 11, y deberá ser enviado a más tardar el **día martes previo a clases, a las 11am por Canvas**.
 -   No hay informe para la primera clase.
--   La persona que lidera la discusión esa semana no debe escribir el informe y contará con los informes de los y las demás estudiantes para preparar la discusión.
+-   La persona que lidera la discusión esa semana no debe escribir el informe y contará con los informes y las anotaciones de los y las demás estudiantes para preparar la discusión.
 -   De los 6 informes a entregar en total, *pueden saltarse uno* y obtener la nota máxima.
 -   Cada semana la profesora entregará un breve feedback escrito a sus informes. La nota considerará el conjunto de informes entregados y se asignará al final del semestre.
 
@@ -199,8 +226,8 @@ Las peticiones de re-corrección deberán hacerse por escrito a la profesora y s
 
 ¿Qué es el género? ¿Cuál es la crítica feminista al conocimiento y a la sociología en general? ¿Cómo ha sido la evolución de la crítica feminista emergente a la disciplina de la sociología en EEUU? ¿Cómo informa esta crítica nuestro conocimiento de la disciplina y cómo ilumina el desarrollo de la investigación feminista en Latinoamérica?
 
--   \*\*Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia. **Páginas 21–46 solamente.**
--   Ferree, Myra Marx & Beth B. Hess. 1987. "Introduction," pages 9–30 in *Analyzing Gender: A Handbook of Social Science Research.*
+-   \*\*[Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia.](lecturas/C1/Risman_2021_pp21-46.pdf) **Páginas 21–46 solamente.**
+-   [Ferree, Myra Marx & Beth B. Hess. 1987.](lecturas/C1/Ferree_Hess_1987.pdf) "Introduction," pages 9–30 in *Analyzing Gender: A Handbook of Social Science Research.*
 -   Acker. 1992. "Gendered Institutions: From Sex Roles to Gendered Institutions." *Contemporary Sociology* 21, 5: 565–69.
 -   Valdés, Teresa. 2001. "Estudios de Género Para El Siglo XXI En América Latina." <https://bibliotecadigital.academia.cl/xmlui/bitstream/handle/123456789/2860/85-100.pdf?sequence=1&isAllowed=y>
 

@@ -224,7 +224,7 @@ Las anotaciones en Hypothesis se entregan cada **martes previo a la clase, a las
 
 ::: callout-note
 -   Las lecturas marcadas con **\*\*** son **lecturas mínimas**. Las demás son recomendadas pero opcionales. Se recomienda leerlas en el orden listado.
--   Todas las lecturas están disponibles en "Archivos" en **Canvas**.
+-   Todas las lecturas están disponibles en los link de esta lista al menos que se indique lo contrario.
 :::
 
 ### Clase 1: Introducción a la sociología del género {.unnumbered}

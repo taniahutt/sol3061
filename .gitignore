@@ -1,0 +1,10 @@
+.DS_Store
+~$*
+_site/
+.quarto/
+*_files/
+
+# Material privado / de referencia, no se publica
+Gender GRAD/
+index_sol191_referencia.qmd
+PROGRAMA 2025-*.md

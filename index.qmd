@@ -1,0 +1,332 @@
+---
+title: "Sociología del Género"
+subtitle: "SOL3061 · Segundo Semestre 2025 (Segundo bimestre)"
+author:
+  - name: Tania Hutt
+    email: tania.hutt@uc.cl
+    affiliation: Pontificia Universidad Católica de Chile
+date: last-modified
+lang: es
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: "Contenidos"
+---
+
+::: callout-warning
+**El programa puede ser modificado o actualizado durante el semestre.** Por favor revisar este documento cada semana.
+:::
+
+------------------------------------------------------------------------
+
+## Información del curso
+
+|                |                                                  |
+|:---------------|:-------------------------------------------------|
+| **Sigla**      | SOL3061                                          |
+| **Semestre**   | Segundo semestre 2025 (Segundo bimestre)         |
+| **Créditos**   | 5                                                |
+| **Módulos**    | Miércoles 2 y 3 (9:40–12:10)                     |
+| **Requisitos** | —                                                |
+| **Carácter**   | Optativo de Profundización                       |
+| **Ubicación**  | Sala de Consejo ISUC (entrando a la derecha)     |
+
+**Profesora:** Tania Hutt · [tania.hutt\@uc.cl](mailto:tania.hutt@uc.cl) · [Agendar hora de oficina](https://calendly.com/taniahutt/horas-oficina)
+
+------------------------------------------------------------------------
+
+## Descripción
+
+Este curso provee una comprensión introductoria del género como constructo social y sistema social institucionalizado. Se examinarán teorías sociológicas fundamentales sobre la conceptualización del género con el foco en cómo las instituciones y estructuras sociales, interacciones entre individuos, y procesos individuales (re)producen desigualdad de género. A través del curso, se reflexionará sobre la interseccionalidad de género con otros ejes de desigualdad como clase social, raza/etnia, y orientación sexual. Se discutirá sobre la evidencia empírica internacional, sus limitaciones, y su aplicabilidad al contexto nacional.
+
+------------------------------------------------------------------------
+
+## Objetivos
+
+1.  Comprender la sociología del género como un ámbito transversal y fundamental a la investigación social en general.
+2.  Analizar y evaluar las teorías e investigaciones empíricas contemporáneas sobre desigualdad de género.
+3.  Aplicar perspectivas teóricas en diversos ámbitos de la vida social (familia, trabajo, entre otros que sean de interés de los estudiantes) y reflexionar sobre su relevancia para comprender y disminuir la desigualdad de género.
+4.  Desarrollar una propuesta de investigación relevante a la sociología del género, proponiendo metodologías pertinentes y adecuadas.
+
+------------------------------------------------------------------------
+
+## Temas del curso
+
+1.  Perspectivas teóricas de la sociología del género.
+2.  Género como sistema multinivel: procesos micro, meso, y macro.
+3.  Interseccionalidad con otros ejes de identidad y desigualdad: una herramienta analítica para comprender sistemas de estratificación complejos.
+4.  Género, trabajo, familia, sexualidades.
+5.  Tema de género a definir con lxs estudiantes.
+
+------------------------------------------------------------------------
+
+## Metodología
+
+-   Seminario/Discusión grupal de artículos
+-   Informes de lectura
+-   Propuesta de proyecto de investigación final
+
+El curso está organizado como un seminario. Esta metodología busca promover la discusión en torno a las preguntas que guían el tema de cada semana por lo que es **fundamental la asistencia a la hora, lectura y preparación previa a la clase**. Cada clase será liderada por uno/a o dos estudiantes quienes prepararán una guía de preguntas y discusión.
+
+------------------------------------------------------------------------
+
+## Evaluaciones
+
+::: callout-note
+Para las últimas tres entregas (pre-entrega, presentación oral y trabajo final), se sugiere revisar las [rúbricas de evaluación](#rúbricas-propuesta-de-investigación) incluidas más abajo.
+:::
+
+| Componente                                 | Ponderación |
+|:-------------------------------------------|:-----------:|
+| Informes de lectura previos a la clase     |     30%     |
+| Liderazgo y guía de discusión grupal       |     10%     |
+| Participación activa en la clase           |     10%     |
+| Trabajo final: propuesta de investigación  |     35%     |
+| Pre-entrega trabajo final                  |      5%     |
+| Presentación oral propuesta de investigación |   10%     |
+| **Total**                                  |   **100%**  |
+
+### Informes de lectura previos a la clase (30%)
+
+El informe debe entregar una reflexión analítica de los textos obligatorios de cada semana, reflejando una lectura profunda. No debe ser un resumen de los textos. Por ejemplo, en el informe pueden abordar algunas de las preguntas guías de esa semana, conectar las lecturas a las teorías discutidas en clases, criticar posibles limitaciones o problemas, aplicar aspectos de las lecturas al contexto regional o nacional, o desarrollar nuevas preguntas que emerjan de los textos. También pueden realizar comparaciones con lecturas de semanas anteriores pero siempre poniendo el foco en las lecturas de esa semana. Se espera que cada informe aborde al menos dos de los textos asignados para esa semana.
+
+-   El informe tendrá una extensión **máxima** de 1.5 páginas, a espacio simple letra tamaño 11, y deberá ser enviado a más tardar el **día martes previo a clases, a las 11am por Canvas**.
+-   No hay informe para la primera clase.
+-   La persona que lidera la discusión esa semana no debe escribir el informe y contará con los informes de los y las demás estudiantes para preparar la discusión.
+-   De los 6 informes a entregar en total, *pueden saltarse uno* y obtener la nota máxima.
+-   Cada semana la profesora entregará un breve feedback escrito a sus informes. La nota considerará el conjunto de informes entregados y se asignará al final del semestre.
+
+### Liderazgo y guía de discusión grupal (10%)
+
+Cada semana una o un estudiante tomará el rol de liderar la discusión. Esto considera la preparación de una guía o presentación corta con los temas y preguntas principales a ser discutidos durante la sesión así como incentivar el diálogo, discusión y reflexión entre estudiantes.
+
+### Participación activa en la clase (10%)
+
+Se espera que las y los estudiantes asistan a la hora y participen activamente de todas las clases, que vengan preparados con reflexiones y preguntas a partir de los textos leídos, y que participen activamente de la discusión grupal. Si van a faltar a una clase, les pido que por favor me avisen con anticipación.
+
+### Trabajo final: propuesta de investigación (35%)
+
+El trabajo final consiste en una propuesta de investigación respecto de algún tema de interés de la/el estudiante, enmarcado en la sociología del género. Esta propuesta debe incorporar teoría y literatura relevante a los contenidos revisados en clases, incorporando además nueva literatura específica al problema de investigación. Debe incorporar los elementos claves de una propuesta: una introducción al problema de interés, revisión de la literatura en la materia, preguntas que busca responder, y diseño de investigación que incluya una descripción detallada de los datos y métodos a utilizar.
+
+La propuesta debe ser sintética y debe tener una **extensión aproximada de 6–7 páginas, y no puede superar las 10 páginas** (Times New Roman o similar, espacio interlineado 1.15), sin considerar bibliografía ni tablas/figuras. La estructura sugerida es la siguiente:
+
+1.  **Introducción al problema y pregunta de investigación** (cuál es el problema y por qué es importante—relevancia teórica y práctica).
+2.  **Revisión de la literatura** (marco teórico y evidencia empírica a la fecha). La contribución de la propuesta debe quedar clara en esta sección.
+3.  **Diseño de la investigación** (hipótesis/preguntas de investigación, metodología, datos a utilizar, variables claves, y posibles limitaciones).
+
+### Pre-entrega trabajo final (5%)
+
+Cada estudiante deberá enviar un resumen de una página del problema que se abordará y la pregunta a responder a más tardar el **7 de noviembre**, de manera de evaluar la factibilidad del proyecto y dar retroalimentación a tiempo.
+
+### Presentación oral propuesta de investigación (10%)
+
+Durante la última clase, cada estudiante presentará su propuesta de investigación para recibir retroalimentación del resto del curso. Se espera que la presentación tenga los siguientes componentes: presentación del problema, contribución de la propuesta, pregunta de investigación, metodología, y limitaciones.
+
+-   Tiempo de presentación: entre 8 y 10 minutos.
+-   Tiempo para preguntas y feedback: 5 minutos.
+
+------------------------------------------------------------------------
+
+## Políticas del curso
+
+### Buenas prácticas
+
+1.  **Preparación antes de la clase:** lectura profunda y reflexiva de los materiales.
+2.  **Profesionalismo y compromiso:** la asistencia y puntualidad son fundamentales en este curso. El mayor aprendizaje ocurre en la sala de clases, cuando reflexionamos, aplicamos, y extendemos lo leído fuera de clases.
+3.  **Participación en clases:** para tener discusiones fructíferas, debemos escuchar de manera atenta y contribuir con nuestras ideas, preguntas y reflexiones. No debemos asumir que el resto sabe o piensa lo mismo que yo. Se espera que la sala de clases sea un lugar seguro para compartir nuestra opinión donde **siempre debe primar el respeto hacia las demás personas.**
+4.  **Reuniones con la profesora:** para reunirse conmigo por favor agendar en <https://calendly.com/taniahutt/horas-oficina> o por correo. Mi oficina está en el ISUC, es la número #32.
+
+### Integridad académica
+
+Las faltas a la Integridad Académica son definidas como "acciones de plagio, fraude y/o adulteración de documentación cometidas de forma individual o colectiva, que atenten contra los valores de honestidad, veracidad, confianza, justicia, respeto y responsabilidad, dentro del marco de actividades académicas". Toda falta a la integridad académica identificada por el equipo docente (profesora y ayudantes) será sancionada por parte de la profesora con la nota mínima en la evaluación afectada, evaluando medidas complementarias según sea el caso.
+
+Cuando se identifiquen estas faltas, la profesora informará a la Subdirección de Pregrado iniciando el protocolo de gestión de faltas que se dirime en el Comité de Facultad, el que registra el caso, decide sobre su gravedad y define otras medidas formativas complementarias.
+
+[Más detalles sobre la política y gestión de faltas aquí.](https://integridadacademica.uc.cl/gestion-de-faltas-a-la-integridad-academica/)
+
+### Justificación de inasistencias
+
+*Estudiantes de la Facultad de Ciencias Sociales:* sólo se aceptará como justificación de inasistencia a evaluaciones o no entrega oportuna de trabajos las siguientes causas: motivos de salud y otros de índole personal, social o de fuerza mayor como el fallecimiento de un familiar cercano, actividades religiosas, etc., todas ellas debidamente acreditadas en el [portal de la Facultad](https://uccl0-my.sharepoint.com/personal/carlos_reyes_uc_cl/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcarlos%5Freyes%5Fuc%5Fcl%2FDocuments%2F4%20Archives%2F%24%24%20WORK%20ARCHIVES%2FNueva%20web%20Sociales%20UC%20PROJ%2FNueva%20web%2FSistema%20de%20Justificaci%C3%B3n%20Inasistencia%2Epdf&parent=%2Fpersonal%2Fcarlos%5Freyes%5Fuc%5Fcl%2FDocuments%2F4%20Archives%2F%24%24%20WORK%20ARCHIVES%2FNueva%20web%20Sociales%20UC%20PROJ%2FNueva%20web&ga=1).
+
+En un plazo máximo de 3 días hábiles debe ingresar la información solicitada a partir de lo cual se evaluará la aceptación o no de la justificación por parte del área de Asuntos Estudiantiles. La profesora no recibirá solicitudes por estos motivos, aunque se recomienda que se le envíe un correo informándole de la situación.
+
+*Estudiantes de otras Facultades:* seguir las normas de justificación de sus unidades académicas, y hacer llegar el justificativo oficial a los profesores en un máximo de 10 días hábiles posteriores a la evaluación.
+
+### Solicitudes de re-corrección
+
+Las peticiones de re-corrección deberán hacerse por escrito a la profesora y ser solicitadas en un plazo máximo de 5 días hábiles desde la entrega de las correcciones. Las solicitudes tendrán que estar debidamente fundamentadas por el/la estudiante.
+
+------------------------------------------------------------------------
+
+## Calendarización
+
+| Clase | Fecha | Tema | Líder discusión | Entregas |
+|:---:|:---:|:---|:---:|:---|
+| 1 | 8-Oct | Introducción al curso <br> ¿Por qué una sociología del género? | — | — |
+| 2 | 15-Oct | El nivel micro: el cuerpo y las identidades. | Isidora | Informe lectura 1 |
+| 3 | 22-Oct | Interacciones: cómo se produce y reproduce el género en las interacciones. | Juan | Informe lectura 2 |
+| 4 | 29-Oct | Instituciones generizadas (*gendered*) | Christian | Informe lectura 3 |
+|  | 3-Nov |  |  | Completar encuesta de evaluación temprana del curso |
+| 5 | 5-Nov | Sistema multinivel e interseccionalidad | Conzuelo | Informe lectura 4 |
+|  | 7-Nov | Pre-entrega final |  | Entrega de idea propuesta investigación |
+| 6 | 12-Nov | Trabajo, mercado laboral, y familia | Susana | Informe lectura 5 |
+| 7 | 19-Nov | Sexualidades <br> Presentación propuesta Christian | Gisella | Informe lectura 6 |
+| 8 | 26-Nov | **Cambio de horario: 11:00 a 13:30.** <br> Módulo 1: tema elegido por estudiantes. <br> Módulo 2: Presentaciones propuestas de investigación |  | Informe de lectura 7 |
+|  | 5-Dic | Entrega trabajo final |  | Entrega trabajo final |
+
+------------------------------------------------------------------------
+
+## Bibliografía
+
+::: callout-note
+-   Las lecturas marcadas con **\*\*** son **lecturas mínimas**. Las demás son recomendadas pero opcionales. Se recomienda leerlas en el orden listado.
+-   Todas las lecturas están disponibles en "Archivos" en **Canvas**.
+:::
+
+### Clase 1: Introducción a la sociología del género {.unnumbered}
+
+*(No hay informe de lectura)*
+
+¿Qué es el género? ¿Cuál es la crítica feminista al conocimiento y a la sociología en general? ¿Cómo ha sido la evolución de la crítica feminista emergente a la disciplina de la sociología en EEUU? ¿Cómo informa esta crítica nuestro conocimiento de la disciplina y cómo ilumina el desarrollo de la investigación feminista en Latinoamérica?
+
+-   \*\*Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia. **Páginas 21–46 solamente.**
+-   Ferree, Myra Marx & Beth B. Hess. 1987. "Introduction," pages 9–30 in *Analyzing Gender: A Handbook of Social Science Research.*
+-   Acker. 1992. "Gendered Institutions: From Sex Roles to Gendered Institutions." *Contemporary Sociology* 21, 5: 565–69.
+-   Valdés, Teresa. 2001. "Estudios de Género Para El Siglo XXI En América Latina." <https://bibliotecadigital.academia.cl/xmlui/bitstream/handle/123456789/2860/85-100.pdf?sequence=1&isAllowed=y>
+
+### Clase 2: Género a nivel micro: individuos e ideas {.unnumbered}
+
+¿Cuál es la relación entre "lo social" y "lo natural" en la formación del género? ¿Cómo se plantean los argumentos sobre rasgos "masculinos" (violencia, competitividad) como naturales o sociales? ¿Cómo influyen nuestras comprensiones sociales sobre el género en cómo percibimos e interpretamos el cuerpo? ¿Cómo han influido las concepciones feministas del cuerpo en sus comprensiones de la sexualidad? ¿Cuál es el rol de la socialización en el género como estructura social?
+
+-   \*\*Martin, Karin A. 1998. "Becoming a Gendered Body: Practices of Preschools." *American Sociological Review* 63(4): 494–511.
+-   \*\*Willer, Robb, Cristabel Rogalin, Bridget Conlon and Michael T. Wojnowicz. 2013. "Overdoing Gender: A Test of the Masculine Overcompensation Thesis." *American Journal of Sociology* 118: 980–1022.
+-   \*\*Human Rights Watch. 2018. Acabar con la alteración intersexual. <https://www.hrw.org/es/world-report/2018/country-chapters/313454>
+-   Connell — "The Question of Gender," pp. 9–18.
+-   Folbre, Nancy. 1993. "Micro, Macro, Choice, and Structure," y respuestas de otras autoras, pp. 323–342 en *Theory on Gender. Feminism on Theory.*
+-   Martin, Karin A. 2009. "Normalizing Heterosexuality: Mothers' Assumptions, Talk, and Strategies with Young Children." *American Sociological Review* 74(2): 190–207.
+
+### Clase 3: Género a nivel meso: interacciones {.unnumbered}
+
+¿Cómo afecta el género como estatus social lo que sucede en las interacciones entre personas? ¿Por qué algunos autores consideran que la interacción es especialmente importante para mantener la desigualdad de género en comparación con la desigualdad basada en raza o clase? ¿Cómo afecta lo que sucede en la interacción tanto a las diferencias de género como a la desigualdad de género? ¿Por qué un enfoque interactivo es un enfoque situacional? ¿En qué se diferencia este enfoque de una perspectiva de roles de género?
+
+-   \*\*Ridgeway, Cecilia L. & Shelley J. Correll. 2004. "Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations." *Gender & Society* 18(4): 510–531.
+-   \*\*Rudman, Laurie A., Corinne A. Moss-Racusin, Julie E. Phelan and Sanne Nauts. 2012. "Status Incongruity and Backlash Effects: Defending the Gender Hierarchy Motivates Prejudice against Female Leaders." *Journal of Experimental Social Psychology* 48: 165–179.
+-   Schilt, Kristen. 2011. *Just One of the Guys?: Transgender Men and the Persistence of Gender Inequality*. Chicago, IL: University of Chicago Press.
+-   Westbrook, Laurel, and Kristen Schilt. 2014. "Doing Gender, Determining Gender: Transgender People, Gender Panics, and the Maintenance of the Sex/Gender/Sexuality System." *Gender & Society* 28(1): 32–57.
+-   Schilt, Kristen, and Laurel Westbrook. 2011. "Gender Normals, Transgender People, and the Social Maintenance of Heterosexuality." *Gender & Society* 23(4): 440–464. \[Aviso: este artículo incluye contenido sensible sobre violencia\].
+-   Chavez, Koji and Adia Harvey Wingfield. 2018. "Racializing Gendered Interactions." In *The Handbook of the Sociology of Gender*, edited by B. Risman, C. Froyum, and W. Scarborough. New York: Springer Science + Business Media.
+-   Correll, Shelley J., Sarah Thebaud, & Stephen Benard. 2007. "Introduction to the Social Psychology of Gender." Pages 1–18 in *Advances in Group Processes: Social Psychology of Gender*, edited by Shelley J. Correll. Elsevier.
+
+### Clase 4: Género a nivel macro: estructura e instituciones {.unnumbered}
+
+¿Cómo se inscribe el género en la acción de organizaciones e instituciones que parecen "impersonales" (el estado, la empresa, la economía)? ¿Cómo afectan las estructuras macro a las identidades micro?
+
+-   \*\*Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.
+-   \*\*Crocco-Valdivia, Alejandra Andrea, and Caterine Galaz-Valderrama. 2023. "Mujeres en la academia: Exploración de una organización generizada a partir de una revisión sistemática." *Estudios Pedagógicos (Valdivia)* 49(2): 439–454.
+-   \*\*Hook, Jennifer L. 2006. "Care in Context: Men's Unpaid Work in 20 Countries, 1965–2003." *American Sociological Review* 71(4): 639–660.
+-   Schilt, Kristen, and Laurel Westbrook. 2015. "Bathroom Battlegrounds and Penis Panics." *Contexts* 14(3): 26–31.
+-   Blofield, Merike, and Juliana Martínez. 2014. "Trabajo, Familia y Cambios En La Política Pública En América Latina: Equidad, Maternalismo y Corresponsabilidad."
+-   Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533.
+
+### Clase 5: Sistema multinivel e interseccionalidad {.unnumbered}
+
+¿A qué nos referimos cuando hablamos del "sistema de género"? ¿Cuál es la perspectiva multinivel al estudio del género? ¿Cómo el sistema multinivel nos puede ayudar a entender la desigualdad de género en la sociedad? ¿Qué es la interseccionalidad? ¿Podemos hablar de "hombres" y "mujeres" como categorías abstractas, sin clase ni racialización? Pensando en la preocupación de la sociología por la estratificación y la desigualdad, ¿cómo podemos usar el género para cuestionar y reformular las nociones subyacentes de lo que es la desigualdad y cómo opera? ¿Cómo podemos aplicar el marco de la interseccionalidad a otras categorías de opresión y desventaja?
+
+-   \*\*Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia. **Páginas 47–69 solamente. Este es obligatorio para el informe.**
+-   \*\*Viveros Vigoya, Mara. 2016. "La interseccionalidad: una aproximación situada a la dominación." *Debate Feminista* 52: 1–17.
+-   \*\*Cech, Erin A. 2022. "The Intersectional Privilege of White Able-Bodied Heterosexual Men in STEM." *Science Advances* 8(24): eabo1558 (páginas 1–9).
+-   Carneiro, Sueli. 2005. "Ennegrecer el feminismo: la situación de la mujer negra en América Latina desde una perspectiva de género." *Nouvelles Questions Féministes* 24(2): 21–26. Traducción al español disponible en Canvas (5 páginas).
+-   Hill Collins, Patricia, and Sirma Bilge. 2020. *Intersectionality*. Second edition. Cambridge, Medford, Mass: Polity Press.
+-   Bidaseca, Karina, Sofía Ballesteros, Mariana Katz, y Margarita Jarque. 2016. "Cuerpos racializados, opresiones múltiples. Ser mujer, indígena y migrante ante la justicia." Pp. 317–332 en *Feminismos y Poscolonialidad 2*, editado por Karina Bidaseca. Buenos Aires: Ediciones Godot.
+-   Hill Collins, Patricia. 2015. "Intersectionality's Definitional Dilemmas." *Annual Review of Sociology* 41(1): 1–20.
+-   Ridgeway, Cecilia L., and Tamar Kricheli-Katz. 2013. "Intersecting Cultural Beliefs in Social Relations: Gender, Race, and Class Binds and Freedoms." *Gender & Society* 27(3): 294–318.
+
+### Clase 6: Trabajo, mercado laboral, y familia {.unnumbered}
+
+¿Cómo y en qué medida contribuye la (des)igualdad de género fuera de la vida familiar a los procesos dentro de las familias, y viceversa? ¿De qué manera se ha estancado el progreso hacia la igualdad de género y por qué? ¿Por qué el mercado laboral sigue estando segregado por género? ¿Por qué persiste la brecha de género en los salarios?
+
+-   \*\*Villanueva, Aida, and Ken-Hou Lin. "Motherhood Wage Penalties in Latin America: The Significance of Labor Informality." *Social Forces.*
+-   \*\*Rivera, Lauren A., and András Tilcsik. 2016. "Class Advantage, Commitment Penalty: The Gendered Effect of Social Class Signals in an Elite Labor Market." *American Sociological Review* 81(6): 1097–1131.
+-   \*\*Undurraga, Rosario. 2019. "Who Will Get the Job? Hiring Practices and Inequalities in the Chilean Labour Market." *Bulletin of Latin American Research* 38(5): 575–590.
+-   Armijo, Lorena et al. 2021. "Agencia Individual y Colectiva En Dirigentas Sindicales de La Industria de La Minería En Chile: Un Análisis Articulando Perspectiva de Las Capacidades y Género." *Izquierdas* 50.
+-   Daminger, Allison. 2019. "The Cognitive Dimension of Household Labor." *American Sociological Review* 84(4): 609–633.
+-   Cabello-Hutt, Tania. 2020. "Changes in Work and Care Trajectories during the Transition to Motherhood." *Social Science Research* 90: 102439.
+-   Correll, Shelley J., Stephen Benard and In Paik. 2007. "Getting a Job: Is There a Motherhood Penalty?" *American Journal of Sociology* 112: 1297–1338.
+
+### Clase 7: Sexualidad {.unnumbered}
+
+¿Cómo podemos aplicar el modelo multinivel al estudio de la sexualidad? ¿Qué desigualdades de género existen entre la sexualidad de hombres y mujeres cis? ¿Cuáles han sido algunas contribuciones de los estudios enfocados en poblaciones LGBTQ para nuestra comprensión del género y la sexualidad?
+
+-   \*\*Benavente, M. Cristina y Claudia Vergara. 2006. *Sexualidad en Hombres y Mujeres. Diversidad de miradas* (pp. 25–50).
+-   \*\*Pfeffer, Carla A. 2014. "'I Don't Like Passing as a Straight Woman': Queer Negotiations of Identity and Social Group Membership." *American Journal of Sociology* 120(1): 1–44.
+-   \*\*Miller, Sarah A. 2016. "'How You Bully a Girl': Sexual Drama and the Negotiation of Gendered Sexuality in High School." *Gender & Society* 30(5): 721–744.
+-   Rostagnol, Susana. 2014. *Aborto voluntario y relaciones de género: políticas del cuerpo y de la reproducción* (pp. 33–56 y 107–146).
+-   Ahlm, Jody. 2017. "Respectable Promiscuity: Digital Cruising in an Era of Queer Liberalism." *Sexualities* 20(3): 364–379.
+
+### Clase 8: Resistencias políticas a la igualdad de género (tema elegido por estudiantes) {.unnumbered}
+
+Deben elegir tres lecturas/video. Pueden ser todas del mismo tema o diferentes temas, lo que ustedes prefieran. Pueden incorporar otros recursos también.
+
+**Resistencias en general**
+
+1.  Butler, Judith. 2025. *Who's Afraid of Gender?* Toronto: Vintage Canada. \
+    Entrevista a Butler sobre su libro: <https://www.youtube.com/watch?v=ChLv2wK0Eqs>
+2.  Zaremberg, Gisela, Constanza Tabbush, and Elisabeth Jay Friedman. 2021. "Feminism(s) and Anti-Gender Backlash: Lessons from Latin America." *International Feminist Journal of Politics* 23(4): 527–534. doi:[10.1080/14616742.2021.1956093](https://doi.org/10.1080/14616742.2021.1956093).
+
+**Casos en Chile**
+
+1.  Stutzin, Valentina, and Lelya Troncoso. 2019. "La agenda heteropatriarcal en Chile: Cruces entre política, moral y religión contra la 'ideología de género.'" *Nomadías* (28): 9–41.
+2.  "Profesor Álvaro Ferrer y la ideología de género: Chile 'se está cayendo a pedazos.'" Consultado el 14 de noviembre de 2025. <https://derecho.uc.cl/en/noticias/derecho-uc-en-los-medios/14609-profesor-alvaro-ferrer-y-la-ideologia-de-genero>
+3.  Zanotti, Lisa. 2025. "El auge de la ultraderecha y la encrucijada de la derecha convencional en Chile ad portas de las elecciones de 2025." <https://www.ciperchile.cl/2025/11/10/el-auge-de-la-ultraderecha-y-la-encrucijada-de-la-derecha-convencional-en-chile-ad-portas-de-las-elecciones-de-2025-2/>
+
+*Caso Atala en Chile*
+
+1.  Reportajes Reparando Derechos. Consultado el 14 de noviembre de 2025. <https://www.corteidh.or.cr/tablas/reparando-derechos/Caso-Karen-Atala-Riffo.html>
+2.  Fallo Atala – Iguales. Consultado el 14 de noviembre de 2025. <https://iguales.cl/incidencia-politica/fallo-atala/>
+
+**Manósfera (*Manosphere*) y misoginia**
+
+1.  Perliger, Arie, Catherine Stevens, and Eviane Leidig. 2024. "Mapping the Ideological Landscape of Extreme Misogyny."
+2.  Rothermel, Ann-Kathrin. 2023. "The Role of Evidence-Based Misogyny in Antifeminist Online Communities of the 'Manosphere.'" *Big Data & Society* 10(1): 20539517221145671.
+3.  "Online misogyny: the 'manosphere'." CMHR. Consultado el 14 de noviembre de 2025. <https://humanrights.ca/story/online-misogyny-manosphere>
+4.  Nicholas, Lucy, Sal Clark, Christine Agius, and Kay Cook. "Antifeminist, Manosphere and Right-Wing Extremist Sentiment among Men Who Use Domestic and Family Violence: Masculinism, Misinformation, and the Justificatory Logics of Violence." *NORMA* 0(0): 1–20.
+
+**Derechos sexuales y reproductivos**
+
+1.  Morán Faúndes, José Manuel. 2023. "La tercera ola neoconservadora en Latinoamérica: ofensivas contra los derechos sexuales y reproductivos." *Iztapalapa. Revista de Ciencias Sociales y Humanidades* 1(95): 349–376.
+2.  "Clear and Growing Evidence That Dobbs Is Harming Reproductive Health and Freedom." 2024. Guttmacher Institute. <https://www.guttmacher.org/2024/05/clear-and-growing-evidence-dobbs-harming-reproductive-health-and-freedom>
+3.  Zaremberg, Gisela, and Débora Rezende de Almeida. 2022. "Feminisms in Latin America: Pro-Choice Nested Networks in Mexico and Brazil." *Elements in Politics and Society in Latin America*.
+
+------------------------------------------------------------------------
+
+## Rúbricas Propuesta de Investigación
+
+### Idea de propuesta
+
+| Dimensión | Ponderación | Descripción |
+|:--------------------------|:-----------:|:-----------------------------------|
+| Claridad del problema y pregunta de investigación | 30% | Expone con precisión el fenómeno o problema a investigar y formula una pregunta clara, coherente y factible. |
+| Relevancia teórica y empírica del tema | 30% | Justifica por qué el tema importa para la sociología del género, mostrando conexión con conceptos o lecturas vistas en clase. |
+| Factibilidad metodológica inicial | 25% | Demuestra una idea viable respecto a posibles datos, métodos o alcance del estudio. |
+| Claridad y redacción | 15% | La propuesta es coherente, ordenada y sintética, con buena escritura académica. |
+
+### Presentación oral de propuesta
+
+| Dimensión | Ponderación | Descripción |
+|:--------------------------|:-----------:|:-----------------------------------|
+| Claridad y estructura de la presentación | 15% | Orden lógico: problema → contribución → pregunta → metodología → limitaciones. |
+| Relevancia y conexión con la sociología del género | 30% | Explica de forma explícita cómo el proyecto dialoga con teorías o debates relevantes a la sociología del género. |
+| Contribución y originalidad de la propuesta | 20% | Define claramente qué aporta el estudio al campo, cuál es el problema y por qué es importante—relevancia teórica y práctica. |
+| Uso del tiempo y apoyo visual | 15% | Presentación ajustada al tiempo, con apoyo visual claro y profesional. |
+| Comunicación oral y dominio del tema | 20% | Expone con seguridad, dominio conceptual y lenguaje claro; responde preguntas con claridad. |
+
+### Propuesta final
+
+| Dimensión | Ponderación | Descripción |
+|:--------------------------|:-----------:|:-----------------------------------|
+| Fundamentos teóricos-conceptuales y revisión de literatura | 30% | Evalúa la claridad del marco teórico, el diálogo con lecturas del curso y literatura específica del tema. |
+| Contribución y originalidad de la propuesta | 20% | Define claramente qué aporta el estudio al campo, cuál es el problema y por qué es importante—relevancia teórica y práctica. |
+| Calidad y coherencia de las preguntas, hipótesis y objetivos | 25% | Evalúa claridad, pertinencia y coherencia interna. |
+| Pertinencia y validez del diseño metodológico | 20% | Evalúa la coherencia entre diseño, preguntas y datos. |
+| Claridad y presentación general | 5% | Organización, formato, redacción y referencias. |

@@ -164,14 +164,14 @@ Las peticiones de re-corrección deberán hacerse por escrito a la profesora y s
 | Clase | Fecha | Tema | Líder discusión | Entregas |
 |:---:|:---:|:---|:---:|:---|
 | 1 | 7-Oct | Introducción al curso <br> ¿Por qué una sociología del género? | — | — |
-| 2 | 14-Oct | El nivel micro: el cuerpo y las identidades. | Isidora | Informe lectura 1 |
-| 3 | 21-Oct | Interacciones: cómo se produce y reproduce el género en las interacciones. | Juan | Informe lectura 2 |
-| 4 | 28-Oct | Instituciones generizadas (*gendered*) | Christian | Informe lectura 3 |
+| 2 | 14-Oct | El nivel micro: el cuerpo y las identidades. |  | Informe lectura 1 |
+| 3 | 21-Oct | Interacciones: cómo se produce y reproduce el género en las interacciones. |  | Informe lectura 2 |
+| 4 | 28-Oct | Instituciones generizadas (*gendered*) |  | Informe lectura 3 |
 |  | 2-Nov |  |  | Completar encuesta de evaluación temprana del curso |
-| 5 | 4-Nov | Sistema multinivel e interseccionalidad | Conzuelo | Informe lectura 4 |
+| 5 | 4-Nov | Sistema multinivel e interseccionalidad |  | Informe lectura 4 |
 |  | 6-Nov | Pre-entrega final |  | Entrega de idea propuesta investigación |
-| 6 | 11-Nov | Trabajo, mercado laboral, y familia | Susana | Informe lectura 5 |
-| 7 | 18-Nov | Sexualidades <br> Presentación propuesta Christian | Gisella | Informe lectura 6 |
+| 6 | 11-Nov | Trabajo, mercado laboral, y familia |  | Informe lectura 5 |
+| 7 | 18-Nov | Sexualidades |  | Informe lectura 6 |
 | 8 | 25-Nov | Módulo 1: tema elegido por estudiantes. <br> Módulo 2: Presentaciones propuestas de investigación |  | Informe de lectura 7 |
 |  | 4-Dic | Entrega trabajo final |  | Entrega trabajo final |
 

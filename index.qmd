@@ -92,7 +92,7 @@ Para las últimas tres entregas (pre-entrega, presentación oral y trabajo final
 
 ### Anotación social previa a la clase (10%)
 
-Antes de cada clase, el curso lee en conjunto los textos obligatorios (marcados con **\*\***) usando [Hypothesis](https://web.hypothes.is), una herramienta que permite anotar directamente sobre el texto y responderse entre compañeras/os. Las anotaciones son la evidencia de que se hizo la lectura y alimentan la discusión: quien lidera la sesión las usa para preparar la guía. Las lecturas se anotan en el grupo privado del curso en Hypothesis [(enlace de invitación: por definir)](#).
+Antes de cada clase, el curso lee en conjunto los textos obligatorios (marcados con **\*\***) usando [Hypothesis](https://web.hypothes.is), una herramienta que permite anotar directamente sobre el texto y responderse entre compañeras/os. Las anotaciones son la evidencia de que se hizo la lectura y alimentan la discusión: quien lidera la sesión las usa para preparar la guía. Las lecturas se anotan en el grupo privado del curso en Hypothesis ([enlace de invitación al grupo](https://hypothes.is/groups/87d89bJJ/sol3061)).
 
 **Qué se pide.** Al menos **2 anotaciones por cada texto obligatorio**, publicadas en el grupo del curso **a más tardar el martes previo a la clase, a las 23:59**. Se recomienda anotar antes (idealmente el fin de semana): así quien lidera puede considerar sus aportes y el resto del curso alcanza a responderles.
 

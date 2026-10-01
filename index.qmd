@@ -27,10 +27,10 @@ format:
 | **Sigla**      | SOL3061                                          |
 | **Semestre**   | Segundo semestre 2026 (Segundo bimestre)         |
 | **Créditos**   | 5                                                |
-| **Módulos**    | Miércoles 2 y 3 (9:40–12:10)                     |
+| **Módulos**    | Miércoles 3 y 4 (11:00–13:30)                     |
 | **Requisitos** | —                                                |
 | **Carácter**   | Optativo de Profundización                       |
-| **Ubicación**  | Sala de Consejo ISUC (entrando a la derecha)     |
+| **Ubicación**  | Sala de Magister ISUC     |
 
 **Profesora:** Tania Hutt · [tania.hutt\@uc.cl](mailto:tania.hutt@uc.cl) · [Agendar hora de oficina](https://calendly.com/taniahutt/horas-oficina)
 
@@ -89,15 +89,15 @@ Para el mapa crítico de literatura, el mini-congreso y la mini propuesta, se su
 | Mini propuesta de investigación                     |     25%     |
 | **Total**                                           |   **100%**  |
 
-El trabajo de investigación se desarrolla de manera escalonada (memo de preguntas → mapa crítico de literatura → mini-congreso → mini propuesta), de modo que la pregunta se va afinando a lo largo del semestre y la profesora puede dar retroalimentación en cada etapa.
+El trabajo de investigación se desarrolla de manera escalonada (memo de preguntas → mapa crítico de literatura → mini-congreso → mini propuesta), de modo que la pregunta se va afinando a lo largo del semestre y pueden recibir retroalimentación en cada etapa.
 
-**Las entregas del proyecto son siempre los viernes a las 23:59**, para que la noche del martes previo a la clase se dedique a leer y anotar los textos.
+**Las entregas del proyecto son siempre los viernes a las 23:59** y se suben a Canvas.
 
 ### Anotación social previa a la clase (15%)
 
 Antes de cada clase, el curso lee en conjunto los textos obligatorios (marcados con **\*\***) usando [Hypothesis](https://web.hypothes.is), una herramienta que permite anotar directamente sobre el texto y responderse entre compañeras/os. Las anotaciones son la evidencia de que se hizo la lectura y alimentan la discusión: quien lidera la sesión las usa para preparar la guía. Las lecturas se anotan en el grupo privado del curso en Hypothesis ([enlace de invitación al grupo](https://hypothes.is/groups/87d89bJJ/sol3061)).
 
-**Qué se pide.** Al menos **2 anotaciones por cada texto obligatorio**, publicadas en el grupo del curso **a más tardar el martes previo a la clase, a las 23:59**. Se recomienda anotar antes (idealmente el fin de semana): así quien lidera puede considerar sus aportes y el resto del curso alcanza a responderles.
+**Qué se pide.** Al menos **2 anotaciones por cada texto obligatorio**, publicadas en el grupo del curso **a más tardar el martes previo a la clase, a las 23:59**. Se recomienda anotar antes: así quien lidera puede considerar sus aportes y el resto del curso alcanza a responderles.
 
 **Tipos de anotación.** Cada anotación debe ir anclada a un pasaje específico del texto y llevar una etiqueta (*tag*) que indique su tipo:
 
@@ -113,20 +113,20 @@ Las anotaciones de un mismo texto **no pueden ser todas del mismo tipo**: usa al
 1.  Estar anclada a un pasaje específico y publicada en el grupo del curso, con su etiqueta.
 2.  Tener al menos 2–3 oraciones, explicando qué observas y por qué.
 3.  Agregar algo propio: no es un resumen del pasaje, un simple subrayado, ni comentarios como "interesante" o "estoy de acuerdo".
-4.  Ser de autoría propia. La profesora podrá pedir que expliques tus anotaciones en clase.
+4.  Ser de autoría propia. Durante la discusión se podrá pedir que expliquen o profundicen en sus anotaciones.
 
-**Cómo se evalúa.** Cada semana (clases 2 a 8) se marca como *completa* o *incompleta*, según el cumplimiento de lo anterior. **Se exigen 5 de las 7 semanas**: pueden saltarse la semana en que lideran la discusión y una semana adicional. El puntaje corresponde a la proporción de semanas completas sobre las 5 exigidas, hasta un máximo de 100%. En la clase 8, se anotan las lecturas seleccionadas por el curso.
+**Cómo se evalúa.** Cada semana (clases 1 a 8) se marca como *completa* o *incompleta*, según el cumplimiento de lo anterior (excepto la clase 1 que sólo pide 1 anotación). **Se exigen 6 de las 7 semanas**: pueden saltarse la semana en que lideran la discusión y una semana adicional.
 
 ### Liderazgo y guía de discusión grupal (15%)
 
 Cada semana una o un estudiante tomará el rol de liderar la discusión. Es la instancia principal para evaluar la comprensión crítica de las lecturas. El rol considera la preparación de una guía o presentación corta con los temas y preguntas principales a ser discutidos durante la sesión así como incentivar el diálogo, discusión y reflexión entre estudiantes.
 
-Hay 7 sesiones con liderazgo estudiantil (clases 2 a 8). Como el curso tiene 9 estudiantes, la mayoría de las sesiones será liderada por una persona y **las clases 5 y 6 serán lideradas por dos personas**:
+Como el curso tiene 9 estudiantes, la mayoría de las sesiones será liderada por una persona y **las clases 5 y 6 serán lideradas por dos personas**:
 
 -   **Clase 5:** una persona lidera la parte de *sistema multinivel* y la otra la de *interseccionalidad*.
 -   **Clase 6:** las dos personas se reparten las lecturas de la sesión y preparan la discusión en conjunto.
 
-Quienes lideran una sesión tendrán **lecturas obligatorias adicionales** a las de sus compañeros/as, que serán indicadas por la profesora. Las y los estudiantes se inscribirán en la sesión que quieran liderar durante la primera clase.
+Las y los estudiantes se inscribirán en la sesión que quieran liderar durante la primera clase.
 
 En las sesiones con dos líderes, cada persona debe indicar brevemente qué parte preparó y condujo; la nota es individual y considera la preparación de la guía y la conducción de la discusión.
 
@@ -142,21 +142,21 @@ Memo de **una página** con 2 o 3 preguntas de investigación candidatas, enmarc
 
 El mapa crítico es una revisión de literatura breve y analítica que busca responder: ¿cómo conversa tu pregunta con lo que ya sabemos, y qué aporta que aún no está respondido? Combina lecturas del curso con literatura nueva específica a tu pregunta. Contiene:
 
-1.  **Tabla de al menos 6 trabajos (idealmente hasta 8)** con: la pregunta que abordan, datos y métodos, hallazgo principal, y el supuesto o limitación que ves.
-2.  **Análisis crítico (máximo 2 páginas):** cómo conversan estos estudios entre sí (acuerdos, tensiones, supuestos que comparten), qué falta, y cómo tu pregunta, ya afinada, contribuye. La contribución debe ser concreta: por ejemplo, llenar un vacío empírico o de contexto, resolver una tensión entre estudios, extender una teoría a un caso nuevo, o cuestionar un supuesto o una medición. Una plantilla útil: *"Los estudios A y B encuentran o asumen X, pero no explican Y; responder [mi pregunta] permite Z."* No basta con que la pregunta sea interesante: debes argumentar por qué importa.
+1.  **Tabla de al menos 6 trabajos (idealmente 8)** con: la pregunta que abordan, datos y métodos, hallazgo principal, y el supuesto o limitación que ves.
+2.  **Análisis crítico (máximo 2 páginas):** cómo conversan estos estudios entre sí (acuerdos, tensiones, supuestos que comparten), qué falta, y cómo tu pregunta, ya afinada, contribuye. La contribución debe ser concreta: por ejemplo, llenar un vacío empírico, resolver una tensión entre estudios, extender una teoría a un caso nuevo, o cuestionar un supuesto o una medición. Ejemplos: *"Los estudios A y B encuentran o asumen X, pero no explican Y; responder [mi pregunta] permite Z."* *"Al responder mi pregunta X, va a cambiar lo que entendemos o sabemos sobre Y"* No basta con que la pregunta sea interesante: debes argumentar por qué importa.
 
 Se entrega el **viernes 6 de noviembre a las 23:59 por Canvas**. A cada estudiante la profesora le asigna el mapa de otra persona del curso, al que debe responder con un **comentario escrito de máximo una página**, a más tardar el **viernes 13 de noviembre a las 23:59**, antes del mini-congreso: qué le pareció más sólido, qué vacíos o supuestos ve, y qué literatura podría dialogar con la pregunta. De este componente, 15% corresponde al mapa y 5% al comentario.
 
 ### Mini-congreso (10%)
 
-Cada estudiante presenta su proyecto para recibir retroalimentación del resto del curso, en las dos últimas clases: **5 estudiantes el 18 de noviembre y 4 el 25 de noviembre**. La presentación incluye: la pregunta, la literatura y el vacío que identifica, la contribución de la pregunta, el diseño propuesto y sus limitaciones.
+Cada estudiante presenta su proyecto para recibir retroalimentación del resto del curso, en las dos últimas clases. La presentación incluye: la pregunta, la literatura y el vacío que identifica, la contribución de la pregunta, el diseño propuesto y sus limitaciones.
 
--   Tiempo de presentación: entre 8 y 10 minutos.
--   Tiempo para preguntas y feedback: 5 minutos.
+-   Tiempo de presentación: 6-7 minutos.
+-   Tiempo para preguntas y feedback: 3-4 minutos.
 
 ### Mini propuesta de investigación (25%)
 
-La mini propuesta es la versión final del proyecto. Debe incorporar la revisión crítica de la literatura y la retroalimentación recibida en el mapa y en el mini-congreso. Tiene una **extensión aproximada de 5 a 6 páginas, y no puede superar las 6** (Times New Roman o similar, interlineado 1.15), sin considerar bibliografía ni tablas o figuras. El énfasis está en la pregunta y en su contribución: la revisión de la literatura es la parte más extensa, y el diseño de investigación ocupa menos espacio que el resto. La estructura sugerida es la siguiente:
+La mini propuesta es la versión final del proyecto. Debe incorporar la revisión crítica de la literatura y la retroalimentación recibida en el mapa y en el mini-congreso. Tiene una **extensión aproximada de 5 a 6 páginas, y no puede superar las 6** (Times New Roman 12 o similar, interlineado 1.15), sin considerar bibliografía ni tablas o figuras. El énfasis está en la pregunta y en su contribución: la revisión de la literatura es la parte más extensa, y el diseño de investigación ocupa menos espacio que el resto. La estructura sugerida es la siguiente:
 
 1.  **Introducción y pregunta de investigación** (aprox. 1 página): aspectos de contexto que muestren por qué la pregunta es importante, incluyendo su relevancia para la política pública u otro ámbito aplicado, y algún gancho que motive el problema. Termina con la pregunta de investigación.
 2.  **Revisión crítica de la literatura y contribución** (aprox. 3 páginas): el centro del documento. La contribución de la pregunta debe quedar clara.

@@ -12,8 +12,10 @@ PROGRAMA 2025-*.md
 /.quarto/
 **/*.quarto_ipynb
 
-# Presentaciones de clase: se publican una vez que la clase ocurre
-# (para publicar una clase, borrar sus dos líneas y enlazarla en index.qmd)
+# Presentaciones de clase: NO se publican (ni sus notas de presentador).
+# Para publicar una clase después de que ocurra: ./publicar_clase.sh C1
+# (genera publicadas/C1_clase.html sin notas) y enlazarla en index.qmd.
+# No borrar estas líneas: el código fuente de las clases incluye las notas.
 clases/C1_clase.qmd
 clases/img/C1/
 clases/C2_clase.qmd

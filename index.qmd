@@ -22,15 +22,15 @@ format:
 
 ## Información del curso
 
-|                |                                                  |
-|:---------------|:-------------------------------------------------|
-| **Sigla**      | SOL3061                                          |
-| **Semestre**   | Segundo semestre 2026 (Segundo bimestre)         |
-| **Créditos**   | 5                                                |
-| **Módulos**    | Miércoles 3 y 4 (11:00–13:30)                     |
-| **Requisitos** | —                                                |
-| **Carácter**   | Optativo de Profundización                       |
-| **Ubicación**  | Sala de Magister ISUC     |
+|                |                                          |
+|:---------------|:-----------------------------------------|
+| **Sigla**      | SOL3061                                  |
+| **Semestre**   | Segundo semestre 2026 (Segundo bimestre) |
+| **Créditos**   | 5                                        |
+| **Módulos**    | Miércoles 3 y 4 (11:00–13:30)            |
+| **Requisitos** | —                                        |
+| **Carácter**   | Optativo de Profundización               |
+| **Ubicación**  | Sala de Magister ISUC                    |
 
 **Profesora:** Tania Hutt · [tania.hutt\@uc.cl](mailto:tania.hutt@uc.cl) · [Agendar hora de oficina](https://calendly.com/taniahutt/horas-oficina)
 
@@ -63,10 +63,10 @@ Este curso provee una comprensión introductoria del género como constructo soc
 
 ## Metodología
 
--   Seminario/Discusión grupal de artículos
--   Anotación social de las lecturas (Hypothesis)
--   Proyecto escalonado: de la pregunta de investigación a una mini propuesta
--   Mini-congreso con retroalimentación entre pares
+- Seminario/Discusión grupal de artículos
+- Anotación social de las lecturas (Hypothesis)
+- Proyecto escalonado: de la pregunta de investigación a una mini propuesta
+- Mini-congreso con retroalimentación entre pares
 
 El curso está organizado como un seminario. Esta metodología busca promover la discusión en torno a las preguntas que guían el tema de cada semana por lo que es **fundamental la asistencia a la hora, lectura y preparación previa a la clase**. Cada clase será liderada por uno/a o dos estudiantes quienes prepararán una guía de preguntas y discusión.
 
@@ -78,16 +78,16 @@ El curso está organizado como un seminario. Esta metodología busca promover la
 Para el mapa crítico de literatura, el mini-congreso y la mini propuesta, se sugiere revisar las [rúbricas de evaluación](#rúbricas-propuesta-de-investigación) incluidas más abajo.
 :::
 
-| Componente                                          | Ponderación |
-|:----------------------------------------------------|:-----------:|
-| Anotación social previa a la clase (Hypothesis)     |     15%     |
-| Liderazgo y guía de discusión grupal                |     15%     |
-| Participación activa en la clase                    |     10%     |
-| Memo de preguntas de investigación                  |      5%     |
-| Mapa crítico de literatura y comentario a un par    |     20%     |
-| Mini-congreso                                       |     10%     |
-| Mini propuesta de investigación                     |     25%     |
-| **Total**                                           |   **100%**  |
+| Componente                                       | Ponderación |
+|:-------------------------------------------------|:-----------:|
+| Anotación social previa a la clase (Hypothesis)  |     15%     |
+| Liderazgo y guía de discusión grupal             |     15%     |
+| Participación activa en la clase                 |     10%     |
+| Memo de preguntas de investigación               |     5%      |
+| Mapa crítico de literatura y comentario a un par |     20%     |
+| Mini-congreso                                    |     10%     |
+| Mini propuesta de investigación                  |     25%     |
+| **Total**                                        |  **100%**   |
 
 El trabajo de investigación se desarrolla de manera escalonada (memo de preguntas → mapa crítico de literatura → mini-congreso → mini propuesta), de modo que la pregunta se va afinando a lo largo del semestre y pueden recibir retroalimentación en cada etapa.
 
@@ -101,10 +101,10 @@ Antes de cada clase, el curso lee en conjunto los textos obligatorios (marcados 
 
 **Tipos de anotación.** Cada anotación debe ir anclada a un pasaje específico del texto y llevar una etiqueta (*tag*) que indique su tipo:
 
--   `pregunta`: una pregunta genuina sobre el pasaje, que no tenga respuesta obvia en el mismo texto (no una duda de comprensión básica). Explica por qué te la haces.
--   `crítica/tensión`: un supuesto, limitación, contradicción o punto ciego del argumento, con la razón por la cual lo ves así.
--   `conexión`: relaciona el pasaje con otra lectura, concepto o teoría del curso, o con un caso o evidencia que conozcas.
--   `respuesta`: respuesta a la anotación de otra persona, ya sea para contestar una pregunta, agregar evidencia o plantear un desacuerdo fundamentado.
+- `pregunta`: una pregunta genuina sobre el pasaje, que no tenga respuesta obvia en el mismo texto (no una duda de comprensión básica). Explica por qué te la haces.
+- `crítica/tensión`: un supuesto, limitación, contradicción o punto ciego del argumento, con la razón por la cual lo ves así.
+- `conexión`: relaciona el pasaje con otra lectura, concepto o teoría del curso, o con un caso o evidencia que conozcas.
+- `respuesta`: respuesta a la anotación de otra persona, ya sea para contestar una pregunta, agregar evidencia o plantear un desacuerdo fundamentado.
 
 Las anotaciones de un mismo texto **no pueden ser todas del mismo tipo**: usa al menos dos etiquetas distintas por texto.
 
@@ -123,8 +123,8 @@ Cada semana una o un estudiante tomará el rol de liderar la discusión. Es la i
 
 Como el curso tiene 9 estudiantes, la mayoría de las sesiones será liderada por una persona y **las clases 5 y 6 serán lideradas por dos personas**:
 
--   **Clase 5:** una persona lidera la parte de *sistema multinivel* y la otra la de *interseccionalidad*.
--   **Clase 6:** las dos personas se reparten las lecturas de la sesión y preparan la discusión en conjunto.
+- **Clase 5:** una persona lidera la parte de *sistema multinivel* y la otra la de *interseccionalidad*.
+- **Clase 6:** las dos personas se reparten las lecturas de la sesión y preparan la discusión en conjunto.
 
 Las y los estudiantes se inscribirán en la sesión que quieran liderar durante la primera clase.
 
@@ -143,7 +143,7 @@ Memo de **una página** con 2 o 3 preguntas de investigación candidatas, enmarc
 El mapa crítico es una revisión de literatura breve y analítica que busca responder: ¿cómo conversa tu pregunta con lo que ya sabemos, y qué aporta que aún no está respondido? Combina lecturas del curso con literatura nueva específica a tu pregunta. Contiene:
 
 1.  **Tabla de al menos 6 trabajos (idealmente 8)** con: la pregunta que abordan, datos y métodos, hallazgo principal, y el supuesto o limitación que ves.
-2.  **Análisis crítico (máximo 2 páginas):** cómo conversan estos estudios entre sí (acuerdos, tensiones, supuestos que comparten), qué falta, y cómo tu pregunta, ya afinada, contribuye. La contribución debe ser concreta: por ejemplo, llenar un vacío empírico, resolver una tensión entre estudios, extender una teoría a un caso nuevo, o cuestionar un supuesto o una medición. Ejemplos: *"Los estudios A y B encuentran o asumen X, pero no explican Y; responder [mi pregunta] permite Z."* *"Al responder mi pregunta X, va a cambiar lo que entendemos o sabemos sobre Y"* No basta con que la pregunta sea interesante: debes argumentar por qué importa.
+2.  **Análisis crítico (máximo 2 páginas):** cómo conversan estos estudios entre sí (acuerdos, tensiones, supuestos que comparten), qué falta, y cómo tu pregunta, ya afinada, contribuye. La contribución debe ser concreta: por ejemplo, llenar un vacío empírico, resolver una tensión entre estudios, extender una teoría a un caso nuevo, o cuestionar un supuesto o una medición. Ejemplos: *"Los estudios A y B encuentran o asumen X, pero no explican Y; responder \[mi pregunta\] permite Z."* *"Al responder mi pregunta X, va a cambiar lo que entendemos o sabemos sobre Y"* No basta con que la pregunta sea interesante: debes argumentar por qué importa.
 
 Se entrega el **viernes 6 de noviembre a las 23:59 por Canvas**. A cada estudiante la profesora le asigna el mapa de otra persona del curso, al que debe responder con un **comentario escrito de máximo una página**, a más tardar el **viernes 13 de noviembre a las 23:59**, antes del mini-congreso: qué le pareció más sólido, qué vacíos o supuestos ve, y qué literatura podría dialogar con la pregunta. De este componente, 15% corresponde al mapa y 5% al comentario.
 
@@ -151,8 +151,8 @@ Se entrega el **viernes 6 de noviembre a las 23:59 por Canvas**. A cada estudian
 
 Cada estudiante presenta su proyecto para recibir retroalimentación del resto del curso, en las dos últimas clases. La presentación incluye: la pregunta, la literatura y el vacío que identifica, la contribución de la pregunta, el diseño propuesto y sus limitaciones.
 
--   Tiempo de presentación: 6-7 minutos.
--   Tiempo para preguntas y feedback: 3-4 minutos.
+- Tiempo de presentación: 6-7 minutos.
+- Tiempo para preguntas y feedback: 3-4 minutos.
 
 ### Mini propuesta de investigación (25%)
 
@@ -199,7 +199,7 @@ Las peticiones de re-corrección deberán hacerse por escrito a la profesora y s
 ## Calendarización
 
 | Clase | Fecha | Tema | Líder discusión | Entregas |
-|:---:|:---:|:---|:---:|:---|
+|:-------------:|:-------------:|:--------------|:-------------:|:--------------|
 | 1 | 7-Oct | Introducción al curso <br> ¿Por qué una sociología del género? | — | — |
 | 2 | 14-Oct | El nivel micro: el cuerpo y las identidades. |  |  |
 | 3 | 21-Oct | Interacciones: cómo se produce y reproduce el género en las interacciones. |  |  |
@@ -223,87 +223,87 @@ Las anotaciones en Hypothesis se entregan cada **martes previo a la clase, a las
 ## Bibliografía
 
 ::: callout-note
--   Las lecturas marcadas con **\*\*** son **lecturas mínimas**. Las demás son recomendadas pero opcionales. Se recomienda leerlas en el orden listado.
--   Todas las lecturas están disponibles en los link de esta lista al menos que se indique lo contrario.
+- Las lecturas marcadas con **\*\*** son **lecturas mínimas**. Las demás son recomendadas pero opcionales. Se recomienda leerlas en el orden listado.
+- Todas las lecturas están disponibles en los link de esta lista al menos que se indique lo contrario.
 :::
 
 ### Clase 1: Introducción a la sociología del género {.unnumbered}
 
 ¿Qué es el género? ¿Cuál es la crítica feminista al conocimiento y a la sociología en general? ¿Cómo ha sido la evolución de la crítica feminista emergente a la disciplina de la sociología en EEUU? ¿Cómo informa esta crítica nuestro conocimiento de la disciplina y cómo ilumina el desarrollo de la investigación feminista en Latinoamérica?
 
--   \*\*[Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia.](lecturas/C1/Risman_2021_pp21-46.pdf) **Páginas 21–46 solamente.**
--   [Ferree, Myra Marx & Beth B. Hess. 1987.](lecturas/C1/Ferree_Hess_1987.pdf) "Introduction," pages 9–30 in *Analyzing Gender: A Handbook of Social Science Research.*
--   Acker. 1992. "Gendered Institutions: From Sex Roles to Gendered Institutions." *Contemporary Sociology* 21, 5: 565–69.
--   Valdés, Teresa. 2001. "Estudios de Género Para El Siglo XXI En América Latina." <https://bibliotecadigital.academia.cl/xmlui/bitstream/handle/123456789/2860/85-100.pdf?sequence=1&isAllowed=y>
+- \*\*[Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia.](lecturas/C1/Risman_2021_pp21-46.pdf) **Páginas 21–46 solamente.**
+- [Ferree, Myra Marx & Beth B. Hess. 1987.](lecturas/C1/Ferree_Hess_1987.pdf) "Introduction," pages 9–30 in *Analyzing Gender: A Handbook of Social Science Research.*
+- Acker. 1992. "Gendered Institutions: From Sex Roles to Gendered Institutions." *Contemporary Sociology* 21, 5: 565–69.
+- Valdés, Teresa. 2001. "Estudios de Género Para El Siglo XXI En América Latina." <https://bibliotecadigital.academia.cl/xmlui/bitstream/handle/123456789/2860/85-100.pdf?sequence=1&isAllowed=y>
 
 ### Clase 2: Género a nivel micro: individuos e ideas {.unnumbered}
 
 ¿Cuál es la relación entre "lo social" y "lo natural" en la formación del género? ¿Cómo se plantean los argumentos sobre rasgos "masculinos" (violencia, competitividad) como naturales o sociales? ¿Cómo influyen nuestras comprensiones sociales sobre el género en cómo percibimos e interpretamos el cuerpo? ¿Cómo han influido las concepciones feministas del cuerpo en sus comprensiones de la sexualidad? ¿Cuál es el rol de la socialización en el género como estructura social?
 
--   \*\*Martin, Karin A. 1998. "Becoming a Gendered Body: Practices of Preschools." *American Sociological Review* 63(4): 494–511.
--   \*\*Willer, Robb, Cristabel Rogalin, Bridget Conlon and Michael T. Wojnowicz. 2013. "Overdoing Gender: A Test of the Masculine Overcompensation Thesis." *American Journal of Sociology* 118: 980–1022.
--   \*\*Human Rights Watch. 2018. Acabar con la alteración intersexual. <https://www.hrw.org/es/world-report/2018/country-chapters/313454>
--   Connell — "The Question of Gender," pp. 9–18.
--   Folbre, Nancy. 1993. "Micro, Macro, Choice, and Structure," y respuestas de otras autoras, pp. 323–342 en *Theory on Gender. Feminism on Theory.*
--   Martin, Karin A. 2009. "Normalizing Heterosexuality: Mothers' Assumptions, Talk, and Strategies with Young Children." *American Sociological Review* 74(2): 190–207.
+- \*\*[Ridgeway, Cecilia L. and Aliya Saperstein. 2024. Diversifying Gender Categories and the Sex/Gender System. *Annual Review of Sociology* 50:385-405.](lecturas/C2/Ridgeway_Saperstein_2024_ARS.pdf)
+- \*\*[Martin, Karin A. 1998. "Becoming a Gendered Body: Practices of Preschools." *American Sociological Review* 63(4): 494–511.](lecturas/C2/Martin_1998_ASR.pdf)
+- \*\*Human Rights Watch. 2018. Acabar con la alteración intersexual. <https://www.hrw.org/es/world-report/2018/country-chapters/313454>
+- Connell — "The Question of Gender," pp. 9–18.
+- Folbre, Nancy. 1993. "Micro, Macro, Choice, and Structure," y respuestas de otras autoras, pp. 323–342 en *Theory on Gender. Feminism on Theory.*
+- Martin, Karin A. 2009. "Normalizing Heterosexuality: Mothers' Assumptions, Talk, and Strategies with Young Children." *American Sociological Review* 74(2): 190–207.
 
 ### Clase 3: Género a nivel meso: interacciones {.unnumbered}
 
 ¿Cómo afecta el género como estatus social lo que sucede en las interacciones entre personas? ¿Por qué algunos autores consideran que la interacción es especialmente importante para mantener la desigualdad de género en comparación con la desigualdad basada en raza o clase? ¿Cómo afecta lo que sucede en la interacción tanto a las diferencias de género como a la desigualdad de género? ¿Por qué un enfoque interactivo es un enfoque situacional? ¿En qué se diferencia este enfoque de una perspectiva de roles de género?
 
--   \*\*Ridgeway, Cecilia L. & Shelley J. Correll. 2004. "Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations." *Gender & Society* 18(4): 510–531.
--   \*\*Rudman, Laurie A., Corinne A. Moss-Racusin, Julie E. Phelan and Sanne Nauts. 2012. "Status Incongruity and Backlash Effects: Defending the Gender Hierarchy Motivates Prejudice against Female Leaders." *Journal of Experimental Social Psychology* 48: 165–179.
--   Schilt, Kristen. 2011. *Just One of the Guys?: Transgender Men and the Persistence of Gender Inequality*. Chicago, IL: University of Chicago Press.
--   Westbrook, Laurel, and Kristen Schilt. 2014. "Doing Gender, Determining Gender: Transgender People, Gender Panics, and the Maintenance of the Sex/Gender/Sexuality System." *Gender & Society* 28(1): 32–57.
--   Schilt, Kristen, and Laurel Westbrook. 2011. "Gender Normals, Transgender People, and the Social Maintenance of Heterosexuality." *Gender & Society* 23(4): 440–464. \[Aviso: este artículo incluye contenido sensible sobre violencia\].
--   Chavez, Koji and Adia Harvey Wingfield. 2018. "Racializing Gendered Interactions." In *The Handbook of the Sociology of Gender*, edited by B. Risman, C. Froyum, and W. Scarborough. New York: Springer Science + Business Media.
--   Correll, Shelley J., Sarah Thebaud, & Stephen Benard. 2007. "Introduction to the Social Psychology of Gender." Pages 1–18 in *Advances in Group Processes: Social Psychology of Gender*, edited by Shelley J. Correll. Elsevier.
+- \*\*Ridgeway, Cecilia L. & Shelley J. Correll. 2004. "Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations." *Gender & Society* 18(4): 510–531.
+- \*\*Rudman, Laurie A., Corinne A. Moss-Racusin, Julie E. Phelan and Sanne Nauts. 2012. "Status Incongruity and Backlash Effects: Defending the Gender Hierarchy Motivates Prejudice against Female Leaders." *Journal of Experimental Social Psychology* 48: 165–179.
+- Schilt, Kristen. 2011. *Just One of the Guys?: Transgender Men and the Persistence of Gender Inequality*. Chicago, IL: University of Chicago Press.
+- Westbrook, Laurel, and Kristen Schilt. 2014. "Doing Gender, Determining Gender: Transgender People, Gender Panics, and the Maintenance of the Sex/Gender/Sexuality System." *Gender & Society* 28(1): 32–57.
+- Schilt, Kristen, and Laurel Westbrook. 2011. "Gender Normals, Transgender People, and the Social Maintenance of Heterosexuality." *Gender & Society* 23(4): 440–464. \[Aviso: este artículo incluye contenido sensible sobre violencia\].
+- Chavez, Koji and Adia Harvey Wingfield. 2018. "Racializing Gendered Interactions." In *The Handbook of the Sociology of Gender*, edited by B. Risman, C. Froyum, and W. Scarborough. New York: Springer Science + Business Media.
+- Correll, Shelley J., Sarah Thebaud, & Stephen Benard. 2007. "Introduction to the Social Psychology of Gender." Pages 1–18 in *Advances in Group Processes: Social Psychology of Gender*, edited by Shelley J. Correll. Elsevier.
 
 ### Clase 4: Género a nivel macro: estructura e instituciones {.unnumbered}
 
 ¿Cómo se inscribe el género en la acción de organizaciones e instituciones que parecen "impersonales" (el estado, la empresa, la economía)? ¿Cómo afectan las estructuras macro a las identidades micro?
 
--   \*\*Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.
--   \*\*Crocco-Valdivia, Alejandra Andrea, and Caterine Galaz-Valderrama. 2023. "Mujeres en la academia: Exploración de una organización generizada a partir de una revisión sistemática." *Estudios Pedagógicos (Valdivia)* 49(2): 439–454.
--   \*\*Hook, Jennifer L. 2006. "Care in Context: Men's Unpaid Work in 20 Countries, 1965–2003." *American Sociological Review* 71(4): 639–660.
--   Schilt, Kristen, and Laurel Westbrook. 2015. "Bathroom Battlegrounds and Penis Panics." *Contexts* 14(3): 26–31.
--   Blofield, Merike, and Juliana Martínez. 2014. "Trabajo, Familia y Cambios En La Política Pública En América Latina: Equidad, Maternalismo y Corresponsabilidad."
--   Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533.
+- \*\*Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.
+- \*\*Crocco-Valdivia, Alejandra Andrea, and Caterine Galaz-Valderrama. 2023. "Mujeres en la academia: Exploración de una organización generizada a partir de una revisión sistemática." *Estudios Pedagógicos (Valdivia)* 49(2): 439–454.
+- \*\*Hook, Jennifer L. 2006. "Care in Context: Men's Unpaid Work in 20 Countries, 1965–2003." *American Sociological Review* 71(4): 639–660.
+- Schilt, Kristen, and Laurel Westbrook. 2015. "Bathroom Battlegrounds and Penis Panics." *Contexts* 14(3): 26–31.
+- Blofield, Merike, and Juliana Martínez. 2014. "Trabajo, Familia y Cambios En La Política Pública En América Latina: Equidad, Maternalismo y Corresponsabilidad."
+- Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533.
 
 ### Clase 5: Sistema multinivel e interseccionalidad {.unnumbered}
 
 ¿A qué nos referimos cuando hablamos del "sistema de género"? ¿Cuál es la perspectiva multinivel al estudio del género? ¿Cómo el sistema multinivel nos puede ayudar a entender la desigualdad de género en la sociedad? ¿Qué es la interseccionalidad? ¿Podemos hablar de "hombres" y "mujeres" como categorías abstractas, sin clase ni racialización? Pensando en la preocupación de la sociología por la estratificación y la desigualdad, ¿cómo podemos usar el género para cuestionar y reformular las nociones subyacentes de lo que es la desigualdad y cómo opera? ¿Cómo podemos aplicar el marco de la interseccionalidad a otras categorías de opresión y desventaja?
 
--   \*\*Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia. **Páginas 47–69 solamente.**
--   \*\*Viveros Vigoya, Mara. 2016. "La interseccionalidad: una aproximación situada a la dominación." *Debate Feminista* 52: 1–17.
--   \*\*Cech, Erin A. 2022. "The Intersectional Privilege of White Able-Bodied Heterosexual Men in STEM." *Science Advances* 8(24): eabo1558 (páginas 1–9).
--   Carneiro, Sueli. 2005. "Ennegrecer el feminismo: la situación de la mujer negra en América Latina desde una perspectiva de género." *Nouvelles Questions Féministes* 24(2): 21–26. Traducción al español disponible en Canvas (5 páginas).
--   Hill Collins, Patricia, and Sirma Bilge. 2020. *Intersectionality*. Second edition. Cambridge, Medford, Mass: Polity Press.
--   Bidaseca, Karina, Sofía Ballesteros, Mariana Katz, y Margarita Jarque. 2016. "Cuerpos racializados, opresiones múltiples. Ser mujer, indígena y migrante ante la justicia." Pp. 317–332 en *Feminismos y Poscolonialidad 2*, editado por Karina Bidaseca. Buenos Aires: Ediciones Godot.
--   Hill Collins, Patricia. 2015. "Intersectionality's Definitional Dilemmas." *Annual Review of Sociology* 41(1): 1–20.
--   Ridgeway, Cecilia L., and Tamar Kricheli-Katz. 2013. "Intersecting Cultural Beliefs in Social Relations: Gender, Race, and Class Binds and Freedoms." *Gender & Society* 27(3): 294–318.
+- \*\*Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia. **Páginas 47–69 solamente.**
+- \*\*Viveros Vigoya, Mara. 2016. "La interseccionalidad: una aproximación situada a la dominación." *Debate Feminista* 52: 1–17.
+- \*\*Cech, Erin A. 2022. "The Intersectional Privilege of White Able-Bodied Heterosexual Men in STEM." *Science Advances* 8(24): eabo1558 (páginas 1–9).
+- Carneiro, Sueli. 2005. "Ennegrecer el feminismo: la situación de la mujer negra en América Latina desde una perspectiva de género." *Nouvelles Questions Féministes* 24(2): 21–26. Traducción al español disponible en Canvas (5 páginas).
+- Hill Collins, Patricia, and Sirma Bilge. 2020. *Intersectionality*. Second edition. Cambridge, Medford, Mass: Polity Press.
+- Bidaseca, Karina, Sofía Ballesteros, Mariana Katz, y Margarita Jarque. 2016. "Cuerpos racializados, opresiones múltiples. Ser mujer, indígena y migrante ante la justicia." Pp. 317–332 en *Feminismos y Poscolonialidad 2*, editado por Karina Bidaseca. Buenos Aires: Ediciones Godot.
+- Hill Collins, Patricia. 2015. "Intersectionality's Definitional Dilemmas." *Annual Review of Sociology* 41(1): 1–20.
+- Ridgeway, Cecilia L., and Tamar Kricheli-Katz. 2013. "Intersecting Cultural Beliefs in Social Relations: Gender, Race, and Class Binds and Freedoms." *Gender & Society* 27(3): 294–318.
 
 ### Clase 6: Trabajo, mercado laboral, y familia {.unnumbered}
 
 ¿Cómo y en qué medida contribuye la (des)igualdad de género fuera de la vida familiar a los procesos dentro de las familias, y viceversa? ¿De qué manera se ha estancado el progreso hacia la igualdad de género y por qué? ¿Por qué el mercado laboral sigue estando segregado por género? ¿Por qué persiste la brecha de género en los salarios?
 
--   \*\*Villanueva, Aida, and Ken-Hou Lin. "Motherhood Wage Penalties in Latin America: The Significance of Labor Informality." *Social Forces.*
--   \*\*Rivera, Lauren A., and András Tilcsik. 2016. "Class Advantage, Commitment Penalty: The Gendered Effect of Social Class Signals in an Elite Labor Market." *American Sociological Review* 81(6): 1097–1131.
--   \*\*Undurraga, Rosario. 2019. "Who Will Get the Job? Hiring Practices and Inequalities in the Chilean Labour Market." *Bulletin of Latin American Research* 38(5): 575–590.
--   Armijo, Lorena et al. 2021. "Agencia Individual y Colectiva En Dirigentas Sindicales de La Industria de La Minería En Chile: Un Análisis Articulando Perspectiva de Las Capacidades y Género." *Izquierdas* 50.
--   Daminger, Allison. 2019. "The Cognitive Dimension of Household Labor." *American Sociological Review* 84(4): 609–633.
--   Cabello-Hutt, Tania. 2020. "Changes in Work and Care Trajectories during the Transition to Motherhood." *Social Science Research* 90: 102439.
--   Correll, Shelley J., Stephen Benard and In Paik. 2007. "Getting a Job: Is There a Motherhood Penalty?" *American Journal of Sociology* 112: 1297–1338.
+- \*\*Villanueva, Aida, and Ken-Hou Lin. "Motherhood Wage Penalties in Latin America: The Significance of Labor Informality." *Social Forces.*
+- \*\*Rivera, Lauren A., and András Tilcsik. 2016. "Class Advantage, Commitment Penalty: The Gendered Effect of Social Class Signals in an Elite Labor Market." *American Sociological Review* 81(6): 1097–1131.
+- \*\*Undurraga, Rosario. 2019. "Who Will Get the Job? Hiring Practices and Inequalities in the Chilean Labour Market." *Bulletin of Latin American Research* 38(5): 575–590.
+- Armijo, Lorena et al. 2021. "Agencia Individual y Colectiva En Dirigentas Sindicales de La Industria de La Minería En Chile: Un Análisis Articulando Perspectiva de Las Capacidades y Género." *Izquierdas* 50.
+- Daminger, Allison. 2019. "The Cognitive Dimension of Household Labor." *American Sociological Review* 84(4): 609–633.
+- Cabello-Hutt, Tania. 2020. "Changes in Work and Care Trajectories during the Transition to Motherhood." *Social Science Research* 90: 102439.
+- Correll, Shelley J., Stephen Benard and In Paik. 2007. "Getting a Job: Is There a Motherhood Penalty?" *American Journal of Sociology* 112: 1297–1338.
 
 ### Clase 7: Sexualidad {.unnumbered}
 
 ¿Cómo podemos aplicar el modelo multinivel al estudio de la sexualidad? ¿Qué desigualdades de género existen entre la sexualidad de hombres y mujeres cis? ¿Cuáles han sido algunas contribuciones de los estudios enfocados en poblaciones LGBTQ para nuestra comprensión del género y la sexualidad?
 
--   \*\*Benavente, M. Cristina y Claudia Vergara. 2006. *Sexualidad en Hombres y Mujeres. Diversidad de miradas* (pp. 25–50).
--   \*\*Pfeffer, Carla A. 2014. "'I Don't Like Passing as a Straight Woman': Queer Negotiations of Identity and Social Group Membership." *American Journal of Sociology* 120(1): 1–44.
--   \*\*Miller, Sarah A. 2016. "'How You Bully a Girl': Sexual Drama and the Negotiation of Gendered Sexuality in High School." *Gender & Society* 30(5): 721–744.
--   Rostagnol, Susana. 2014. *Aborto voluntario y relaciones de género: políticas del cuerpo y de la reproducción* (pp. 33–56 y 107–146).
--   Ahlm, Jody. 2017. "Respectable Promiscuity: Digital Cruising in an Era of Queer Liberalism." *Sexualities* 20(3): 364–379.
+- \*\*Benavente, M. Cristina y Claudia Vergara. 2006. *Sexualidad en Hombres y Mujeres. Diversidad de miradas* (pp. 25–50).
+- \*\*Pfeffer, Carla A. 2014. "'I Don't Like Passing as a Straight Woman': Queer Negotiations of Identity and Social Group Membership." *American Journal of Sociology* 120(1): 1–44.
+- \*\*Miller, Sarah A. 2016. "'How You Bully a Girl': Sexual Drama and the Negotiation of Gendered Sexuality in High School." *Gender & Society* 30(5): 721–744.
+- Rostagnol, Susana. 2014. *Aborto voluntario y relaciones de género: políticas del cuerpo y de la reproducción* (pp. 33–56 y 107–146).
+- Ahlm, Jody. 2017. "Respectable Promiscuity: Digital Cruising in an Era of Queer Liberalism." *Sexualities* 20(3): 364–379.
 
 ### Clase 8: Resistencias políticas a la igualdad de género (tema elegido por estudiantes) {.unnumbered}
 
@@ -311,7 +311,7 @@ Deben elegir tres lecturas/video. Pueden ser todas del mismo tema o diferentes t
 
 **Resistencias en general**
 
-1.  Butler, Judith. 2025. *Who's Afraid of Gender?* Toronto: Vintage Canada. \
+1.  Butler, Judith. 2025. *Who's Afraid of Gender?* Toronto: Vintage Canada.\
     Entrevista a Butler sobre su libro: <https://www.youtube.com/watch?v=ChLv2wK0Eqs>
 2.  Zaremberg, Gisela, Constanza Tabbush, and Elisabeth Jay Friedman. 2021. "Feminism(s) and Anti-Gender Backlash: Lessons from Latin America." *International Feminist Journal of Politics* 23(4): 527–534. doi:[10.1080/14616742.2021.1956093](https://doi.org/10.1080/14616742.2021.1956093).
 
@@ -341,12 +341,12 @@ Deben elegir tres lecturas/video. Pueden ser todas del mismo tema o diferentes t
 
 ------------------------------------------------------------------------
 
-## Rúbricas Propuesta de Investigación
+## Rúbricas Propuesta de Investigación {#rúbricas-propuesta-de-investigación}
 
 ### Mapa crítico de literatura
 
 | Dimensión | Ponderación | Descripción |
-|:--------------------------|:-----------:|:-----------------------------------|
+|:-----------------------|:---------------:|:-------------------------------|
 | Selección y precisión de la tabla | 25% | Incluye al menos 6 trabajos pertinentes a la pregunta, y la tabla resume con precisión su pregunta, datos y métodos, hallazgo, y el supuesto o limitación. |
 | Análisis crítico: conversación entre estudios | 35% | Pone a los estudios a dialogar: identifica acuerdos, tensiones y supuestos compartidos, en lugar de resumirlos uno a uno. |
 | Vacío y contribución de la pregunta | 30% | Argumenta por qué la pregunta importa (no solo que es interesante) y qué aporta específicamente a la literatura. |
@@ -355,7 +355,7 @@ Deben elegir tres lecturas/video. Pueden ser todas del mismo tema o diferentes t
 ### Comentario al mapa de un par
 
 | Dimensión | Ponderación | Descripción |
-|:--------------------------|:-----------:|:-----------------------------------|
+|:-----------------------|:---------------:|:-------------------------------|
 | Lectura atenta y específica | 35% | El comentario se refiere a elementos concretos del mapa y muestra que fue leído con cuidado. |
 | Aporte constructivo | 45% | Señala fortalezas, vacíos o supuestos, y sugiere literatura o ajustes que ayuden a afinar la pregunta y su contribución. |
 | Claridad y tono | 20% | Escritura clara y respetuosa; respeta la extensión máxima. |
@@ -363,7 +363,7 @@ Deben elegir tres lecturas/video. Pueden ser todas del mismo tema o diferentes t
 ### Mini-congreso
 
 | Dimensión | Ponderación | Descripción |
-|:--------------------------|:-----------:|:-----------------------------------|
+|:-----------------------|:---------------:|:-------------------------------|
 | Claridad y estructura de la presentación | 15% | Orden lógico: pregunta → literatura y vacío → contribución → diseño → limitaciones. |
 | Relevancia y conexión con la sociología del género | 25% | Explica de forma explícita cómo el proyecto dialoga con teorías o debates relevantes a la sociología del género. |
 | Contribución y originalidad de la propuesta | 25% | Define claramente qué aporta el estudio al campo, cuál es el problema y por qué es importante—relevancia teórica y práctica. |
@@ -373,7 +373,7 @@ Deben elegir tres lecturas/video. Pueden ser todas del mismo tema o diferentes t
 ### Mini propuesta de investigación
 
 | Dimensión | Ponderación | Descripción |
-|:--------------------------|:-----------:|:-----------------------------------|
+|:-----------------------|:---------------:|:-------------------------------|
 | Introducción y pregunta de investigación | 20% | El contexto y la relevancia (incluida la política pública u otro ámbito aplicado) muestran por qué la pregunta es importante, con un gancho que motiva el problema. La pregunta es clara, acotada y factible. |
 | Revisión crítica de la literatura y diálogo con el curso | 30% | Evalúa el análisis crítico, el diálogo con las lecturas del curso y con literatura específica del tema, más allá del resumen. |
 | Contribución y justificación de su importancia | 25% | Define claramente qué aporta la pregunta a la literatura y por qué es importante—relevancia teórica y práctica. |

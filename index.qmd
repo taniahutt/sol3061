@@ -244,41 +244,41 @@ Las anotaciones en Hypothesis se entregan cada **martes previo a la clase, a las
 - \*\*[Martin, Karin A. 1998. "Becoming a Gendered Body: Practices of Preschools." *American Sociological Review* 63(4): 494–511.](lecturas/C2/Martin_1998_ASR.pdf)
 - \*\*Human Rights Watch. 2018. Acabar con la alteración intersexual. <https://www.hrw.org/es/world-report/2018/country-chapters/313454>
 - Connell — "The Question of Gender," pp. 9–18.
-- Folbre, Nancy. 1993. "Micro, Macro, Choice, and Structure," y respuestas de otras autoras, pp. 323–342 en *Theory on Gender. Feminism on Theory.*
-- Martin, Karin A. 2009. "Normalizing Heterosexuality: Mothers' Assumptions, Talk, and Strategies with Young Children." *American Sociological Review* 74(2): 190–207.
+- [Folbre, Nancy. 1993. "Micro, Macro, Choice, and Structure," y respuestas de otras autoras, pp. 323–342 en *Theory on Gender. Feminism on Theory.*](lecturas/C2/Folbre_1993.pdf)
+- [Martin, Karin A. 2009. "Normalizing Heterosexuality: Mothers' Assumptions, Talk, and Strategies with Young Children." *American Sociological Review* 74(2): 190–207.](lecturas/C2/Martin_2009_ASR.pdf)
 
 ### Clase 3: Género a nivel meso: interacciones {.unnumbered}
 
 ¿Cómo afecta el género como estatus social lo que sucede en las interacciones entre personas? ¿Por qué algunos autores consideran que la interacción es especialmente importante para mantener la desigualdad de género en comparación con la desigualdad basada en raza o clase? ¿Cómo afecta lo que sucede en la interacción tanto a las diferencias de género como a la desigualdad de género? ¿Por qué un enfoque interactivo es un enfoque situacional? ¿En qué se diferencia este enfoque de una perspectiva de roles de género?
 
-- \*\*Ridgeway, Cecilia L. & Shelley J. Correll. 2004. "Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations." *Gender & Society* 18(4): 510–531.
-- \*\*Rudman, Laurie A., Corinne A. Moss-Racusin, Julie E. Phelan and Sanne Nauts. 2012. "Status Incongruity and Backlash Effects: Defending the Gender Hierarchy Motivates Prejudice against Female Leaders." *Journal of Experimental Social Psychology* 48: 165–179.
+- \*\*[Ridgeway, Cecilia L. & Shelley J. Correll. 2004. "Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations." *Gender & Society* 18(4): 510–531.](lecturas/C3/Ridgeway_Correll_2004.pdf)
+- \*\*[Rudman, Laurie A., Corinne A. Moss-Racusin, Julie E. Phelan and Sanne Nauts. 2012. "Status Incongruity and Backlash Effects: Defending the Gender Hierarchy Motivates Prejudice against Female Leaders." *Journal of Experimental Social Psychology* 48: 165–179.](lecturas/C3/Rudman_et_al_2012.pdf)
 - Schilt, Kristen. 2011. *Just One of the Guys?: Transgender Men and the Persistence of Gender Inequality*. Chicago, IL: University of Chicago Press.
-- Westbrook, Laurel, and Kristen Schilt. 2014. "Doing Gender, Determining Gender: Transgender People, Gender Panics, and the Maintenance of the Sex/Gender/Sexuality System." *Gender & Society* 28(1): 32–57.
-- Schilt, Kristen, and Laurel Westbrook. 2011. "Gender Normals, Transgender People, and the Social Maintenance of Heterosexuality." *Gender & Society* 23(4): 440–464. \[Aviso: este artículo incluye contenido sensible sobre violencia\].
-- Chavez, Koji and Adia Harvey Wingfield. 2018. "Racializing Gendered Interactions." In *The Handbook of the Sociology of Gender*, edited by B. Risman, C. Froyum, and W. Scarborough. New York: Springer Science + Business Media.
+- [Westbrook, Laurel, and Kristen Schilt. 2014. "Doing Gender, Determining Gender: Transgender People, Gender Panics, and the Maintenance of the Sex/Gender/Sexuality System." *Gender & Society* 28(1): 32–57.](lecturas/C3/Westbrook_Schilt_2014.pdf)
+- [Schilt, Kristen, and Laurel Westbrook. 2011. "Gender Normals, Transgender People, and the Social Maintenance of Heterosexuality." *Gender & Society* 23(4): 440–464.](lecturas/C3/Schilt_Westbrook_2009.pdf) \[Aviso: este artículo incluye contenido sensible sobre violencia\].
+- [Chavez, Koji and Adia Harvey Wingfield. 2018. "Racializing Gendered Interactions." In *The Handbook of the Sociology of Gender*, edited by B. Risman, C. Froyum, and W. Scarborough. New York: Springer Science + Business Media.](lecturas/C3/Chavez_Wingfield_2018.pdf)
 - Correll, Shelley J., Sarah Thebaud, & Stephen Benard. 2007. "Introduction to the Social Psychology of Gender." Pages 1–18 in *Advances in Group Processes: Social Psychology of Gender*, edited by Shelley J. Correll. Elsevier.
 
 ### Clase 4: Género a nivel macro: estructura e instituciones {.unnumbered}
 
 ¿Cómo se inscribe el género en la acción de organizaciones e instituciones que parecen "impersonales" (el estado, la empresa, la economía)? ¿Cómo afectan las estructuras macro a las identidades micro?
 
-- \*\*Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.
+- \*\*[Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.](lecturas/C4/Acker_1990.pdf)
 - \*\*Crocco-Valdivia, Alejandra Andrea, and Caterine Galaz-Valderrama. 2023. "Mujeres en la academia: Exploración de una organización generizada a partir de una revisión sistemática." *Estudios Pedagógicos (Valdivia)* 49(2): 439–454.
-- \*\*Hook, Jennifer L. 2006. "Care in Context: Men's Unpaid Work in 20 Countries, 1965–2003." *American Sociological Review* 71(4): 639–660.
-- Schilt, Kristen, and Laurel Westbrook. 2015. "Bathroom Battlegrounds and Penis Panics." *Contexts* 14(3): 26–31.
-- Blofield, Merike, and Juliana Martínez. 2014. "Trabajo, Familia y Cambios En La Política Pública En América Latina: Equidad, Maternalismo y Corresponsabilidad."
+- \*\*[Hook, Jennifer L. 2006. "Care in Context: Men's Unpaid Work in 20 Countries, 1965–2003." *American Sociological Review* 71(4): 639–660.](lecturas/C4/Hook_2006.pdf)
+- [Schilt, Kristen, and Laurel Westbrook. 2015. "Bathroom Battlegrounds and Penis Panics." *Contexts* 14(3): 26–31.](lecturas/C4/Schilt_Westbrook_2015.pdf)
+- [Blofield, Merike, and Juliana Martínez. 2014. "Trabajo, Familia y Cambios En La Política Pública En América Latina: Equidad, Maternalismo y Corresponsabilidad."](lecturas/C4/Blofield_Martinez_2014.pdf)
 - Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533.
 
 ### Clase 5: Sistema multinivel e interseccionalidad {.unnumbered}
 
 ¿A qué nos referimos cuando hablamos del "sistema de género"? ¿Cuál es la perspectiva multinivel al estudio del género? ¿Cómo el sistema multinivel nos puede ayudar a entender la desigualdad de género en la sociedad? ¿Qué es la interseccionalidad? ¿Podemos hablar de "hombres" y "mujeres" como categorías abstractas, sin clase ni racialización? Pensando en la preocupación de la sociología por la estratificación y la desigualdad, ¿cómo podemos usar el género para cuestionar y reformular las nociones subyacentes de lo que es la desigualdad y cómo opera? ¿Cómo podemos aplicar el marco de la interseccionalidad a otras categorías de opresión y desventaja?
 
-- \*\*Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia. **Páginas 47–69 solamente.**
+- \*\*[Risman, Barbara J. 2021. *Adónde Nos Llevará La Generación Millennial*. Universidad de Valencia.](lecturas/C5/Risman_2021_pp47-69.pdf) **Páginas 47–69 solamente.**
 - \*\*Viveros Vigoya, Mara. 2016. "La interseccionalidad: una aproximación situada a la dominación." *Debate Feminista* 52: 1–17.
-- \*\*Cech, Erin A. 2022. "The Intersectional Privilege of White Able-Bodied Heterosexual Men in STEM." *Science Advances* 8(24): eabo1558 (páginas 1–9).
-- Carneiro, Sueli. 2005. "Ennegrecer el feminismo: la situación de la mujer negra en América Latina desde una perspectiva de género." *Nouvelles Questions Féministes* 24(2): 21–26. Traducción al español disponible en Canvas (5 páginas).
-- Hill Collins, Patricia, and Sirma Bilge. 2020. *Intersectionality*. Second edition. Cambridge, Medford, Mass: Polity Press.
+- \*\*[Cech, Erin A. 2022. "The Intersectional Privilege of White Able-Bodied Heterosexual Men in STEM." *Science Advances* 8(24): eabo1558 (páginas 1–9).](lecturas/C5/Cech_2022.pdf)
+- [Carneiro, Sueli. 2005. "Ennegrecer el feminismo: la situación de la mujer negra en América Latina desde una perspectiva de género." *Nouvelles Questions Féministes* 24(2): 21–26.](lecturas/C5/Carneiro_2005.pdf) Traducción al español (5 páginas).
+- [Hill Collins, Patricia, and Sirma Bilge. 2020. *Intersectionality*. Second edition. Cambridge, Medford, Mass: Polity Press.](lecturas/C5/HillCollins_Bilge_2020.pdf)
 - Bidaseca, Karina, Sofía Ballesteros, Mariana Katz, y Margarita Jarque. 2016. "Cuerpos racializados, opresiones múltiples. Ser mujer, indígena y migrante ante la justicia." Pp. 317–332 en *Feminismos y Poscolonialidad 2*, editado por Karina Bidaseca. Buenos Aires: Ediciones Godot.
 - Hill Collins, Patricia. 2015. "Intersectionality's Definitional Dilemmas." *Annual Review of Sociology* 41(1): 1–20.
 - Ridgeway, Cecilia L., and Tamar Kricheli-Katz. 2013. "Intersecting Cultural Beliefs in Social Relations: Gender, Race, and Class Binds and Freedoms." *Gender & Society* 27(3): 294–318.
@@ -287,23 +287,23 @@ Las anotaciones en Hypothesis se entregan cada **martes previo a la clase, a las
 
 ¿Cómo y en qué medida contribuye la (des)igualdad de género fuera de la vida familiar a los procesos dentro de las familias, y viceversa? ¿De qué manera se ha estancado el progreso hacia la igualdad de género y por qué? ¿Por qué el mercado laboral sigue estando segregado por género? ¿Por qué persiste la brecha de género en los salarios?
 
-- \*\*Villanueva, Aida, and Ken-Hou Lin. "Motherhood Wage Penalties in Latin America: The Significance of Labor Informality." *Social Forces.*
-- \*\*Rivera, Lauren A., and András Tilcsik. 2016. "Class Advantage, Commitment Penalty: The Gendered Effect of Social Class Signals in an Elite Labor Market." *American Sociological Review* 81(6): 1097–1131.
-- \*\*Undurraga, Rosario. 2019. "Who Will Get the Job? Hiring Practices and Inequalities in the Chilean Labour Market." *Bulletin of Latin American Research* 38(5): 575–590.
+- \*\*[Villanueva, Aida, and Ken-Hou Lin. "Motherhood Wage Penalties in Latin America: The Significance of Labor Informality." *Social Forces.*](lecturas/C6/Villanueva_Lin.pdf)
+- \*\*[Rivera, Lauren A., and András Tilcsik. 2016. "Class Advantage, Commitment Penalty: The Gendered Effect of Social Class Signals in an Elite Labor Market." *American Sociological Review* 81(6): 1097–1131.](lecturas/C6/Rivera_Tilcsik_2016.pdf)
+- \*\*[Undurraga, Rosario. 2019. "Who Will Get the Job? Hiring Practices and Inequalities in the Chilean Labour Market." *Bulletin of Latin American Research* 38(5): 575–590.](lecturas/C6/Undurraga_2019.pdf)
 - Armijo, Lorena et al. 2021. "Agencia Individual y Colectiva En Dirigentas Sindicales de La Industria de La Minería En Chile: Un Análisis Articulando Perspectiva de Las Capacidades y Género." *Izquierdas* 50.
-- Daminger, Allison. 2019. "The Cognitive Dimension of Household Labor." *American Sociological Review* 84(4): 609–633.
-- Cabello-Hutt, Tania. 2020. "Changes in Work and Care Trajectories during the Transition to Motherhood." *Social Science Research* 90: 102439.
-- Correll, Shelley J., Stephen Benard and In Paik. 2007. "Getting a Job: Is There a Motherhood Penalty?" *American Journal of Sociology* 112: 1297–1338.
+- [Daminger, Allison. 2019. "The Cognitive Dimension of Household Labor." *American Sociological Review* 84(4): 609–633.](lecturas/C6/Daminger_2019.pdf)
+- [Cabello-Hutt, Tania. 2020. "Changes in Work and Care Trajectories during the Transition to Motherhood." *Social Science Research* 90: 102439.](lecturas/C6/Cabello-Hutt_2020.pdf)
+- [Correll, Shelley J., Stephen Benard and In Paik. 2007. "Getting a Job: Is There a Motherhood Penalty?" *American Journal of Sociology* 112: 1297–1338.](lecturas/C6/Correll_Benard_Paik_2007.pdf)
 
 ### Clase 7: Sexualidad {.unnumbered}
 
 ¿Cómo podemos aplicar el modelo multinivel al estudio de la sexualidad? ¿Qué desigualdades de género existen entre la sexualidad de hombres y mujeres cis? ¿Cuáles han sido algunas contribuciones de los estudios enfocados en poblaciones LGBTQ para nuestra comprensión del género y la sexualidad?
 
 - \*\*Benavente, M. Cristina y Claudia Vergara. 2006. *Sexualidad en Hombres y Mujeres. Diversidad de miradas* (pp. 25–50).
-- \*\*Pfeffer, Carla A. 2014. "'I Don't Like Passing as a Straight Woman': Queer Negotiations of Identity and Social Group Membership." *American Journal of Sociology* 120(1): 1–44.
-- \*\*Miller, Sarah A. 2016. "'How You Bully a Girl': Sexual Drama and the Negotiation of Gendered Sexuality in High School." *Gender & Society* 30(5): 721–744.
+- \*\*[Pfeffer, Carla A. 2014. "'I Don't Like Passing as a Straight Woman': Queer Negotiations of Identity and Social Group Membership." *American Journal of Sociology* 120(1): 1–44.](lecturas/C7/Pfeffer_2014.pdf)
+- \*\*[Miller, Sarah A. 2016. "'How You Bully a Girl': Sexual Drama and the Negotiation of Gendered Sexuality in High School." *Gender & Society* 30(5): 721–744.](lecturas/C7/Miller_2016.pdf)
 - Rostagnol, Susana. 2014. *Aborto voluntario y relaciones de género: políticas del cuerpo y de la reproducción* (pp. 33–56 y 107–146).
-- Ahlm, Jody. 2017. "Respectable Promiscuity: Digital Cruising in an Era of Queer Liberalism." *Sexualities* 20(3): 364–379.
+- [Ahlm, Jody. 2017. "Respectable Promiscuity: Digital Cruising in an Era of Queer Liberalism." *Sexualities* 20(3): 364–379.](lecturas/C7/Ahlm_2017.pdf)
 
 ### Clase 8: Resistencias políticas a la igualdad de género (tema elegido por estudiantes) {.unnumbered}
 

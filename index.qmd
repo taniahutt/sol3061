@@ -198,21 +198,49 @@ Las peticiones de re-corrección deberán hacerse por escrito a la profesora y s
 
 ## Calendarización
 
-| Clase | Fecha | Tema | Líder discusión | Entregas |
-|:-------------:|:-------------:|:--------------|:-------------:|:--------------|
-| 1 | 7-Oct | Introducción al curso <br> ¿Por qué una sociología del género? | — | — |
-| 2 | 14-Oct | El nivel micro: el cuerpo y las identidades. |  |  |
-| 3 | 21-Oct | Interacciones: cómo se produce y reproduce el género en las interacciones. |  |  |
-|  | 23-Oct | Entrega memo de preguntas |  | Memo de preguntas (23:59) |
-| 4 | 28-Oct | Instituciones generizadas (*gendered*) |  |  |
-|  | 2-Nov |  |  | Completar encuesta de evaluación temprana del curso |
-| 5 | 4-Nov | Sistema multinivel e interseccionalidad | 2 líderes: (1) multinivel, (2) interseccionalidad |  |
-|  | 6-Nov | Entrega mapa crítico de literatura |  | Mapa crítico (23:59) |
-| 6 | 11-Nov | Trabajo, mercado laboral, y familia | 2 líderes: se reparten las lecturas |  |
-|  | 13-Nov | Entrega comentario al mapa de un par |  | Comentario al mapa (23:59) |
-| 7 | 18-Nov | Sexualidades <br> Mini-congreso (5 estudiantes) |  | Mini-congreso |
-| 8 | 25-Nov | Módulo 1: tema elegido por estudiantes. <br> Módulo 2: Mini-congreso (4 estudiantes) |  | Mini-congreso |
-|  | 4-Dic | Entrega mini propuesta |  | Mini propuesta (23:59) |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| Clase       | Fecha       | Tema                                                                                 | Líder discusión                                                                           | Entregas                                            |
++:===========:+:===========:+:=====================================================================================+:=========================================================================================:+:====================================================+
+| 1           | 7-Oct       | Introducción al curso <br> ¿Por qué una sociología del género?                       | —                                                                                         | —                                                   |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 2           | 14-Oct      | El nivel micro: el cuerpo y las identidades.                                         | Vale (2da)                                                                                |                                                     |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 3           | 21-Oct      | Interacciones: cómo se produce y reproduce el género en las interacciones.           | Malaika, Isidora P (2da)                                                                  |                                                     |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|             | 23-Oct      | Entrega memo de preguntas                                                            |                                                                                           | Memo de preguntas (23:59)                           |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 4           | 28-Oct      | Instituciones generizadas (*gendered*)                                               | Candela, Vale                                                                             |                                                     |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|             | 2-Nov       |                                                                                      |                                                                                           | Completar encuesta de evaluación temprana del curso |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 5           | 4-Nov       | Sistema multinivel e interseccionalidad                                              | 2 líderes: (1) multinivel (Isa, Amanda), (2) interseccionalidad (Isi, Mara)               |                                                     |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|             | 6-Nov       | Entrega mapa crítico de literatura                                                   |                                                                                           | Mapa crítico (23:59)                                |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 6           | 11-Nov      | Trabajo, mercado laboral, y familia                                                  | Mara y Amanda                                                                             |                                                     |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|             | 13-Nov      | Entrega comentario al mapa de un par                                                 |                                                                                           | Comentario al mapa (23:59)                          |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 7           | 18-Nov      | Sexualidades <br> Mini-congreso (5 estudiantes)                                      | Isidora P. , Pablo (2da), Candela (2da)                                                   | Mini-congreso                                       |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 8           | 25-Nov      | Módulo 1: tema elegido por estudiantes. <br> Módulo 2: Mini-congreso (4 estudiantes) | Pablo                                                                                     | Mini-congreso                                       |
+|             |             |                                                                                      |                                                                                           |                                                     |
+|             |             |                                                                                      | - Masculinidades (manósfera)                                                              |                                                     |
+|             |             |                                                                                      |                                                                                           |                                                     |
+|             |             |                                                                                      | - Belleza y cuerpo (estándares)                                                           |                                                     |
+|             |             |                                                                                      |                                                                                           |                                                     |
+|             |             |                                                                                      | - Debates feminismos/críticas - competencia entre mujeres /sororidad (pick me, tradwives) |                                                     |
+|             |             |                                                                                      |                                                                                           |                                                     |
+|             |             |                                                                                      | - Trabajo sexual                                                                          |                                                     |
+|             |             |                                                                                      |                                                                                           |                                                     |
+|             |             |                                                                                      | - Salud mental                                                                            |                                                     |
+|             |             |                                                                                      |                                                                                           |                                                     |
+|             |             |                                                                                      | - Producción de conocimientos históricos perspectiva masculina                            |                                                     |
+|             |             |                                                                                      |                                                                                           |                                                     |
+|             |             |                                                                                      | - Violencia de género                                                                     |                                                     |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|             | 4-Dic       | Entrega mini propuesta                                                               |                                                                                           | Mini propuesta (23:59)                              |
++-------------+-------------+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
 
 ::: callout-note
 Las anotaciones en Hypothesis se entregan cada **martes previo a la clase, a las 23:59**. Las entregas del proyecto son los **viernes a las 23:59** (ver Evaluaciones).
@@ -345,37 +373,58 @@ Deben elegir tres lecturas/video. Pueden ser todas del mismo tema o diferentes t
 
 ### Mapa crítico de literatura
 
-| Dimensión | Ponderación | Descripción |
-|:-----------------------|:---------------:|:-------------------------------|
-| Selección y precisión de la tabla | 25% | Incluye al menos 6 trabajos pertinentes a la pregunta, y la tabla resume con precisión su pregunta, datos y métodos, hallazgo, y el supuesto o limitación. |
-| Análisis crítico: conversación entre estudios | 35% | Pone a los estudios a dialogar: identifica acuerdos, tensiones y supuestos compartidos, en lugar de resumirlos uno a uno. |
-| Vacío y contribución de la pregunta | 30% | Argumenta por qué la pregunta importa (no solo que es interesante) y qué aporta específicamente a la literatura. |
-| Claridad y formato | 10% | Coherencia, orden, extensión adecuada y escritura académica. |
++-----------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dimensión                                     | Ponderación    | Descripción                                                                                                                                                |
++:==============================================+:==============:+:===========================================================================================================================================================+
+| Selección y precisión de la tabla             | 25%            | Incluye al menos 6 trabajos pertinentes a la pregunta, y la tabla resume con precisión su pregunta, datos y métodos, hallazgo, y el supuesto o limitación. |
++-----------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Análisis crítico: conversación entre estudios | 35%            | Pone a los estudios a dialogar: identifica acuerdos, tensiones y supuestos compartidos, en lugar de resumirlos uno a uno.                                  |
++-----------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vacío y contribución de la pregunta           | 30%            | Argumenta por qué la pregunta importa (no solo que es interesante) y qué aporta específicamente a la literatura.                                           |
++-----------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Claridad y formato                            | 10%            | Coherencia, orden, extensión adecuada y escritura académica.                                                                                               |
++-----------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Comentario al mapa de un par
 
-| Dimensión | Ponderación | Descripción |
-|:-----------------------|:---------------:|:-------------------------------|
-| Lectura atenta y específica | 35% | El comentario se refiere a elementos concretos del mapa y muestra que fue leído con cuidado. |
-| Aporte constructivo | 45% | Señala fortalezas, vacíos o supuestos, y sugiere literatura o ajustes que ayuden a afinar la pregunta y su contribución. |
-| Claridad y tono | 20% | Escritura clara y respetuosa; respeta la extensión máxima. |
++-----------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------+
+| Dimensión                   | Ponderación    | Descripción                                                                                                              |
++:============================+:==============:+:=========================================================================================================================+
+| Lectura atenta y específica | 35%            | El comentario se refiere a elementos concretos del mapa y muestra que fue leído con cuidado.                             |
++-----------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------+
+| Aporte constructivo         | 45%            | Señala fortalezas, vacíos o supuestos, y sugiere literatura o ajustes que ayuden a afinar la pregunta y su contribución. |
++-----------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------+
+| Claridad y tono             | 20%            | Escritura clara y respetuosa; respeta la extensión máxima.                                                               |
++-----------------------------+----------------+--------------------------------------------------------------------------------------------------------------------------+
 
 ### Mini-congreso
 
-| Dimensión | Ponderación | Descripción |
-|:-----------------------|:---------------:|:-------------------------------|
-| Claridad y estructura de la presentación | 15% | Orden lógico: pregunta → literatura y vacío → contribución → diseño → limitaciones. |
-| Relevancia y conexión con la sociología del género | 25% | Explica de forma explícita cómo el proyecto dialoga con teorías o debates relevantes a la sociología del género. |
-| Contribución y originalidad de la propuesta | 25% | Define claramente qué aporta el estudio al campo, cuál es el problema y por qué es importante—relevancia teórica y práctica. |
-| Uso del tiempo y apoyo visual | 15% | Presentación ajustada al tiempo, con apoyo visual claro y profesional. |
-| Comunicación oral y respuesta a preguntas | 20% | Expone con seguridad, dominio conceptual y lenguaje claro; responde preguntas con claridad. |
++----------------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------+
+| Dimensión                                          | Ponderación    | Descripción                                                                                                                  |
++:===================================================+:==============:+:=============================================================================================================================+
+| Claridad y estructura de la presentación           | 15%            | Orden lógico: pregunta → literatura y vacío → contribución → diseño → limitaciones.                                          |
++----------------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------+
+| Relevancia y conexión con la sociología del género | 25%            | Explica de forma explícita cómo el proyecto dialoga con teorías o debates relevantes a la sociología del género.             |
++----------------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------+
+| Contribución y originalidad de la propuesta        | 25%            | Define claramente qué aporta el estudio al campo, cuál es el problema y por qué es importante—relevancia teórica y práctica. |
++----------------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------+
+| Uso del tiempo y apoyo visual                      | 15%            | Presentación ajustada al tiempo, con apoyo visual claro y profesional.                                                       |
++----------------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------+
+| Comunicación oral y respuesta a preguntas          | 20%            | Expone con seguridad, dominio conceptual y lenguaje claro; responde preguntas con claridad.                                  |
++----------------------------------------------------+----------------+------------------------------------------------------------------------------------------------------------------------------+
 
 ### Mini propuesta de investigación
 
-| Dimensión | Ponderación | Descripción |
-|:-----------------------|:---------------:|:-------------------------------|
-| Introducción y pregunta de investigación | 20% | El contexto y la relevancia (incluida la política pública u otro ámbito aplicado) muestran por qué la pregunta es importante, con un gancho que motiva el problema. La pregunta es clara, acotada y factible. |
-| Revisión crítica de la literatura y diálogo con el curso | 30% | Evalúa el análisis crítico, el diálogo con las lecturas del curso y con literatura específica del tema, más allá del resumen. |
-| Contribución y justificación de su importancia | 25% | Define claramente qué aporta la pregunta a la literatura y por qué es importante—relevancia teórica y práctica. |
-| Diseño de la investigación y limitaciones | 15% | Coherencia, de forma esquemática, entre pregunta, datos y métodos; reconoce limitaciones teóricas y prácticas. |
-| Carta de cambios, claridad y presentación | 10% | Carta breve que explica qué cambió desde el mapa; organización, formato, redacción y referencias. |
++----------------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dimensión                                                | Ponderación    | Descripción                                                                                                                                                                                                   |
++:=========================================================+:==============:+:==============================================================================================================================================================================================================+
+| Introducción y pregunta de investigación                 | 20%            | El contexto y la relevancia (incluida la política pública u otro ámbito aplicado) muestran por qué la pregunta es importante, con un gancho que motiva el problema. La pregunta es clara, acotada y factible. |
++----------------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Revisión crítica de la literatura y diálogo con el curso | 30%            | Evalúa el análisis crítico, el diálogo con las lecturas del curso y con literatura específica del tema, más allá del resumen.                                                                                 |
++----------------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Contribución y justificación de su importancia           | 25%            | Define claramente qué aporta la pregunta a la literatura y por qué es importante—relevancia teórica y práctica.                                                                                               |
++----------------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Diseño de la investigación y limitaciones                | 15%            | Coherencia, de forma esquemática, entre pregunta, datos y métodos; reconoce limitaciones teóricas y prácticas.                                                                                                |
++----------------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Carta de cambios, claridad y presentación                | 10%            | Carta breve que explica qué cambió desde el mapa; organización, formato, redacción y referencias.                                                                                                             |
++----------------------------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

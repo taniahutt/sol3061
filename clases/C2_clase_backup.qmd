@@ -1,0 +1,117 @@
+---
+title: "Sociología del Género"
+subtitle: "SOL3061 | C2. Género a nivel micro: individuos e ideas"
+author: "Tania Hutt"
+lang: es
+format:
+  revealjs:
+    theme: [simple, slides.scss]
+    width: 1280
+    height: 720
+    margin: 0.06
+    slide-number: true
+    scrollable: true
+    link-external-newwindow: true
+    title-slide-attributes:
+      data-background-image: img/C2/portada.jpg
+      data-background-size: cover
+---
+
+## Nivel Micro {background-image="img/C2/nivel-micro.jpg" background-size="cover" .on-dark}
+
+::: panel
+-   El cuerpo
+-   La socialización
+-   Las identidades
+:::
+
+## Nivel micro
+
+-   La experiencia del cuerpo: todxs debemos interpretar y operar en nuestro cuerpo.
+-   Noción del yo: cómo la cultura se internaliza.
+-   Socialización en los primeros años de vida es una manera en que la estructura de género se internaliza en la personalidad y las preferencias.
+-   Socialización va más allá de la familia, también es el sistema educativo, los pares, los medios.
+-   Socialización no es sólo temprana (infancia), sino que continúa a lo largo de la vida.
+-   ¿Qué tan estables son estas predisposiciones? ¿Cómo se adoptan o resisten en la adultez?
+
+## Binarismo de género {background-image="img/C2/binarismo.jpg" background-size="cover" background-color="#1c1c2a" background-opacity="0.3" .on-dark}
+
+::: panel
+**Hay dos tipos de personas, aquellas que tienen cuerpos de *hombre* y son *masculinos*, y aquellas que tienen cuerpos de *mujer* y son *femeninas*. Estos dos tipos son fundamentalmente *diferentes y opuestos*.**
+:::
+
+::: {.panel style="margin-top: 1.5em;"}
+**¿Cuáles son algunas implicancias del binarismo?**
+:::
+
+## {background-image="img/C2/espectro-genero.jpg" background-size="contain" background-color="#262626"}
+
+## Consecuencias del binarismo para personas intersexuales
+
+{{< video https://www.youtube.com/embed/2S0e-i117vY width="100%" height="480" >}}
+
+[Ver en YouTube](https://www.youtube.com/watch?v=2S0e-i117vY){.credit}
+
+## Fuera del binario
+
+-   El binarismo va más allá del sexo biológico o el sexo asignado al nacer, también se espera que las personas se identifiquen claramente con un género binario.
+    -   Que una persona asignada de sexo "masculino" al nacer, se identifique como hombre y se comporte como hombre (según lo que socialmente definimos como hombre).
+-   Se estima que **más de 1/10 personas** reporte sentirse tan masculino como femenina, o más "atípico/a/e" que "típico/a/e" en cuanto a su identidad de género.
+
+## Esencialismo de género
+
+:::: {.columns}
+::: {.column width="40%"}
+-   El binarismo fortalece la idea de "opuestos".
+-   Incentiva a la maximización de las diferencias aparentes entre hombres y mujeres, haciendo el binarismo parecer más importante de lo que es.
+-   La realidad es que hay mucho más en común que diferente entre hombres y mujeres.
+:::
+::: {.column width="60%"}
+![](img/C2/esencialismo.jpg)
+
+[[This Photo](https://mercedesgallurm.blogspot.com/2019/11/los-roles-de-genero.html) by Unknown Author is licensed under [CC BY](https://creativecommons.org/licenses/by/3.0/)]{.credit}
+:::
+::::
+
+## Diferencias y similitudes entre géneros
+
+*El binarismo de género puede ser una construcción social, pero ¿hay diferencias **reales** entre hombres y mujeres?*
+
+-   Estudio de Zell et al. (2015): multisíntesis de estudios de diferencias entre sexos.
+    -   Combinaron más de 20,000 estudios
+    -   Muestra de 12 millones de personas
+    -   21,000 mediciones de 386 atributos de: pensamientos, emociones, comportamientos, habilidades intelectuales, estilos de comunicación, atributos de personalidad, medidas de felicidad y bienestar, habilidades físicas, etc.
+
+## Resultados Zell et al. (2015)
+
+![](img/C2/zell-tabla.png){fig-align="center" width="90%"}
+
+## {.center}
+
+![](img/C2/zell-figura.png){fig-align="center" height="560"}
+
+## Complicaciones con las teorías puramente biológicas
+
+-   Lo social afecta lo biológico.
+-   Lo social también afecta cómo "vemos" lo biológico.
+    -   Ejemplos sobre cómo los padres y madres explican o perciben los comportamientos o características de sus hijos/as.
+-   Efectos de los comportamientos de los padres y madres en el desarrollo cerebral de los niños/as.
+
+## Nota sobre interseccionalidad
+
+::: {.icon-list}
+::: {.icon-row}
+![](img/C2/icono-flechas.png)
+
+Al hablar de todo esto estamos dejando en pausa otras categorías de opresión o desigualdad para enfocarnos en el género de manera bien amplia y binaria.
+:::
+::: {.icon-row}
+![](img/C2/icono-flechas.png)
+
+Esto no quiere decir que no existan otros ejes de opresión, o que haya homogeneidad de experiencias, privilegios dentro de cada grupo. Vamos a hablar más de esto en la clase 5.
+:::
+:::
+
+## Discusión {.center}
+
+![](img/C2/icono-discusion.png){fig-align="left" width="180"}

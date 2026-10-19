@@ -1,0 +1,547 @@
+---
+title: "Sociología del Género"
+subtitle: "SOL3061 | C2. Género a nivel micro: individuos e ideas"
+author: "Tania Hutt"
+lang: es
+format:
+  revealjs:
+    theme: [simple, slides.scss]
+    width: 1280
+    height: 720
+    margin: 0.06
+    slide-number: true
+    scrollable: true
+    link-external-newwindow: true
+    title-slide-attributes:
+      data-background-image: img/C2/portada.jpg
+      data-background-size: cover
+---
+
+## Nivel Micro {background-image="img/C2/nivel-micro.jpg" background-size="cover" .on-dark}
+
+::: panel
+-   El cuerpo
+-   La socialización
+-   Las identidades
+:::
+
+::: {.notes}
+**Lecturas centrales de la sesión:** Ridgeway y Saperstein (2024), Martin (1998) y el informe de Human Rights Watch (2018) sobre intersexualidad. Complementarias: Folbre (1993) y Martin (2009).
+
+**Hilo de la clase:** parto del supuesto de que "lo natural" no es un punto de partida neutro (Ridgeway & Saperstein), muestro un mecanismo concreto de cómo los cuerpos llegan a *parecer* naturalmente diferentes (Martin 1998) y termino con la pregunta de qué cambia y qué no cuando las categorías se diversifican (Ridgeway & Saperstein).
+
+**Advertencia de encuadre:** "micro" no significa "previo" ni "aislado". En esta clase el nivel individual se trata como un nivel de una estructura multinivel, no como el lugar donde "empieza" el género.
+:::
+
+## Nivel micro
+
+-   La experiencia del cuerpo: todxs debemos interpretar y operar en nuestro cuerpo.
+-   Noción del yo: cómo la cultura se internaliza.
+-   Socialización en los primeros años de vida es una manera en que la estructura de género se internaliza en la personalidad y las preferencias.
+-   Socialización va más allá de la familia, también es el sistema educativo, los pares, los medios.
+-   Socialización no es sólo temprana (infancia), sino que continúa a lo largo de la vida.
+-   ¿Qué tan estables son estas predisposiciones? ¿Cómo se adoptan o resisten en la adultez?
+
+::: {.notes}
+**Tensión que conviene hacer explícita desde el inicio:** esta slide usa el vocabulario clásico de la socialización (internalizar, predisposiciones). En la Clase 1 vimos (Ferree & Hess 1987; Lopata & Thorne 1978) que ese vocabulario fue criticado por funcionalista: supone conformidad e internalización, y las personas no llegan a ser simplemente lo que se espera de ellas.
+
+**Cómo resolverlo en esta clase:** Martin (1998) conserva la pregunta de la socialización, pero la reformula como *prácticas institucionales que disciplinan cuerpos*, no como transmisión de normas a una mente. Y Ridgeway y Saperstein (2024) casi no usan el término "socialización": hablan de procesos interaccionales y de personas que se hacen mutuamente responsables del desempeño de género.
+
+**Pregunta para la discusión:** ¿qué ganamos y qué perdemos al hablar de "socialización" en vez de "prácticas" o "responsabilidad mutua" (*accountability*)?
+:::
+
+## ¿Qué significa "micro"? El género como estructura multinivel
+
+[(Ridgeway & Correll 2004; Risman 2004; Ridgeway & Saperstein 2024)]{.cite}
+
+::: {.process}
+::: {.step}
+<h4>Individual</h4>
+
+*Selves* e identidades
+:::
+::: {.arrow}
+⇄
+:::
+::: {.step}
+<h4>Interaccional</h4>
+
+Relaciones interpersonales; nos presionamos mutuamente para cumplir normas de desempeño
+:::
+::: {.arrow}
+⇄
+:::
+::: {.step}
+<h4>Cultural / institucional</h4>
+
+Creencias culturales, derechos legales, arreglos económicos e institucionales
+:::
+:::
+
+Hoy: el nivel individual, **sin tratarlo como previo ni separado** de los otros dos.
+
+::: {.notes}
+**Fuente:** Ridgeway y Saperstein (2024) entienden el sistema sexo/género como una estructura multinivel de desigualdad, siguiendo a Ridgeway y Correll (2004) y Risman (2004). La Clase 3 (meso, interacciones) y la Clase 4 (macro, instituciones) desarrollan los otros dos niveles; Ridgeway y Correll (2004) es la lectura puente.
+
+**Por qué importa para una clase "micro":** el nivel individual no es una colección de personas que "traen" género a las situaciones. Las identidades se forman en relaciones y bajo categorías que ya existen en la cultura y en las instituciones (por ejemplo, las categorías estatales y estadísticas, que R&S describen como procesos de arriba hacia abajo, versus los significados compartidos que las personas forjan de abajo hacia arriba).
+
+**Mecanismo central de R&S:** el género es uno de los marcos primarios con que la sociedad da sentido a sí misma y a otros y organiza la conducta social. Las personas se hacen responsables mutuamente de cumplir normas que las vuelven predecibles (West & Zimmerman 1987). La desigualdad se impulsa por el *estatus* asociado a una categoría respecto de otra (Ridgeway 2011), y el sistema depende de que las categorías sean mutuamente inteligibles.
+
+**Pregunta para la discusión:** piensen en una experiencia propia que sientan como "muy personal" respecto del género (cómo visten, cómo se mueven, cómo se nombran). ¿En qué niveles se sostiene?
+:::
+
+## Tres preguntas que ordenan la clase
+
+::: {.box .box-q}
+<h4>Pregunta 1: Lo social y lo natural</h4>
+
+¿Qué es anterior: las diferencias biológicas o las sociales? ¿Sexo y género son fijos o fluidos? ¿Hay un continuo o dos categorías excluyentes?
+:::
+
+::: {.box .box-q}
+<h4>Pregunta 2: El cuerpo</h4>
+
+¿Cómo llegan los cuerpos a *ser* y a *parecer* diferentes? ¿Cómo leemos los cuerpos a través de categorías?
+:::
+
+::: {.box .box-q}
+<h4>Pregunta 3: Socialización e identidades</h4>
+
+¿Qué cambia y qué no cuando las categorías de género se diversifican?
+:::
+
+::: {.notes}
+Estas tres preguntas se corresponden con las preguntas de la Clase 2 en el programa (naturaleza/sociedad, cuerpo, socialización). **Aviso honesto sobre las lecturas:** el programa pregunta también por los rasgos "masculinos" (violencia, competitividad) como naturales o sociales y por las concepciones feministas del cuerpo y la sexualidad. Ridgeway y Saperstein *no* abordan lo primero, y lo segundo solo aparece en un recuadro sobre el sistema sexo/género/sexualidad. Esas preguntas las cubren Martin (1998), Folbre (1993) y, para sexualidad, Martin (2009).
+:::
+
+## Binarismo de género {background-image="img/C2/binarismo.jpg" background-size="cover" background-color="#1c1c2a" background-opacity="0.3" .on-dark}
+
+::: panel
+**Hay dos tipos de personas, aquellas que tienen cuerpos de *hombre* y son *masculinos*, y aquellas que tienen cuerpos de *mujer* y son *femeninas*. Estos dos tipos son fundamentalmente *diferentes y opuestos*.**
+:::
+
+::: {.panel style="margin-top: 1.5em;"}
+**¿Cuáles son algunas implicancias del binarismo?**
+:::
+
+::: {.notes}
+**Dejar que respondan antes de avanzar** y anotar. Probablemente aparezcan: expectativas de comportamiento, exclusión de personas intersex y trans, naturalización de la desigualdad, heteronormatividad.
+
+**Definiciones de trabajo (Ridgeway & Saperstein 2024):**
+
+-   *Sexo*: clasificación de los cuerpos según estándares biológicos normativos (cromosomas, hormonas, genitales u otros rasgos anatómicos).
+-   *Género*: relaciones sociales basadas en expectativas de conducta inferidas de las categorías sexuales; hoy, una jerarquía de estatus que favorece a los hombres sobre las mujeres.
+-   *Cisgénero*: la identidad de género coincide con el sexo asignado al nacer. *Transgénero*: no coincide. *No binario*: paraguas para identidades distintas de mujer y hombre (combinación, ninguna o fluidez).
+
+**Binarismo = tres alineaciones supuestas:** cuerpo (sexo asignado), identidad y conducta. Cualquier desacople rompe el supuesto, y por eso la diversidad de cuerpos y de identidades se trata como "problema" a resolver eligiendo entre "dos y solo dos" categorías.
+
+**Diferencia analítica útil:** el binarismo no es solo *dos categorías* sino *dos categorías opuestas y jerarquizadas*. Es esa oposición la que sostiene el estatus desigual.
+:::
+
+## {background-image="img/C2/espectro-genero.jpg" background-size="contain" background-color="#262626"}
+
+::: {.notes}
+**Qué muestra la infografía:** una vía que va de "mujer biológica típica" a "hombre biológico típico" con condiciones intersex en medio (síndrome de Turner, hiperplasia suprarrenal congénita, síndrome de insensibilidad a los andrógenos, Klinefelter, déficit de 5-alfa reductasa, entre otras), organizadas por cromosomas, genes, hormonas, órganos sexuales internos y externos, y características secundarias. Arriba define transgénero, no binario y cisgénero, y separa sexualidad.
+
+**Qué hacer con ella:** pedir que identifiquen *cuál* de esos factores "determina" el sexo. No hay uno solo; y varios se definen en momentos distintos (concepción, nacimiento, pubertad).
+
+**Conexión con R&S:** las características sexuales humanas pueden ser *bimodales* pero no estrictamente binarias. Citan a Fausto-Sterling ("al menos cinco sexos") para mostrar que la evidencia hace cada vez más difícil sostener solo dos sexos. Además, el sexo tampoco es tan fijo: los niveles hormonales cambian durante el día, el mes y la vida, y las hormonas o cirugías para mantener o alterar características sexuales no son raras. En muchos casos, lo único realmente fijo es la *categoría asignada al nacer*.
+
+**Cuidado analítico:** la infografía sigue organizando todo en torno a un "espectro" entre dos polos. R&S distinguen tres preguntas distintas (¿continuo o categorías?, ¿fijo o fluido?, ¿qué causa qué?) y advierten que ver algo como social no implica verlo como fluido. Vale la pena preguntar qué preguntas contesta esta imagen y cuáles deja abiertas.
+:::
+
+## Consecuencias del binarismo para personas intersexuales
+
+{{< video https://www.youtube.com/embed/2S0e-i117vY width="100%" height="480" >}}
+
+[Ver en YouTube](https://www.youtube.com/watch?v=2S0e-i117vY){.credit}
+
+::: {.notes}
+**Conectar con la lectura de Human Rights Watch (2018), "Acabar con la alteración intersexual".** (Ajustar estos comentarios a lo que efectivamente muestra el video.)
+
+**Idea teórica clave (R&S 2024):** la medicalización de los cuerpos. A niños intersex se les reconfiguraron los cuerpos para encajar en la categoría en que sus padres planeaban criarlos. Esto proviene del paradigma de John Money (años 50): el género se fijaba hacia los dos años y la tarea médica era *adecuar el cuerpo* al género asignado. Es la combinación inesperada de **género fijo y sexo maleable**.
+
+**Por qué es teóricamente interesante:** la intervención médica no "descubre" el sexo; lo *produce* para que coincida con la categoría esperada. Es la ilustración más cruda de Kessler y McKenna (1978): nuestros compromisos con el género moldean cómo interpretamos la variación biológica, y el sexo se vuelve algo que las personas manipulan para ajustarlo a sus creencias sobre el género.
+
+**Legado actual:** la narrativa de "nacer así" (*born this way*) valida la autoidentificación, pero conserva la idea del género como atributo individual esencialmente fijo.
+
+**Para cerrar el episodio:** las personas trans adultas, a su vez, debían demostrar conformidad con roles tradicionales y heterosexualidad para acceder a cirugía y hormonas. El mismo sistema exige "coherencia" binaria desde lados opuestos.
+
+**Pregunta para la discusión:** ¿por qué la cirugía "correctiva" en infancia fue pensada como un acto *de cuidado*? ¿Qué creencias sobre el género la hacían parecer razonable?
+:::
+
+## Fuera del binario
+
+-   El binarismo va más allá del sexo biológico o el sexo asignado al nacer, también se espera que las personas se identifiquen claramente con un género binario.
+    -   Que una persona asignada de sexo "masculino" al nacer, se identifique como hombre y se comporte como hombre (según lo que socialmente definimos como hombre).
+-   Se estima que **más de 1/10 personas** reporte sentirse tan masculino como femenina, o más "atípico/a/e" que "típico/a/e" en cuanto a su identidad de género.
+
+::: {.notes}
+**Pendiente de verificar:** la cifra de "más de 1/10" proviene de una fuente que no está citada en la slide. Antes de la clase, agregar la referencia (o reemplazarla por las cifras de abajo). Importa porque es una afirmación empírica fuerte en una clase de posgrado.
+
+**Cifras disponibles en R&S (2024), para EE.UU.:**
+
+-   Pew (Brown 2022): cerca de 1% de adultos se identifica como no binario y 0,6% con un género binario distinto del asignado; hasta 5% de menores de 30 se identifica como trans o no binario. Canadá: 0,3% de la población de 15 años o más.
+-   Gallup: la identificación LGBT subió de 3,5% a 7% entre 2012 y 2021, y las autoras plantean que el aumento se debe por completo a reemplazo generacional.
+
+**Cuidado con mezclar cosas distintas:** "sentirse tan masculino como femenino" (autopercepción de rasgos), "identificarse como no binario" (identidad) y "ser intersex" (características sexuales) son tres fenómenos diferentes. Vale la pena nombrar cuál estamos midiendo en cada caso.
+
+**Medición:** la mayoría de las encuestas sigue confundiendo sexo y género y tratándolos como estáticos y binarios. Recomendación actual (Williams Institute 2014; NASEM 2022): método de dos pasos, sexo asignado al nacer + identidad de género actual. Toda categorización implica un balance entre visibilidad y borradura.
+
+**Pregunta para la discusión:** si el género se mide con una pregunta de "hombre/mujer", ¿qué estamos construyendo y qué estamos descubriendo?
+:::
+
+## El debate: tres preguntas, tres posiciones
+
+[(Ridgeway & Saperstein 2024)]{.cite}
+
+::: {.pair}
+::: {.item}
+**1. El sexo precede al género**\
+Consenso feminista desde los 70. El sexo se da por sentado; lo que requiere explicación es la interpretación social de la diferencia. *West & Zimmerman (1987)*.
+:::
+::: {.item}
+**2. Lo social moldea cómo vemos lo biológico**\
+"Siempre vemos lo natural a través de lentes sociales" (Connell 1985). *Kessler & McKenna (1978)*.
+:::
+::: {.item}
+**3. Síntesis**\
+Sexo y género están entrelazados, cada uno apoyándose en el otro para su legitimidad. Se mantiene la distinción analítica.
+:::
+:::
+
+::: {.notes}
+**Fuente:** sección "La relación entre sexo y género" de Ridgeway y Saperstein (2024).
+
+**Posición 1.** "Género" se introdujo para distinguir lo biológico (sexo) de lo social (antes "roles sexuales"). Esta distinción hizo posible la crítica feminista al determinismo biológico, pero dejó el sexo sin examinar. El ejemplo paradigmático es el "hacer género" de West y Zimmerman, donde cada persona tiene un guion asignado según su categoría sexual y es considerada responsable de desviarse.
+
+**Posición 2.** La crítica es que la categoría sexual no es neutra: trabajos recientes exponen supuestos binarios y esencialistas en teorías del desarrollo cerebral, determinación sexual, investigación sobre testosterona y protocolos médicos para niños intersex.
+
+**Posición 3 (la de R&S).** Sexo y género son inseparables en la práctica, con circuitos de retroalimentación entre procesos biológicos y sociales, pero conviene conservar la distinción como herramienta analítica. Se parece a una pregunta de "huevo y gallina" que se resuelve cambiando la pregunta: ya no "cuál va primero" sino "cómo se sostienen mutuamente".
+
+**Persistencia de lo biológico:** igual que con las concepciones de raza, los esfuerzos por enraizar estos conceptos en la biología y la genética pueden ser sorprendentemente durables, y permiten al público citar a "la ciencia" para respaldar posturas opuestas.
+
+**Pregunta para la discusión:** ¿en cuál de estas tres posiciones ubican la mayoría de los discursos públicos que conocen (medios, política pública, debates sobre baños o deporte)? ¿Y en cuál ubicarían a Martin (1998)?
+:::
+
+## Esencialismo de género
+
+:::: {.columns}
+::: {.column width="40%"}
+-   El binarismo fortalece la idea de "opuestos".
+-   Incentiva a la maximización de las diferencias aparentes entre hombres y mujeres, haciendo el binarismo parecer más importante de lo que es.
+-   La realidad es que hay mucho más en común que diferente entre hombres y mujeres.
+:::
+::: {.column width="60%"}
+![](img/C2/esencialismo.jpg)
+
+[[This Photo](https://mercedesgallurm.blogspot.com/2019/11/los-roles-de-genero.html) by Unknown Author is licensed under [CC BY](https://creativecommons.org/licenses/by/3.0/)]{.credit}
+:::
+::::
+
+::: {.notes}
+**Esencialismo:** la creencia de que las categorías de género reflejan propiedades internas, estables y compartidas de cada grupo. R&S muestran que las reacciones negativas (incluida la violencia) hacia personas que desdibujan el binario son más fuertes entre quienes tienen creencias de género más conservadoras y esencialistas.
+
+**Mecanismo que conviene nombrar:** "amenaza de distintividad" (Broussard & Warner 2019, citados en R&S). Incluso personas trans cuya expresión de género se ajusta al binario evocan amenaza al desdibujar las fronteras supuestas entre los sexos. Stern y Rule (2018): cuanto más andrógina la persona y más tiempo tomaba categorizarla, peores las evaluaciones, sobre todo entre participantes conservadores.
+
+**Matiz sobre la tercera viñeta:** "hay más en común que diferente" es una afirmación empírica (la revisamos en las dos slides siguientes), pero el argumento sociológico más fuerte no depende de ella. Aunque existieran diferencias reales, seguiría siendo cierto que la sociedad las *organiza* en categorías opuestas con estatus desigual (Ridgeway 2011). La desigualdad no se deriva de la magnitud de la diferencia.
+:::
+
+## Diferencias y similitudes entre géneros
+
+*El binarismo de género puede ser una construcción social, pero ¿hay diferencias **reales** entre hombres y mujeres?*
+
+-   Estudio de Zell et al. (2015): multisíntesis de estudios de diferencias entre sexos.
+    -   Combinaron más de 20,000 estudios
+    -   Muestra de 12 millones de personas
+    -   21,000 mediciones de 386 atributos de: pensamientos, emociones, comportamientos, habilidades intelectuales, estilos de comunicación, atributos de personalidad, medidas de felicidad y bienestar, habilidades físicas, etc.
+
+::: {.notes}
+**Pregunta de encuadre más precisa:** que algo sea una "construcción social" no significa que sea irreal o que no existan diferencias medibles. La pregunta sociológica interesante no es *si* hay diferencias promedio, sino qué *hacen* esas diferencias en la organización social y cómo se producen (que es lo que muestra Martin 1998).
+
+**Qué es una metasíntesis:** una revisión de metaanálisis. Zell, Krizan y Teeter (2015, *American Psychologist*) resumen 106 metaanálisis. Es una fuente de "alto nivel" y por eso es útil como respuesta a la pregunta de si hay diferencias.
+
+**Limitación que vale la pena discutir en un curso de posgrado:** esta literatura, aunque desmiente la imagen de "opuestos", sigue tomando el binario *hombre/mujer* como variable independiente y las medias de grupo como unidad de comparación. R&S advierten sobre esto en sus recomendaciones metodológicas: justificar por qué se incluye sexo o género y cómo se recolectaron e interpretaron los datos. En otras palabras, la metasíntesis refuta el binarismo *de la magnitud* pero no necesariamente el binarismo *de la categoría*.
+:::
+
+## Resultados Zell et al. (2015)
+
+![](img/C2/zell-tabla.png){fig-align="center" width="90%"}
+
+::: {.notes}
+**Cómo leer la tabla:** 386 tamaños del efecto, agrupados por magnitud. Alrededor de 85% (39,4% muy pequeños + 46,1% pequeños) cae en rangos de *muy pequeño* a *pequeño* (d hasta 0,35). Solo 1,8% son grandes y 0,8% muy grandes.
+
+**Dos cosas para señalar:**
+
+-   "Pequeño" no es "cero". Un d de 0,2 con 12 millones de personas es estadísticamente real, y sobre grandes poblaciones puede ser socialmente relevante.
+-   Los pocos efectos grandes se concentran en atributos físicos y de conducta específica (en el estudio, por ejemplo, fuerza de lanzamiento y otras habilidades motoras). Es útil preguntarse cuáles de esos efectos grandes ya están, a su vez, moldeados por el entrenamiento del cuerpo (ver Martin 1998: las niñas aprenden a no lanzar desde el hombro).
+
+**Pregunta para la discusión:** si 85% de las diferencias son pequeñas o muy pequeñas, ¿por qué la sociedad sigue organizándose como si fueran grandes?
+:::
+
+## {.center}
+
+![](img/C2/zell-figura.png){fig-align="center" height="560"}
+
+::: {.notes}
+**La figura:** dos distribuciones que difieren en d = 0,21. Casi se superponen por completo. La diferencia entre las *medias* es minúscula frente a la variación *dentro* de cada grupo.
+
+**Implicancia para el argumento:** con una diferencia así, predecir el atributo de una persona individual a partir de su categoría de género es casi imposible. Sin embargo, el esencialismo opera al revés: infiere atributos individuales desde la categoría. Eso es precisamente un *estereotipo*.
+
+**Conexión con R&S:** los estereotipos de mujeres y hombres constituyen el contenido de las categorías binarias, son hegemónicos, están institucionalizados en representaciones públicas e implícitamente racializados como blancos. Han cambiado modestamente desde los 70: las mujeres ya no se perciben como menos inteligentes, pero siguen vistas como más comunales y menos agénticas, y enfrentan sesgo de estatus en el trabajo. La Clase 3 profundiza en esto.
+:::
+
+## Complicaciones con las teorías puramente biológicas
+
+-   Lo social afecta lo biológico.
+-   Lo social también afecta cómo "vemos" lo biológico.
+    -   Ejemplos sobre cómo los padres y madres explican o perciben los comportamientos o características de sus hijos/as.
+-   Efectos de los comportamientos de los padres y madres en el desarrollo cerebral de los niños/as.
+
+::: {.notes}
+**Tres complicaciones distintas, que conviene no mezclar:**
+
+1.  **Lo social afecta lo biológico** (retroalimentación). Hormonas y fisiología responden al entorno, a la práctica y a la intervención médica. Ver el cuerpo de Martin (1998): las prácticas de la escuela producen diferencias de movimiento y uso del espacio que luego se miden como "diferencias físicas".
+2.  **Lo social afecta cómo vemos lo biológico** (interpretación). Kessler y McKenna (1978); Connell (1985). Es el argumento de la categorización: miramos la variación a través de la categoría que ya tenemos.
+3.  **Lo social afecta el desarrollo** (por ejemplo, la crianza y el cerebro). Aquí hay que ser cuidadosa/o con los alcances: la evidencia de "plasticidad" es amplia, pero no justifica por sí sola afirmaciones sobre diferencias de género.
+
+**Un punto de teoría para el posgrado:** la posición 3 de R&S (síntesis) funciona porque trata estas tres complicaciones como un circuito, no como tres afirmaciones separadas. Aun así, ellas mismas reconocen que es difícil separar sexo y género en la práctica, lo que complica la tarea empírica de aislar efectos.
+
+**Pregunta para la discusión:** cuando un/a padre/madre dice "mi hijo es muy activo desde que nació", ¿qué es dato biológico, qué es interpretación y qué es práctica de crianza? ¿Se pueden separar?
+:::
+
+## El cuerpo como producto social: Martin (1998)
+
+[(Martin 1998, *American Sociological Review* 63(4): 494–511)]{.cite}
+
+::: {.box .box-ok}
+<h4>Pregunta</h4>
+
+Si los cuerpos generizados no son naturales, **¿cómo llegan a serlo?** La teoría feminista del cuerpo se centra en cuerpos adultos y necesita "infantilizarse" (aportar una explicación del desarrollo).
+:::
+
+::: {.box .box-ok}
+<h4>Argumento</h4>
+
+El **currículum oculto** de la escuela, que disciplina los cuerpos para preparar el aprendizaje, también convierte a niños y niñas similares en *niñas* y *niños* con prácticas corporales distintas, y hace que esas diferencias **parezcan y se sientan naturales**.
+:::
+
+::: {.notes}
+**Diseño del estudio:** observación semiestructurada en cinco salas de preescolar (3 a 5 años) de una ciudad del medio oeste de EE.UU.; 112 niños/as y 14 docentes (todas mujeres); unos ocho meses, tres veces por semana. Notas de campo codificadas. Las cifras que reporta son recuentos de observaciones en notas de campo, no una muestra sistemática de conductas.
+
+**Dos marcos teóricos que Martin integra:**
+
+-   *Disciplina del cuerpo* (Foucault 1979; Shilling 1993; Turner 1984): los cuerpos disciplinados no solo regulan al individuo, crean un contexto para las relaciones sociales. Los cuerpos generizados señalan, manejan y negocian información sobre poder y estatus.
+-   *Encarnación (embodiment)* (Connell 1987, 1995; Young 1990): el género no está solo en la superficie del cuerpo (performance, "hacer género"), sino que se vuelve parte de quienes somos física y psicológicamente. Cita a Connell: "la definición social de los hombres como poseedores de poder se traduce no solo en imágenes mentales, sino en tensiones musculares, postura, la sensación y textura del cuerpo".
+
+**Contrapunto clave (Connell vs. Young):** el cuerpo es una *fuente de poder* para los hombres y una fuente de ansiedad y de timidez para las mujeres (Young 1990: la falta de confianza cognitiva podría rastrearse en parte a una duda original sobre la capacidad del propio cuerpo).
+
+**Por qué es una buena lectura de teoría:** aborda directamente la tensión entre "hacer género" (West & Zimmerman; Butler) y encarnación. Martin dice que son parecidos (el cuerpo gestionado y adornado establece género y relaciones de género) pero insuficientes si no explican cómo se *incorporan*.
+
+**Pregunta para la discusión:** ¿qué le agrega la noción de "currículum oculto" al "hacer género"? ¿Quién "hace" el género de un niño de tres años?
+:::
+
+## Cinco prácticas que generizan los cuerpos
+
+[(Martin 1998)]{.cite}
+
+1.  **Vestirse**: los colores y la ropa señalan el género; los vestidos restringen el movimiento.
+2.  **Conductas formales o relajadas**: ¿quién puede estirarse y ocupar espacio?
+3.  **Control de las voces**: a quién se le pide bajar la voz.
+4.  **Instrucciones corporales de las docentes**: qué se le dice al cuerpo de cada quién y cuánto se obedece.
+5.  **Interacciones físicas entre niños/as**: cómo los pares marcan y vigilan los bordes del género.
+
+::: {.notes}
+**Hallazgos concretos (para anclar la discusión en evidencia):**
+
+1.  *Vestirse.* Alrededor del 61% de las niñas llevaba algo rosado cada día y 24% llevaba vestido. **Los niños nunca usaron rosado.** Entre las niñas de 3 años, 14% usaba vestido; entre las de 5, 32%. Las niñas ya sabían qué conductas "no se permiten" con vestido (por ejemplo, poner los pies sobre la mesa, que sí hicieron con overol). Las docentes ordenaban la ropa de las niñas (subir cuellos, arreglar coletas) con más frecuencia y con menos interacción. Al jugar a disfrazarse, los niños de 3 años experimentaban con ropa "femenina", pero a los 5 casi no lo hacían. Los pares *leían* generizadamente disfraces ambiguos (el disfraz "de susto" de una niña fue codificado por otros como "mujer").
+2.  *Formal/relajado.* Según su tabla 2, 80% de las conductas observadas en niñas fueron formales, frente a 18% en niños. Los niños ocupaban más espacio, se sentaban en posiciones más abiertas. Las docentes reprendían más a las niñas por conductas relajadas.
+3.  *Voces.* 73% de las veces en que una docente pidió silencio fue a niñas, 26% a niños. Martin vincula restringir la voz con restringir el movimiento. Excepción: las niñas que no hablaban inglés ("instigadoras corporales") eran ignoradas verbalmente y por eso tenían más libertad corporal.
+4.  *Instrucciones.* El 65% fue dirigido a niños, 26% a niñas y 9% a grupos mixtos. Los niños obedecían en 48% y las niñas en 80%. Las instrucciones a niños eran sobre todo "deja de..." y las dirigidas a niñas eran más de tipo "sé de otra manera".
+5.  *Interacciones físicas.* Los pares construyen y vigilan las fronteras entre niñas y niños (Thorne 1993). Interacciones mixtas: 60% fueron negativas, y 60% de las interacciones niño-niña fueron iniciadas por niños.
+
+**Resistencia:** niños de tres años se vestían con ropa de mujer; niñas de cinco se sentaban con los pies sobre la mesa y la silla inclinada; niñas se volvían ruidosas cuando los niños lo eran. Martin concluye que las fisicalidades generizadas "no son naturales, ni se adquieren fácil y directamente".
+:::
+
+## Lo que muestra Martin: disciplinar ≠ subordinar
+
+::: {.pair}
+::: {.item}
+**Los niños son más disciplinados...**\
+65% de las instrucciones corporales; obedecen menos (48%).
+:::
+::: {.item}
+**...pero las niñas son disciplinadas *de otra manera***\
+Voz baja (73% de los pedidos de silencio), postura formal, ropa que restringe, menos espacio.
+:::
+:::
+
+::: {.box .box-q}
+**Para discutir:** ¿por qué se puede estar *más* controlado/a y aun así terminar con *más* poder? ¿Qué es lo que realmente se transmite en cada caso?
+:::
+
+::: {.notes}
+**El punto sutil:** la cantidad de disciplina no coincide con la jerarquía. Los niños reciben más instrucciones, pero sobre todo para *detener* conductas ("deja de correr"), lo que no los restringe en un repertorio de acción; mientras que lo que se les pide a las niñas (silencio, formalidad, cuidar la ropa) *reduce el espacio* que su cuerpo puede ocupar. El contenido de la disciplina importa más que su frecuencia.
+
+**Conexión con Connell y Young:** en el cuerpo del niño se encarna una sensación de que el cuerpo es capaz y puede ocupar espacio; en la niña, de cautela y de vigilancia propia. Martin cita a Serbin (1983) sobre las reprimendas fuertes y audibles, que a los niños, en vez de contenerlos, les refuerzan conductas disruptivas.
+
+**Cómo conecta con R&S (2024):** estas prácticas son un ejemplo de lo que ellas llaman, a nivel interaccional, los mecanismos mediante los cuales las personas se presionan mutuamente para cumplir normas de desempeño de género. También son *trabajo de legibilidad*: hacer que la categoría sexual de cada niño/a sea visible (el color, la ropa) y que se lea de manera consistente (la "lectura" de los disfraces). Lucal (1999), citado en R&S, señala que las personas deben hacer legible su sexo/género ante otras en prácticamente todas las situaciones.
+
+**Más allá de lo "individual":** los niños no "aprenden un rol", los adultos y los pares hacen que ciertos usos del cuerpo sean posibles y otros costosos.
+:::
+
+## Lo que hay que mirar con ojo crítico
+
+::: {.icon-list}
+::: {.icon-row}
+![](img/C2/icono-flechas.png)
+
+**Muestra y contexto.** Cinco salas, EE.UU. del medio oeste, niñas/os mayoritariamente blancos/as y de clase media. ¿Cuál es el alcance del argumento?
+:::
+::: {.icon-row}
+![](img/C2/icono-flechas.png)
+
+**El binario como unidad de observación.** Se observa a "niñas" y "niños"; el estudio muestra cómo se produce el binario, pero también lo presupone en su diseño.
+:::
+::: {.icon-row}
+![](img/C2/icono-flechas.png)
+
+**Temporalidad.** 1998: ¿qué cambió en la ropa infantil, la crianza no binaria y las escuelas desde entonces?
+:::
+:::
+
+::: {.notes}
+**Esto es lo que convierte la lectura de Martin en una conversación de posgrado y no solo en un "ejemplo".**
+
+1.  **Muestra:** 112 niños/as, de los cuales 12 asiáticos/as, 3 latinos/as, 4 afroamericanos/as y el resto blancos/as; mayoritariamente de familias de clase media. Martin lo reconoce: los datos son *un* relato de cómo se generizan los cuerpos, y reconoce que otros contextos (otras escuelas, familias, instituciones) harán cosas distintas. Es una buena oportunidad para conectar con interseccionalidad (Clase 5): ¿el "cuerpo disciplinado" es el mismo para una niña negra o de clase trabajadora? (Observación de Martin: las docentes interactuaban menos con niñas que no hablaban inglés).
+2.  **El problema reflexivo:** el estudio demuestra cómo se construyen "niñas" y "niños", pero lo hace usando esas categorías como variable de observación. R&S plantean la exigencia metodológica de justificar por qué se incluye sexo/género y cómo se recolectaron e interpretaron los datos. Es una pregunta legítima para Martin y para cualquier estudio que use "género" como variable.
+3.  **Lo que no está:** no hay niños/as intersex, trans o no binarios en el análisis. Por eso la comparación con R&S es fructífera: Martin muestra *cómo se producen los dos tipos* y R&S muestran qué pasa con quienes no encajan.
+4.  **Datos:** los recuentos son subestimaciones probables (ella misma lo dice sobre los contactos físicos menores). Son útiles para ilustrar patrones, no para estimar magnitudes.
+
+**Pregunta para la discusión:** ¿qué estudio haría falta hoy para actualizar a Martin? ¿Qué dos o tres preguntas le haría?
+:::
+
+## Leer los cuerpos a través de categorías
+
+[(Ridgeway & Saperstein 2024)]{.cite}
+
+-   **Legibilidad:** las personas necesitan hacer legible su sexo/género ante otras en casi todas las situaciones (Lucal 1999).
+-   **Humanización:** inferir género en una entidad la hace parecer más humana; quitarlo, menos plenamente humana (Martin & Mason 2022).
+-   **Amenaza:** la androginia y la dificultad para categorizar generan evaluaciones negativas, sobre todo entre quienes tienen creencias más esencialistas (Stern & Rule 2018).
+-   **Medicalización:** cuerpos intersex y trans reconfigurados para ajustarse al binario.
+
+::: {.notes}
+**Nota para evitar confusión:** "Martin & Mason (2022)" en R&S es otra autoría distinta de Karin Martin (1998). No son la misma persona.
+
+**Hilo con el apartado anterior:** Martin (1998) muestra el proceso en la infancia mediante el cual se producen cuerpos *legibles* como niña o niño. R&S muestran lo que ocurre cuando, ya adultos, los cuerpos no se dejan leer fácilmente: rechazo, evaluación negativa, a veces violencia. Es la misma lógica vista desde dos extremos: producir legibilidad y sancionar la ilegibilidad.
+
+**Sobre la humanización (idea fuerte):** el género es un marco primario para dar sentido a las personas, hasta el punto de que sin género una entidad se percibe como menos plenamente humana. Esto sugiere que el costo de quedar "fuera" del marco no es solo social sino de reconocimiento.
+
+**Sobre sexualidad (recuadro de R&S):** los conceptos de orientación sexual (hetero, homo, bi) se fundan en creencias sobre dos sexos; esa clasificación se rompe o debe expandirse cuando hay más de dos sexos o cuando el género difiere del sexo asignado. Cambios en la comprensión de sexo y género llevan a cambios en la comprensión de la sexualidad, y viceversa (Westbrook 2022). Para profundizar en la normalización de la heterosexualidad en la infancia: Martin (2009).
+
+**Pregunta para la discusión:** ¿en qué situaciones cotidianas sentimos la presión de hacer "legible" nuestro género? ¿Qué pasa cuando una persona frustra la lectura?
+:::
+
+## Diversificar las categorías ≠ cambiar la jerarquía
+
+[(Ridgeway & Saperstein 2024)]{.cite}
+
+-   Las categorías se diversifican, pero **la jerarquía de estatus que favorece lo masculino persiste.**
+-   Los hombres cis, en la cima, son quienes más estigmatizan a personas no binarias (Worthen 2021).
+-   Salir del binario no cuesta igual: el etiquetado también está generizado (Khanna & Meadow 2023).
+-   Las comunidades alternativas también generan normas y exclusiones.
+
+::: {.notes}
+**La tesis central del artículo:** las categorías de género se diversifican, pero la jerarquía de estatus que favorece lo masculino sobre lo femenino persiste. Una tercera categoría podría ocupar un estatus bajo (más abyecto que el de las mujeres cis) o intermedio (un "amortiguador" entre mujeres y hombres cis).
+
+**Evidencia que usan:**
+
+-   *Worthen (2021):* los hombres cisgénero fueron quienes más estigmatizaron a personas no binarias ("solo una fase") y las mujeres cisgénero quienes menos. Interpretación: los grupos de mayor estatus pueden resistir los cambios para proteger su ventaja.
+-   *Asimetría en quién sale del binario:* las personas asignadas mujer al nacer adoptan con más frecuencia identidades no binarias que combinan feminidad y masculinidad; las asignadas hombre rara vez abandonan la categoría de mayor estatus. Dray et al. (2020): entre empleados asignados hombres, quienes se identificaban como no binarios eran menos queridos; entre asignadas mujeres, ligeramente más queridas que las mujeres cis.
+-   *Khanna & Meadow (2023):* con una viñeta de un niño o niña de 7 años, los niños con conductas "femeninas" fueron considerados más probablemente trans que las niñas con conductas "masculinas".
+-   *Desigualdades dentro de lo trans:* los hombres trans obtuvieron un "dividendo de estatus" (Schilt 2010); las mujeres trans enfrentan sexismo y cisgenerismo (Yavorsky 2016) y, las mujeres trans de color, más acoso y violencia. La capacidad de ajustarse a una presentación binaria tradicional está desigualmente distribuida porque la atención médica de afirmación de género es cara.
+
+**Hipótesis de Brubaker (2023), que R&S citan como posibilidad:** la diversificación podría *aumentar* la saliencia del género (cuando algo deja de ser adscripción automática se vuelve objeto de reflexión), y las categorías binarias podrían volverse más estereotípicas si quienes se alejan de ellas salen hacia identidades no binarias.
+
+**Comunidades alternativas:** las personas buscan a otras afines (en línea y presencialmente), desarrollan un vocabulario nuevo (Nordmarken 2023; Hammack et al. 2022), pero esas comunidades generan sus propias normas informales y regímenes de responsabilidad, que pueden ser excluyentes ("no suficientemente trans"). El acceso a ellas está segmentado por raza.
+
+**Un apoyo social subestimado:** Aksoy et al. (2024): cerca de tres cuartas partes se sentirían cómodas con una jefatura trans y apoyan prohibir la discriminación laboral, pero subestiman el apoyo de la población general: "ignorancia pluralista".
+
+**Conexión con Martin:** las prácticas de preescolar enseñan *qué cuesta salirse de qué*. En la observación de Martin, los niños de 3 años experimentaban con ropa "femenina" y a los 5 lo hacían mucho menos; las niñas, en cambio, adoptaban comportamientos "masculinos" (pies sobre la mesa) con mayor libertad. Es consistente (aunque no es una prueba) con un costo desigual de cruzar la frontera.
+
+**Pregunta para la discusión:** si el sistema de estatus persiste, ¿qué significa "progreso" en términos de categorías? ¿Es lo mismo tener más categorías que tener menos desigualdad?
+:::
+
+## Nota sobre interseccionalidad
+
+::: {.icon-list}
+::: {.icon-row}
+![](img/C2/icono-flechas.png)
+
+Al hablar de todo esto estamos dejando en pausa otras categorías de opresión o desigualdad para enfocarnos en el género de manera bien amplia y binaria.
+:::
+::: {.icon-row}
+![](img/C2/icono-flechas.png)
+
+Esto no quiere decir que no existan otros ejes de opresión, o que haya homogeneidad de experiencias, privilegios dentro de cada grupo. Vamos a hablar más de esto en la clase 5.
+:::
+:::
+
+::: {.notes}
+**Anticipos concretos que ya aparecen en las lecturas de hoy:**
+
+-   Los estereotipos de mujeres y hombres están *implícitamente racializados como blancos* (R&S 2024).
+-   El acceso a comunidades de apoyo y a información expansiva sobre género está segmentado por raza.
+-   El acceso a atención médica de afirmación de género depende de recursos; las mujeres trans de color enfrentan más acoso y violencia.
+-   En Martin (1998): muestra mayoritariamente blanca y de clase media; las docentes trataban distinto a niñas que no hablaban inglés.
+
+**Advertencia de las propias autoras (R&S):** no retratar a las personas trans y no binarias como particularmente cómplices en mantener la desigualdad, ni como valiosas solo por lo que enseñan a las personas cisgénero. Y aprender también de las personas cisgénero sobre la (no) conformidad y el "deshacer" o "rehacer" el género: todas las personas hacemos género y participamos en sistemas de desigualdad, con capacidad de resistir o conformarnos.
+:::
+
+## Síntesis y puente a la Clase 3
+
+::: {.box .box-ok}
+**1.** Lo "natural" no es un punto de partida neutro: sexo y género se sostienen mutuamente.
+:::
+::: {.box .box-ok}
+**2.** Los cuerpos *llegan a ser* diferentes y *parecen* naturalmente diferentes mediante prácticas institucionales cotidianas (Martin 1998).
+:::
+::: {.box .box-ok}
+**3.** Los cuerpos se leen a través de categorías; lo que no calza se sanciona o se medicaliza.
+:::
+::: {.box .box-ok}
+**4.** Las categorías pueden diversificarse sin que cambie la jerarquía de estatus.
+:::
+::: {.box .box-q}
+**Puente:** si el género se sostiene en la interacción, ¿cómo se produce la desigualdad *en la situación*? → Ridgeway & Correll (2004), Clase 3.
+:::
+
+::: {.notes}
+**Lo que queda "colgando" a propósito:** la Clase 2 explica cómo se forman identidades y cuerpos, pero deja abierta la pregunta de por qué el sistema persiste. La respuesta de la Clase 3 es *situacional*: las creencias de género se activan en la interacción y generan expectativas y evaluaciones diferenciales.
+
+**Preguntas para cerrar (elegir una):**
+
+-   ¿Qué parte de lo que creíamos "natural" sobre el género ha cambiado de estatus después de las lecturas?
+-   ¿Qué implica para la política pública (educación inicial, salud, registro civil) aceptar que el sexo también es una categoría social?
+-   ¿Es posible hablar de "socialización" sin suponer pasividad? ¿Cómo?
+:::
+
+## Discusión {.center}
+
+![](img/C2/icono-discusion.png){fig-align="left" width="180"}
+
+::: {.box .box-q}
+1.  Martin muestra cómo el cuerpo se genera. R&S muestran cómo se leen las categorías. ¿Qué mecanismo une a los dos?
+2.  ¿Qué parte de la "socialización" de género sobrevive a la crítica anti-funcionalista?
+3.  ¿Qué diferencia hay entre "más categorías" y "menos desigualdad"?
+:::
+
+::: {.notes}
+**Sugerencia de uso:** dividir en tres grupos, una pregunta por grupo, y recoger una idea por grupo en plenario.
+
+**Pista para la pregunta 1:** el *marco primario* del género (R&S) opera como lente que hace *legibles* los cuerpos, y las prácticas institucionales (Martin) producen precisamente cuerpos que calzan con esa lente. Lectura y producción se retroalimentan, el circuito del que hablan R&S al sintetizar sexo y género.
+
+**Pista para la pregunta 2:** lo que resiste es la idea de que las experiencias tempranas y repetidas dejan *disposiciones corporales* (Connell, Young, Martin). Lo que no resiste es la idea de una internalización pasiva y uniforme: Martin documenta resistencias, y R&S muestran identidades formadas en comunidades con normas propias.
+
+**Pista para la pregunta 3:** persistencia de la jerarquía de estatus (Ridgeway 2011); hombres cis como quienes más estigmatizan; el etiquetado generizado; el "dividendo de estatus" de los hombres trans.
+:::

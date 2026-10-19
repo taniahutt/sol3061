@@ -130,6 +130,15 @@ Las y los estudiantes se inscribirán en la sesión que quieran liderar durante 
 
 En las sesiones con dos líderes, cada persona debe indicar brevemente qué parte preparó y condujo; la nota es individual y considera la preparación de la guía y la conducción de la discusión.
 
+**Rúbrica de liderazgo**
+
+| Dimensión | Ponderación | Descripción |
+|:-----------------------|:---------------:|:-------------------------------|
+| Comprensión de las lecturas | 30% | Identifica con precisión los argumentos centrales de los textos y los conecta entre sí y con las preguntas de la semana, más allá del resumen. |
+| Calidad de la guía y de las preguntas | 30% | Las preguntas son abiertas, apuntan a tensiones o implicancias de las lecturas (no solo a datos) y se apoyan en pasajes o en las anotaciones de Hypothesis. |
+| Conducción de la discusión | 30% | Promueve la participación de todas y todos, conecta los aportes, administra bien el tiempo y profundiza cuando hace falta. |
+| Claridad y formato | 10% | La guía o presentación es clara, ordenada y se ajusta al tiempo disponible. |
+
 ### Participación activa en la clase (10%)
 
 Se espera que las y los estudiantes asistan a la hora y participen activamente de todas las clases, que vengan preparados con reflexiones y preguntas a partir de los textos leídos, y que participen activamente de la discusión grupal. Si van a faltar a una clase, les pido que por favor me avisen con anticipación.
@@ -279,12 +288,14 @@ Las anotaciones en Hypothesis se entregan cada **martes previo a la clase, a las
 
 ¿Cómo se inscribe el género en la acción de organizaciones e instituciones que parecen "impersonales" (el estado, la empresa, la economía)? ¿Cómo afectan las estructuras macro a las identidades micro?
 
-- \*\*[Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.](lecturas/C4/Acker_1990.pdf)
+- \*\*[Acker, Joan. 2006. "Inequality Regimes: Gender, Class, and Race in Organizations." *Gender & Society* 20(4): 441–464.](lecturas/C4/Acker%202006.pdf)
 - \*\*Crocco-Valdivia, Alejandra Andrea, and Caterine Galaz-Valderrama. 2023. "Mujeres en la academia: Exploración de una organización generizada a partir de una revisión sistemática." *Estudios Pedagógicos (Valdivia)* 49(2): 439–454.
-- \*\*[Hook, Jennifer L. 2006. "Care in Context: Men's Unpaid Work in 20 Countries, 1965–2003." *American Sociological Review* 71(4): 639–660.](lecturas/C4/Hook_2006.pdf)
+- \*\*[Hook, Jennifer L., and Eunjeong Paek. 2020. "National Family Policies and Mothers' Employment: How Earnings Inequality Shapes Policy Effects across and within Countries." *American Sociological Review* 85(3): 381–416.](lecturas/C4/Hook_Paek_2020.pdf)
 - [Schilt, Kristen, and Laurel Westbrook. 2015. "Bathroom Battlegrounds and Penis Panics." *Contexts* 14(3): 26–31.](lecturas/C4/Schilt_Westbrook_2015.pdf)
 - [Blofield, Merike, and Juliana Martínez. 2014. "Trabajo, Familia y Cambios En La Política Pública En América Latina: Equidad, Maternalismo y Corresponsabilidad."](lecturas/C4/Blofield_Martinez_2014.pdf)
 - Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533.
+- [Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.](lecturas/C4/Acker_1990.pdf)
+- [Hook, Jennifer L. 2006. "Care in Context: Men's Unpaid Work in 20 Countries, 1965–2003." *American Sociological Review* 71(4): 639–660.](lecturas/C4/Hook_2006.pdf)
 
 ### Clase 5: Sistema multinivel e interseccionalidad {.unnumbered}
 

@@ -291,9 +291,8 @@ Las anotaciones en Hypothesis se entregan cada **martes previo a la clase, a las
 - \*\*[Hook, Jennifer L., and Eunjeong Paek. 2020. "National Family Policies and Mothers' Employment: How Earnings Inequality Shapes Policy Effects across and within Countries." *American Sociological Review* 85(3): 381–416.](lecturas/C4/Hook_Paek_2020.pdf)
 - [Schilt, Kristen, and Laurel Westbrook. 2015. "Bathroom Battlegrounds and Penis Panics." *Contexts* 14(3): 26–31.](lecturas/C4/Schilt_Westbrook_2015.pdf)
 - [Blofield, Merike, and Juliana Martínez. 2014. "Trabajo, Familia y Cambios En La Política Pública En América Latina: Equidad, Maternalismo y Corresponsabilidad."](lecturas/C4/Blofield_Martinez_2014.pdf)
-- Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533.
+- [Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533.](lecturas/C4/Mickey_2019.pdf)
 - [Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.](lecturas/C4/Acker_1990.pdf)
-- [Hook, Jennifer L. 2006. "Care in Context: Men's Unpaid Work in 20 Countries, 1965–2003." *American Sociological Review* 71(4): 639–660.](lecturas/C4/Hook_2006.pdf)
 
 ### Clase 5: Sistema multinivel e interseccionalidad {.unnumbered}
 

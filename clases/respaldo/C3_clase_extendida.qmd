@@ -1,0 +1,526 @@
+---
+title: "Sociología del Género"
+subtitle: "SOL3061 | Clase 3. Nivel meso: interacciones"
+author: "Tania Hutt"
+lang: es
+format:
+  revealjs:
+    theme: [simple, slides.scss]
+    width: 1280
+    height: 720
+    margin: 0.06
+    slide-number: true
+    scrollable: true
+    link-external-newwindow: true
+    title-slide-attributes:
+      data-background-image: img/C3/portada.jpg
+      data-background-size: cover
+---
+
+## Memo de preguntas de investigación
+
+-   Fecha de entrega: **viernes 23 de octubre** a las 23:59 por Canvas.
+-   Extensión: **1 página**, espacio simple.
+-   Contenido:
+    1.  2 o 3 preguntas de investigación candidatas, enmarcadas en la sociología del género.
+    2.  Para cada una, 1 o 2 frases sobre por qué importa: qué problema, debate o vacío aborda.
+-   No se requiere un diseño de investigación.
+-   Se evalúa como completo o incompleto, con retroalimentación breve para ayudarles a elegir y afinar la pregunta.
+-   Siguiente etapa: **mapa crítico de literatura** (viernes 6 de noviembre).
+
+::: {.notes}
+Sugerencia: invitar a que piensen, durante la clase, si alguna de sus preguntas candidatas puede formularse a nivel interaccional (¿en qué situaciones se activa el género? ¿quién paga los costos de romper una norma?). El nivel meso es especialmente fértil para preguntas de investigación acotadas y observables.
+:::
+
+## Del nivel micro al nivel meso {.compact}
+
+-   La clase pasada: cómo el género se **incorpora** en cuerpos, identidades y disposiciones (Martin 1998; Ridgeway y Saperstein 2024).
+-   Hoy: cómo el género se **produce y reproduce en la interacción**, incluso cuando las personas no lo han internalizado ni lo endosan.
+
+::: {.box .box-q}
+**Puzzle de hoy:** si las diferencias individuales entre hombres y mujeres son pequeñas (Zell et al. 2015), ¿por qué la desigualdad de género es tan persistente? ¿Qué ocurre *entre* las personas que no se explica por lo que ocurre *dentro* de ellas?
+:::
+
+::: {.notes}
+Retomar el hallazgo de Zell et al. (clase 2): la mayoría de las diferencias entre sexos son triviales o pequeñas. Si la desigualdad no se explica por diferencias individuales, hay que buscar mecanismos en otro nivel. El argumento de hoy es que la interacción es un sitio privilegiado de reproducción de la desigualdad (Ridgeway y Correll 2004; Risman 2004): ahí las creencias culturales se convierten en conductas, evaluaciones y oportunidades diferenciadas. Pedir que retengan el puzzle y volver a él en la síntesis final.
+:::
+
+## Hoja de ruta
+
+::::: {.process}
+
+::: {.step}
+<h4>1\. Hacer género</h4>
+
+West y Zimmerman: el género como logro interaccional y rendición de cuentas.
+:::
+
+::: {.arrow}
+→
+:::
+
+::: {.step}
+<h4>2\. Creencias y estatus</h4>
+
+Ridgeway y Correll; Rudman et al.: cuándo y cuánto pesa el género.
+:::
+
+::: {.arrow}
+→
+:::
+
+::: {.step}
+<h4>3\. Interseccionalidad</h4>
+
+Chavez y Wingfield: ¿de qué hombres y mujeres hablan estas teorías?
+:::
+
+::: {.arrow}
+→
+:::
+
+::: {.step}
+<h4>4\. Determinar género</h4>
+
+Schilt; Westbrook y Schilt: quién decide quién cuenta como qué.
+:::
+
+:::::
+
+::: {.notes}
+La clase avanza de una teoría general del "cómo" (hacer género) a teorías que especifican "cuándo" y "con qué consecuencias" (estados de expectativa, hipótesis de incongruencia de estatus), luego problematiza su universalidad (interseccionalidad) y finalmente invierte la mirada: no solo hacemos género, sino que otras personas e instituciones *determinan* nuestro género. Distribución sugerida del tiempo: bloque 1 (25 min), bloque 2 (35 min), pausa, bloque 3 (20 min), bloque 4 (30 min) y discusión liderada (Malaika) y síntesis (30 min).
+:::
+
+# Hacer género
+
+## Normas y expectativas de género
+
+:::: {.columns}
+::: {.column width="38%"}
+![](img/C3/normas-1.jpg){fig-align="center"}
+
+![](img/C3/normas-2.jpg){fig-align="center" width="85%"}
+:::
+::: {.column width="62%"}
+-   El género lo "hacemos" en la medida que obedecemos o rompemos reglas y expectativas de género.
+-   Es la manera en que el género como constructo social se refuerza en la interacción social.
+-   Hay variación contextual, cultural, y temporal de las normas de género.
+:::
+::::
+
+## Teorías de "hacer género"
+
+-   "Sostenemos que el 'hacer género' es realizado por mujeres y hombres cuya competencia como miembros de la sociedad es rehén de su producción".
+-   El género es algo que uno hace, más que algo que uno es.
+-   "Hacer género significa crear diferencias entre niños y niñas y hombres y mujeres, diferencias que no son naturales, esenciales o biológicas. Una vez que las diferencias han sido construidas, se utilizan para reforzar la 'esencialidad' de género." (West y Zimmerman).
+-   ¿Ejemplos de "hacer género"?
+
+## Tres distinciones analíticas {.compact}
+
+[(West y Zimmerman 1987)]{.cite}
+
+<div class="pair">
+<div>
+**Sexo**
+
+Determinación basada en criterios biológicos socialmente acordados para clasificar a las personas como mujeres u hombres.
+</div>
+<div>
+**Categoría de sexo**
+
+Clasificación cotidiana basada en señales visibles (ropa, voz, vello facial) que se *presume* que reflejan el sexo, aunque casi nunca se verifica.
+</div>
+<div>
+**Género**
+
+Gestión de la conducta a la luz de concepciones normativas sobre lo apropiado para cada categoría de sexo.
+</div>
+</div>
+
+-   Concepto clave: **rendición de cuentas** (*accountability*). Siempre se nos puede pedir que expliquemos nuestra conducta en tanto mujeres u hombres, hagamos lo que hagamos.
+-   Por eso no es posible "no hacer género": incluso romper la norma se lee *en relación* con ella.
+
+::: {.notes}
+Esta distinción es central para el resto de la clase. Westbrook y Schilt (2014) se apoyan precisamente en la brecha entre "categoría de sexo" (lo que vemos) y "sexo" (lo que se presume): en la mayoría de las interacciones nadie verifica genitales o cromosomas, pero en ciertos espacios sí se exige verificación. La *accountability* es el concepto que hace de "hacer género" una teoría de la reproducción social y no solo de la performance individual: lo que nos obliga a hacer género no es la identidad interna, sino la expectativa de ser evaluados. Pregunta para el grupo: ¿en qué situaciones les han pedido, explícita o implícitamente, que "rindan cuentas" de su género?
+:::
+
+## ¿Por qué "hacemos género"? {.compact}
+
+[(Wade & Max Ferree 2023)]{.cite}
+
+-   Lo hemos "sobre aprendido": es un hábito, hemos aprendido a movernos y expresarnos de una manera y lo seguimos haciendo así de manera inconsciente.
+-   Por placer: hacer el género puede hacernos sentir bien, "performar bien" puede ser visto como una habilidad, y hacerlo de manera exitosa o elaborada puede ser gratificante.
+-   Para otras personas: porque nos sentimos observados y que debemos hacer género. Depende de la audiencia que tenemos.
+-   Para evitar la fiscalización de género: tenemos la responsabilidad de explicar y justificar nuestras decisiones cuando no seguimos las normas. Cuando no las seguimos, somos fiscalizados. Por ejemplo, las personas que no siguen las normas de feminidad, masculinidad, o heteronormatividad, son castigadas ("puta", "maricón", "niñita", "mandona").
+-   Las normas se rompen todo el tiempo, ya sea de manera incidental o intencional.
+
+::: {.notes}
+Notar que "evitar la fiscalización" es la versión cotidiana de la *accountability* de West y Zimmerman, y anticipa el argumento de Rudman et al. sobre el *backlash*: la sanción no es arbitraria, sino que protege una jerarquía. Los insultos del ejemplo no son simétricos: "niñita" y "maricón" sancionan a hombres por acercarse a lo femenino (devaluado), mientras "mandona" sanciona a mujeres por acercarse a lo dominante (reservado a hombres). Esa asimetría es lo que Rudman et al. explican.
+:::
+
+## Hacer género no binario
+
+:::: {.columns}
+::: {.column width="42%"}
+-   Es un desafío ser visto como no binario en un mundo de género binario, y muchas veces implica mezclar lo femenino con lo masculino.
+-   "Quiero que las personas me miren y no piensen que soy hombre o mujer. Si están confundidos, ese es el punto." (Kline, en Wade & Max Ferree 2023)
+:::
+::: {.column width="58%"}
+![](img/C3/no-binarie-chile.jpg)
+:::
+::::
+
+::: {.notes}
+Conectar con Ridgeway y Saperstein (clase 2): la categorización binaria funciona como marco primario automático. Ser leíde como no binarie exige trabajo interaccional sostenido precisamente porque el marco empuja a clasificar en una de dos categorías. Pregunta: ¿la confusión que busca Kline desestabiliza el sistema o es reabsorbida por él (por ejemplo, cuando las personas "resuelven" la ambigüedad asignando una categoría)?
+:::
+
+## Diferencias entre socialización y "hacer género"
+
+-   Ambos enfoques reconocen que los individuos luchan con cuestiones de género en que hay creencias y expectativas diferenciadas.
+-   Difieren en términos de si estas expectativas se vuelven intrínsecas al individuo (es decir, una parte de su identidad) o son una característica de interacciones continuas.
+-   "Doing Gender" también reconoce que no todo el mundo encuentra las mismas expectativas (puede haber diferentes maneras de "hacer" el género en su intersección con diferentes identidades).
+
+## ¿La socialización nos lleva a "hacer género"?
+
+-   Tal vez, pero ese no es el punto central de la teoría de "hacer" género.
+-   Lo central es abordar el género más como las expectativas de comportamiento de género que ya existen, sigamos o no estas expectativas.
+-   Ya sea que "hagamos" o "no hagamos" el género, esto puede tener consecuencias, por ejemplo en cómo las demás personas nos tratan en las interacciones.
+-   Incluso cuando hombres y mujeres se comportan de manera idéntica, puede haber consecuencias diferentes.
+
+::: {.notes}
+Este último punto es el puente hacia Ridgeway y Correll y Rudman et al.: si la misma conducta tiene consecuencias distintas según quién la realiza, el mecanismo no está en el individuo (su socialización), sino en las expectativas de quienes evalúan. Es una diferencia teórica con implicancias metodológicas: los diseños experimentales con conducta idéntica (Rudman et al.) o los "experimentos naturales" en que la misma persona cambia de categoría (Schilt) aíslan justamente ese mecanismo.
+:::
+
+## Críticas y extensiones de "hacer género" {.compact}
+
+-   **"Hacer diferencia"** (West y Fenstermaker 1995): raza y clase también son logros interaccionales sujetos a rendición de cuentas, y se hacen *simultáneamente* con el género.
+-   **¿"Deshacer género"?** (Deutsch 2007): el énfasis en la reproducción deja poco espacio para explicar el cambio. Si siempre "hacemos" género, ¿cuándo y cómo las interacciones reducen la diferencia de género?
+-   **Poder predictivo limitado** (Ridgeway y Smith-Lovin, citado en Chavez y Wingfield 2018): "hacer género" describe *cómo* se reproduce el género, pero no especifica *cuándo* el género importa más o menos, ni *cuánto*.
+
+::: {.box .box-q}
+Las teorías que siguen (estados de expectativa, incongruencia de estatus) intentan responder estas preguntas: especificar **condiciones** y **mecanismos**.
+:::
+
+::: {.notes}
+Esta diapositiva sitúa el debate teórico a nivel de posgrado. Deutsch (2007, Gender & Society) propone reservar "hacer género" para las interacciones que reproducen la diferencia y hablar de "deshacer género" cuando las interacciones la reducen; la crítica de fondo es que la teoría, tal como se usa, se vuelve infalsable: toda conducta es "hacer género", ya sea conformidad o resistencia. Chavez y Wingfield (2018, p. 186) señalan que "hacer género" ha sido menos exitosa como teoría predictiva, aunque muy influyente para pensar la interacción. Preguntar: ¿qué ganamos y qué perdemos al pasar de una teoría interpretativa (etnometodología) a teorías que buscan predecir (psicología social sociológica)?
+:::
+
+# Creencias de género y estatus
+
+## Creencias de género y relaciones sociales {.compact}
+
+[(Ridgeway & Correll 2004)]{.cite}
+
+-   Las creencias culturales de género hegemónicas, que son ampliamente compartidas, tienen un efecto en los contextos sociales relacionales.
+    -   Situación en que las personas se definen a ellas mismas en relación a otras para poder actuar, ya sea en interacciones o solas si es que sienten que su comportamiento o sus consecuencias serán evaluadas socialmente.
+-   **Gender beliefs**: creencias culturales que definen las características distinguibles entre hombres y mujeres y que definen lo que es esperable en términos de comportamiento.
+    -   Mujeres más comunales (orientación hacia lo comunitario) y los hombres más instrumentales y con mayor agencia.
+    -   Es jerárquico ya que los hombres son vistos como más competentes en general y en las dimensiones que son más valoradas por la sociedad, y lo contrario con las mujeres.
+    -   Son hegemónicos, y al serlo todos los conocemos, aunque no los endorsemos personalmente.
+
+## Las creencias como reglas de la estructura {.compact}
+
+[(Ridgeway & Correll 2004)]{.cite}
+
+-   Siguiendo a Sewell (1992), una estructura social está constituida por **esquemas culturales** (reglas) y **distribuciones de recursos**. Las creencias de género son uno de los "dos pilares" del sistema de género.
+-   Los estereotipos no son solo sesgos cognitivos individuales: son **instrucciones culturales** para actuar la diferencia y la desigualdad.
+-   Basta con **creer que los demás creen** en ellos para que operen: por eso afectan incluso a quienes los rechazan.
+-   ¿De quién son estas creencias? Describen sobre todo a hombres y mujeres **blancos, de clase media y heterosexuales**, porque los grupos dominantes tienen los recursos para inscribirlas en medios, políticas e instituciones.
+-   **Creencias no hegemónicas**: entre pares que se saben afines, se activan creencias alternativas (Filardo 1996; Milkie 1999).
+
+::: {.notes}
+Este es el movimiento teórico más importante del texto y suele pasarse por alto. Al apoyarse en Sewell, Ridgeway y Correll sacan los estereotipos de la psicología individual y los ubican en la estructura: son esquemas que se actualizan en la práctica y que, a su vez, producen distribuciones de recursos que parecen confirmarlos. Evidencia de creencias no hegemónicas: Filardo observó que en grupos mixtos de estudiantes afroamericanos las diferencias de género en participación eran mucho menores que en grupos de estudiantes blancos, y la diferencia se debía a la conducta de las niñas; Milkie encontró que las adolescentes afroamericanas conocían los estándares hegemónicos de belleza tanto como las blancas, pero su autoestima no dependía de ellos, porque esperaban ser evaluadas con estándares alternativos. Dejar planteada la tensión que retomará Chavez y Wingfield: si las creencias hegemónicas son blancas y de clase media, ¿qué pasa con quienes no son prototípicos?
+:::
+
+## "Gender stereotypes as gender rules"
+
+-   Como vemos en Rudman et al. (2012) estas creencias no son solo descriptivas (cómo creemos que hombres y mujeres ***son***) sino que también:
+    -   Prescriptivas: cómo hombres y mujeres ***deben*** comportarse y
+    -   Proscriptivas: cómo hombres y mujeres ***no deben*** comportarse.
+-   Por ejemplo, las mujeres son penalizadas o castigadas socialmente cuando no siguen normas proscriptivas al ser líderes con agencia, ambiciosas, muy competentes (e.g., Rudman & Glick 1999, Quadlin 2018)
+
+## {background-color="#f4f4f4"}
+
+:::: {.columns}
+::: {.column width="38%"}
+Las mujeres con rendimiento académico muy alto son penalizadas en el mercado laboral, especialmente cuando vienen de áreas matemáticas. La evidencia sugiere que los empleadores valoran a las mujeres más por ser amistosas, mientras que a los hombres por ser competentes y comprometidos (Quadlin 2018).
+:::
+::: {.column width="62%"}
+![](img/C3/quadlin.png){fig-align="center"}
+:::
+::::
+
+## En los contextos sociales relacionales…
+
+1.  **Hay una categorización de sexo.** Categorizamos a otras personas con respecto a su sexo de manera automática e inconsciente. Suele ser la primera categoría en que agrupamos, mostrando que el género es un principio organizador importante. En general ocurre en base a apariencias y señales de comportamiento.
+2.  **El género tiende a ser difuso y operar como identidad "de fondo".** Hay otras identidades que son culturalmente más específicas (jefe y empleado/a) que están "al frente". El impacto de las creencias varía según el contexto, y se combina con las otras identidades y roles relevantes al contexto (ej. sesgo en cómo llevamos a cabo el rol de jefe y empleado/a).
+
+::: {.notes}
+Ridgeway y Correll conectan explícitamente este punto con West y Zimmerman: que el género opere "de fondo", sesgando la manera en que se ejerce el rol de gerente, empleada o estudiante, es otra forma de decir que el género es algo que se hace y no algo que se es. Nótese también que la categorización de sexo, aunque automática, es socialmente construida: se basa en señales que se presumen reflejo del sexo (la "categoría de sexo" de West y Zimmerman).
+:::
+
+## Cuándo el género es efectivamente destacado (*salient*)
+
+:::: {.columns}
+::: {.column width="38%"}
+![](img/C3/salient-escuela.jpg){fig-align="center"}
+
+![](img/C3/salient-ballet.jpg){fig-align="center" width="75%"}
+:::
+::: {.column width="62%"}
+-   **Situaciones mixtas:** cuando los actores reales o implicados son de diferente categoría sexual.
+-   Situaciones en contextos **tipificados por género**: cuando los estereotipos de un género u otro están culturalmente vinculados a las actividades centrales de la situación.
+:::
+::::
+
+::: {.notes}
+Ejemplo del texto: si las matemáticas están culturalmente definidas como masculinas, las creencias de género serán salientes incluso en una clase de matemáticas solo de mujeres (Correll 2001). Por eso la composición del grupo no basta para neutralizar el género: el contenido de la tarea también lo activa.
+:::
+
+## Expectation states theory {.compact}
+
+[(Berger et al. 1977; Correll & Ridgeway 2003; Ridgeway & Correll 2004)]{.cite}
+
+-   Las creencias sobre un mayor status de los hombres moldean implícitamente las expectativas que los participantes tienen de su propia competencia y la de los demás. Y estas expectativas operan como profecías autocumplidas. Esto impacta en:
+    -   Autopercepciones de competencia afecta cómo las personas interactúan, cuánto aportan y cómo valoran ese aporte.
+    -   Doble estándar: incluso cuando a hombres y mujeres les va igual de bien, los hombres se evalúan a sí mismos y a otros hombres con mayor habilidad que las mujeres.
+        -   Para ser evaluadas de manera similar, muchas veces las mujeres deben ser más exitosas en la tarea que los hombres (pero no tanto → Quadlin).
+
+## Un "peso en la balanza" que se acumula {.compact}
+
+[(Ridgeway & Correll 2004)]{.cite}
+
+-   En cada situación el efecto del género es **pequeño**: las diferencias individuales casi siempre pesan más. Pero las vidas transcurren en miles de contextos relacionales, y los pequeños sesgos **se acumulan** en trayectorias muy distintas.
+-   **Persistencia de la jerarquía:** el contenido de lo que hacen hombres y mujeres cambia, pero se preserva el supuesto de que los hombres son más competentes en "lo que importa" (p. ej., la pediatría "contaba" más antes de feminizarse).
+-   **La jerarquía se reescribe en lo nuevo:** en industrias u ocupaciones emergentes, poco reguladas, las relaciones interpersonales generizadas se cristalizan como reglas de la nueva organización.
+-   **Ni "demanda" ni "oferta":** discriminación y "elecciones" están entrelazadas. Las niñas se atribuyen menos habilidad matemática que niños con iguales notas, y eso predice quién sigue carreras científicas (Correll 2001).
+-   Los procedimientos formales (transparencia, rendición de cuentas por equidad) **reducen** el sesgo; los espacios poco estructurados (entrevistas, reuniones, *start-ups*) lo **amplifican**.
+
+::: {.notes}
+Esta diapositiva responde al puzzle inicial: la desigualdad persistente no requiere grandes diferencias individuales ni discriminación abierta, sino sesgos pequeños, sistemáticos y acumulativos. El argumento sobre la "oferta" es clave para el feminismo: Ridgeway y Correll muestran cómo las "elecciones voluntarias" de las mujeres son socialmente construidas sin culpar a las víctimas. El punto sobre la "reescritura" en lo nuevo es muy útil para pensar sectores contemporáneos (tecnología, economía de plataformas, inteligencia artificial). Preguntar: ¿qué espacios poco estructurados de la universidad o de sus lugares de trabajo podrían amplificar estos sesgos? La última viñeta anticipa la clase 4 (instituciones generizadas, Acker): las organizaciones pueden incrustar o contener los sesgos interaccionales.
+:::
+
+## Discusión 1 {.center}
+
+![](img/C3/icono-discusion.png){fig-align="left" width="180"}
+
+**Ridgeway y Correll sostienen que las creencias hegemónicas operan aunque no las endosemos personalmente. Si eso es así, ¿qué estrategias de cambio son plausibles? ¿Bastan la educación y el cambio de actitudes, o se necesita intervenir en la estructura de los contextos (composición, tipificación, procedimientos)?**
+
+::: {.notes}
+Buscar que distingan entre cambiar actitudes individuales (lo que yo creo) y cambiar expectativas de segundo orden (lo que creo que los demás creen). Ridgeway y Correll concluyen que el sistema solo se erosiona mediante la acumulación de desafíos cotidianos y cambios socioeconómicos, no de forma inevitable. Conectar con la evidencia de que los procedimientos formales reducen el sesgo. Posible contrapunto: ¿no es esta teoría demasiado estable? ¿Dónde está el cambio y la agencia? (vuelve la crítica de Deutsch).
+:::
+
+## La hipótesis de incongruencia de estatus {.compact}
+
+[(Rudman, Moss-Racusin, Phelan & Nauts 2012)]{.cite}
+
+-   **Doble vínculo:** para parecer calificadas, las mujeres deben mostrar agencia; pero si la muestran, sufren ***backlash***: se las ve igual de competentes pero menos agradables y menos contratables que hombres que actúan igual.
+-   La teoría de congruencia de rol (Eagly y Karau 2002) explica el primer obstáculo (la "falta de ajuste"), pero no especifica **qué** norma se viola ni **por qué** se sanciona.
+-   **Hipótesis de incongruencia de estatus (HIE):** las mujeres agénticas no se sancionan por ser poco amables, sino por **violar la jerarquía de estatus**. El *backlash* es una forma de **defender el orden de género**.
+
+::: {.notes}
+El aporte de Rudman et al. es pasar de una explicación cognitiva (las personas perciben un desajuste entre "mujer" y "líder") a una explicación motivacional (las personas, a menudo de manera no consciente, defienden una jerarquía que perciben como legítima). Esto conecta con la teoría de justificación del sistema (Jost y Banaji). Señalar que el texto dialoga directamente con Ridgeway: el estatus es la dimensión de las creencias de género que más importa para la desigualdad.
+:::
+
+## Reglas de género y estatus {.compact}
+
+[(Rudman et al. 2012, Estudio 1)]{.cite}
+
+|                   | **Prescripciones** (*deben* ser)                          | **Proscripciones** (*no deben* ser)                         |
+|:------------------|:----------------------------------------------------------|:------------------------------------------------------------|
+| **Mujeres**       | Comunales: cálidas, sensibles, cooperativas. *Estatus mixto.* | Dominantes: controladoras, arrogantes, agresivas. ***Alto estatus.*** |
+| **Hombres**       | Agénticos: líderes, ambiciosos, seguros. ***Alto estatus.*** | Débiles: inseguros, ingenuos, emotivos. ***Bajo estatus.*** |
+
+-   Lo que se prohíbe a las mujeres es justamente lo que define al **alto estatus**; lo que se prohíbe a los hombres es lo que define al **bajo estatus**.
+-   Las reglas de género son, en buena medida, **reglas de estatus**.
+
+::: {.notes}
+El Estudio 1 pidió calificar 64 rasgos en tres dimensiones por separado: cuán típicos son de hombres o mujeres, cuán deseables o indeseables son para cada uno, y cuán característicos son de personas de alto o bajo estatus. El hallazgo clave es la alineación asimétrica: todas las prescripciones masculinas son de alto estatus, mientras que las prescripciones femeninas son mixtas. Esto explica por qué la sanción a las mujeres no es por "falta de calidez" sino por "exceso de dominancia". Para hombres, la regla es doble: deben mostrar agencia y evitar cualquier signo de debilidad.
+:::
+
+## ¿Qué muestran los experimentos? {.compact}
+
+[(Rudman et al. 2012, Estudios 2–5)]{.cite}
+
+-   El prejuicio contra líderes mujeres agénticas está **mediado por una penalización por dominancia**: se las percibe más dominantes que a hombres idénticos, no menos cálidas.
+-   Quienes **justifican el sistema de género** aplican más la penalización (Estudio 3), y una **amenaza al sistema** la intensifica (Estudio 4).
+-   Solo las líderes **agénticas** fueron **saboteadas** por sus subordinados; las líderes de baja agencia no (Estudio 5).
+-   Las mujeres ejercen *backlash* **tanto como los hombres**: ambos tienen intereses en el *statu quo*.
+-   También aplica a hombres: hombres modestos, exitosos en ocupaciones feminizadas o que piden licencia para cuidar son percibidos como débiles y penalizados.
+-   El dilema: las mujeres evitan la sanción "liderando sin liderar", pero rebajar el estatus amenaza su competencia percibida y no eleva el estatus de las mujeres como grupo.
+
+::: {.notes}
+Insistir en el punto de que las mujeres también sancionan: el backlash no es simplemente "sexismo de los hombres", sino defensa de un orden en que ambos géneros están interdependientes. Pregunta metodológica para el posgrado: los estudios usan estudiantes universitarios estadounidenses evaluando viñetas o confederados en laboratorio. ¿Qué gana y qué pierde el diseño experimental? ¿Cómo estudiaríamos el backlash en contextos reales (por ejemplo, evaluaciones docentes, comentarios en redes a políticas, procesos de promoción)? Los propios autores reconocen que la investigación se centró en personas blancas, lo que abre el bloque siguiente: ¿los afroamericanos varones enfrentan proscripciones de dominancia más fuertes?
+:::
+
+# Interseccionalidad: ¿de qué hombres y mujeres hablamos?
+
+## Teorías "blanqueadas" {.compact}
+
+[(Chavez & Wingfield 2018)]{.cite}
+
+-   Las teorías de la interacción generizada (hacer género, estados de expectativa, congruencia de rol, *backlash*) comparten un **punto ciego**: tratan el género en aislamiento de la raza.
+-   Como las creencias hegemónicas de género se orientan a hombres y mujeres **blancos de clase media**, estas teorías son aparentemente neutrales respecto de la raza pero en la práctica son *"white-washed"*.
+-   Dos maneras de incorporar la raza:
+    1.  **Constructos separados:** se activa el marco de género *o* el de raza según cuál sea más saliente; o las desventajas se suman (**doble riesgo**).
+    2.  **Prototipicalidad interseccional** (Ridgeway y Kricheli-Katz 2013; Purdie-Vaughns y Eibach 2008): género y raza se construyen como separados, pero **se superponen implícitamente**.
+
+::: {.notes}
+Este texto toma en serio la advertencia que Ridgeway y Correll hacen al pasar (las creencias hegemónicas describen a personas blancas de clase media) y la lleva hasta sus consecuencias. La teoría del "objetivo masculino subordinado" (Sidanius y Veniegas) sostiene que la discriminación racial apunta a los hombres de grupos minoritarios y la de género a las mujeres; la del doble riesgo, que las mujeres de color acumulan ambas. Ambas tratan raza y género como ejes separables. La prototipicalidad interseccional rompe con eso.
+:::
+
+## Prototipicalidad interseccional {.compact}
+
+[(Chavez & Wingfield 2018)]{.cite}
+
+-   El género está implícitamente **racializado** (la mujer prototípica es blanca) y la raza está implícitamente **generizada** (las personas negras se asocian con hipermasculinidad, las asiáticas con feminidad).
+-   Quienes no son prototípicos de ninguna categoría (en EE.UU., **mujeres negras** y **hombres asiáticos**) enfrentan "**ataduras y libertades**" específicas:
+
+<div class="pair">
+<div>
+**Ataduras**
+
+Invisibilidad social: se les recuerda y se les atribuyen sus ideas con menos frecuencia. Más acoso laboral para mujeres de minorías. Penalización en el mercado afectivo. Hombres negros sancionados por dominancia y sin "escalera de cristal" en ocupaciones feminizadas.
+</div>
+<div>
+**Libertades**
+
+Las mujeres negras líderes no sufren el mismo *backlash* por dominancia que las mujeres blancas (Livingston et al. 2012), aunque se les castiga más cuando la organización fracasa. Algunas usan estratégicamente la ira o una presencia "fuerte" para no ser invisibles.
+</div>
+</div>
+
+::: {.notes}
+El ejemplo de Livingston, Rosette y Washington (2012) es un contrapunto directo a Rudman et al.: la penalización por dominancia no es universal para "las mujeres", sino que depende de cómo se cruzan los estereotipos raciales y de género. Wingfield (2010) muestra que profesionales negras expresan estratégicamente enojo para ser tomadas en serio, mientras que profesionales negros evitan conductas que podrían leerse como agresivas. Los autores son cautos: buena parte de la evidencia es experimental y no observa interacciones reales; por eso hablan de evidencia "sugerente". Su agenda: estudiar a la población latinx, sumar sexualidad y clase, mirar creencias no hegemónicas y usar diseños longitudinales y de encuestas.
+:::
+
+## Discusión 2 {.center}
+
+![](img/C3/icono-discusion.png){fig-align="left" width="180"}
+
+**Chavez y Wingfield piensan desde la jerarquía racial de EE.UU. ¿Quiénes son las mujeres y los hombres "prototípicos" en Chile? ¿Cómo se cruzan el género con la clase, el color de piel, la pertenencia a pueblos indígenas o la condición migrante en las interacciones cotidianas? ¿Qué "ataduras y libertades" podríamos esperar?**
+
+::: {.notes}
+Pedir ejemplos concretos: interacciones en el trabajo doméstico remunerado, en la sala de clases, en la atención de salud, en la selección de personal. Posibles ejes: la blanquitud asociada a la clase alta en Chile, la racialización de mujeres migrantes (haitianas, venezolanas, peruanas) y de mujeres mapuche, la masculinidad de hombres de sectores populares. Es una buena oportunidad para conectar con posibles preguntas de investigación del memo.
+:::
+
+# Determinar género: experiencias trans como lente analítico
+
+## Just one of the guys? {.compact}
+
+[Kristen Schilt (2011)]{.cite}
+
+-   Entrevistas con hombres trans sobre sus experiencias en el trabajo, cómo negocian trabajar como hombres y hombres trans.
+    -   Personas que se mantuvieron en el mismo trabajo
+    -   Personas que encontraron nuevos trabajos donde siempre fueron conocidos como hombres
+    -   Personas que encontraron nuevos trabajos donde fueron conocidos como trans.
+-   En Texas (más conservador) y California (más liberal).
+-   Rango de ocupaciones: abogados, construcción, profesores, retail, servicios de comida.
+-   54 entrevistados, en su mayoría blancos (80%), de 18 a 64 años.
+-   Comparación de dos estrategias en el trabajo: *open* (hombres trans que son públicamente trans) y *stealth* (hombres trans que no cuentan que son trans—"disimulo").
+
+## Just one of the guys?
+
+[Kristen Schilt (2011)]{.cite}
+
+:::: {.columns}
+::: {.column width="65%"}
+-   Posición única de moverse a una categoría de género que tiene mayor estatus y ventajas sociales, culturales y económicas.
+-   **¿Qué significa "alcanzar la hombría social" (*achieving social maleness*)? ¿Cómo se relaciona con el cuerpo? ¿Y de qué manera es un proceso interaccional?**
+:::
+::: {.column width="35%"}
+![](img/C3/schilt-portada.png){fig-align="center"}
+:::
+::::
+
+::: {.notes}
+Lógica de diseño: los hombres trans que permanecen en el mismo trabajo funcionan como una especie de experimento natural. Tienen la misma educación, experiencia y habilidades antes y después de la transición, pero cambia la categoría de sexo en que los ubican los demás. Si el trato cambia, el mecanismo está en las expectativas de los otros, como predice la teoría de estados de expectativa. Es una forma de aislar el mecanismo sin laboratorio.
+:::
+
+## Hallazgos de Schilt (2011) {.compact}
+
+Ejemplos de:
+
+1.  **Hacer género:** cómo es adecuado o apropiado tocar a alguien en el trabajo cambia, palmada en el pecho versus abrazos; cambios corporales necesarios para alcanzar la hombría social.
+2.  **Privilegio masculino:** facilidad laboral post transición, el mismo comportamiento es interpretado y valorado de manera diferente (opiniones ahora más válidas, mejor sentido del humor), cómo los hombres viejos los tratan, no sentir miedo en la noche.
+3.  **Desventaja masculina:** ser una amenaza para mujeres, segregados de espacios femeninos.
+
+::: {.notes}
+Conectar con Chavez y Wingfield: Schilt muestra que el "dividendo" masculino no se distribuye por igual. Los beneficios eran más claros para hombres trans blancos y altos; algunos hombres trans de color relataron ser percibidos como amenaza tras la transición. Es decir, la teoría de estados de expectativa funciona como se predice para quienes encarnan la masculinidad prototípica. La "desventaja masculina" (ser leído como amenaza para mujeres) anticipa el argumento de Westbrook y Schilt sobre la vigilancia asimétrica de los espacios de mujeres.
+:::
+
+## De "hacer" a "determinar" género {.compact}
+
+[(Westbrook & Schilt 2014)]{.cite}
+
+-   **Determinar género:** las prácticas sociales mediante las cuales *otras personas e instituciones* ubican a alguien en una categoría de género. Es la contracara de hacer género: yo presento información, otros la interpretan y deciden.
+-   Dos ideologías en tensión:
+    -   **Basada en la biología:** el género es un hecho innato e inmutable ("hay cosas que no se pueden hacer existir por voluntad").
+    -   **Basada en la identidad:** se reconoce a una persona en la categoría con la que se identifica, *si* otros validan su reclamo como legítimo.
+-   Casos: proyectos de ley de derechos laborales trans, requisitos de cirugía para cambiar el sexo registral, y reglas para atletas trans.
+
+::: {.notes}
+El caso que abre el artículo (Littleton v. Prange, Texas, 1999) es útil para la clase: una mujer trans con documentos, matrimonio y veinte años viviendo como mujer fue declarada "cromosómicamente varón" por un tribunal. Subrayar que la ideología basada en la identidad no es un "todo vale": requiere validación social. Esto extiende a West y Zimmerman, quienes estudiaban la atribución en interacciones cara a cara, hacia políticas, tribunales e interacciones imaginadas (cómo las personas cis imaginan encuentros con personas trans).
+:::
+
+## Los criterios varían según el espacio {.compact}
+
+[(Westbrook & Schilt 2014; Schilt & Westbrook 2009)]{.cite}
+
+::: {style="font-size: 0.68em;"}
+| Tipo de espacio | Criterio dominante | Ejemplos |
+|:----------------|:-------------------|:---------|
+| **No sexual, integrado** | Identidad | Lugares de trabajo, interacciones públicas |
+| **No sexual, segregado** | Identidad + cuerpo (genitales, hormonas) | Baños, camarines, deporte competitivo |
+| **Sexual o sexualizado** | Biología (genitales) | Citas, relaciones sexuales |
+:::
+
+-   Mientras más "**oposición**" entre géneros presupone un espacio, más se exige demostrar diferencia corporal.
+-   **Pánicos de género:** reacciones que reafirman frenéticamente la naturalidad del binario cuando este se ve desafiado.
+-   **Trabajo de naturalización:** políticas (p. ej., requisitos quirúrgicos u hormonales) que calman el pánico y restituyen el binario.
+
+::: {.notes}
+Idea clave: una misma persona trans puede tener un "género social", un "género sexual" y un "género deportivo" distintos. Ejemplo del texto: Kye Allums, hombre trans que jugaba básquetbol universitario en un equipo de mujeres; su género social era "hombre" y su género deportivo "mujer", mientras no iniciara testosterona. Los autores sostienen que el paso de criterios cromosómicos (inmutables) a criterios genitales u hormonales (modificables) muestra cierta apertura, pero preserva la lógica del sistema sexo/género/sexualidad: las personas que podrían cuestionarlo son "repatriadas" al binario. Conectar con debates actuales en Chile (Ley de Identidad de Género 21.120, participación de deportistas trans).
+:::
+
+## Vigilancia asimétrica y heteronormatividad {.compact}
+
+-   **Los espacios de mujeres se vigilan más** que los de hombres, por creencias de que las mujeres son inherentemente vulnerables y los hombres peligrosos. Así se reproduce la desigualdad **bajo la apariencia de proteger a las mujeres** (Westbrook y Schilt 2014).
+-   **Hacer género es hacer heteronormatividad** (Schilt y Westbrook 2009): la heterosexualidad requiere un binario de cuerpos "opuestos", por eso el género se exige con más rigor en situaciones sexuales.
+    -   En el trabajo, los "**normales de género**" (personas cis) suelen incorporar a los hombres trans, incluso mediante rituales que reafirman la diferencia de género.
+    -   En lo sexual, la "falla" en cumplir el criterio genital se responde de forma generizada: los hombres recurren más a la violencia, y la prensa la enmarca como reacción a un "**engaño**".
+
+[Aviso: Schilt y Westbrook (2009) incluye contenido sensible sobre violencia.]{.small}
+
+::: {.notes}
+El argumento de 2009 retoma a MacKinnon ("la sexualidad es el eje de la desigualdad de género") y a la crítica de la heterosexualidad obligatoria: el sistema de género que privilegia la masculinidad privilegia también la heterosexualidad, y su mantenimiento descansa en la devaluación de lo femenino y de la homosexualidad. Combina dos estudios: entrevistas de Schilt con hombres trans y sus compañeros de trabajo, y el análisis de Westbrook de noticias sobre asesinatos de personas trans, donde predomina el encuadre del "engaño". Este encuadre desplaza la responsabilidad hacia la víctima y protege la heterosexualidad del agresor. Abordar con cuidado; puede haber estudiantes para quienes este contenido es cercano.
+:::
+
+## Discusión 3 {.center}
+
+![](img/C3/icono-discusion.png){fig-align="left" width="180"}
+
+**¿Qué nos permiten ver las experiencias de personas trans sobre el funcionamiento del género para *todas* las personas? Si los criterios para determinar el género cambian según el espacio, ¿qué dice eso sobre la idea de que el género es un atributo estable del individuo? ¿Y por qué son los espacios de mujeres los que concentran el conflicto?**
+
+::: {.notes}
+Espacio para la discusión liderada (Malaika). Evitar que la discusión se centre en "el problema trans" y orientarla hacia lo que estos casos revelan del sistema: las personas cis también son constantemente evaluadas y clasificadas, solo que su clasificación rara vez se cuestiona. Conectar con Rudman (la protección de la jerarquía como motivo de la sanción) y con Ridgeway y Correll (los contextos tipificados por género y la oposición binaria). Pregunta de cierre posible: ¿es la segregación por género una política de igualdad o un mecanismo de reproducción de la diferencia?
+:::
+
+## Discusión {.center}
+
+![](img/C3/icono-discusion.png){fig-align="left" width="180"}
+
+## Síntesis: cinco lentes sobre la interacción {.compact}
+
+::: {style="font-size: 0.68em;"}
+| Enfoque | Pregunta central | Mecanismo | Límite |
+|:--------|:-----------------|:----------|:-------|
+| **Hacer género** (West y Zimmerman) | ¿Cómo se produce la diferencia? | Rendición de cuentas | Poco predictivo; difícil explicar el cambio |
+| **Estados de expectativa** (Ridgeway y Correll) | ¿Cuándo y cuánto pesa el género? | Creencias de estatus → profecías autocumplidas | Supone creencias hegemónicas "blancas" |
+| **Incongruencia de estatus** (Rudman et al.) | ¿Por qué se sanciona a quien rompe la norma? | Defensa de la jerarquía (*backlash*) | Evidencia de laboratorio, muestras blancas |
+| **Prototipicalidad interseccional** (Chavez y Wingfield) | ¿A quién aplican estas teorías? | Superposición implícita raza-género | Poca evidencia de interacciones reales |
+| **Determinar género** (Westbrook y Schilt) | ¿Quién decide quién cuenta como qué? | Criterios variables según espacio; pánicos | Centrado en EE.UU. y en el binario |
+:::
+
+::: {.notes}
+Volver al puzzle inicial: la persistencia de la desigualdad no requiere grandes diferencias individuales. Pequeños sesgos de estatus (Ridgeway y Correll), sancionados cuando se desafían (Rudman), distribuidos de manera desigual según raza y otras posiciones (Chavez y Wingfield), y protegidos por el trabajo de clasificar y vigilar fronteras (Westbrook y Schilt), bastan para reproducirla. Puente con la clase 4: estos procesos interaccionales se cristalizan en organizaciones e instituciones (Acker, organizaciones generizadas).
+:::

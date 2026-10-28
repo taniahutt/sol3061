@@ -1,0 +1,239 @@
+---
+title: "Sociología del Género"
+subtitle: "SOL3061 | Clase 4. Nivel macro: instituciones"
+author: "Tania Hutt"
+lang: es
+format:
+  revealjs:
+    theme: [simple, slides.scss]
+    width: 1280
+    height: 720
+    margin: 0.06
+    slide-number: true
+    scrollable: true
+    link-external-newwindow: true
+    title-slide-attributes:
+      data-background-image: img/C4/portada.jpg
+      data-background-size: cover
+---
+
+## Evaluación temprana
+
+-   La envié por correo: por favor contéstenla **antes del lunes 2 de noviembre**.
+-   ¡Solo dos preguntas cortas!
+
+## Nivel macro: instituciones
+
+![](img/C4/nivel-macro.png){fig-align="center" width="95%"}
+
+## Instituciones generizadas
+
+-   Además de ser un conjunto de ideas y algo que uno "hace", el género también es un **principio organizador** que permea nuestras instituciones sociales.
+-   Las creencias e ideas de género que afectan nuestros ambientes ejercen una influencia en nuestras vidas **independiente** de nuestras propias creencias, personalidades e interacciones.
+-   El género permea en las **normas** (creencias y prácticas conocidas y seguidas ampliamente) y **políticas** (expectativas y reglas explícitas y codificadas) institucionales.
+
+## *Gendered institutions*
+
+:::: {.columns}
+::: {.column width="42%"}
+-   El género se usa como principio organizador, por ejemplo, **canalizando** a hombres y mujeres hacia diferentes espacios o actividades, que son **valorados de manera diferente**.
+-   Qué tan saliente es el género varía a través de las diferentes partes, espacios y actividades de la institución.
+:::
+::: {.column width="58%"}
+![](img/C4/uniformes.jpg)
+:::
+::::
+
+## Sexismo estructural
+
+-   Las instituciones generizadas afirman y refuerzan tanto las **diferencias** como la **desigualdad** de género, de manera interseccional.
+-   Resulta en **desigualdades institucionalizadas**: producidas y reproducidas por el funcionamiento rutinario de las instituciones.
+-   ¿Ejemplo de Crocco-Valdivia y Galaz-Valderrama (2023) sobre universidades generizadas?
+
+# Organizaciones generizadas
+
+## Organizaciones generizadas
+
+[(Acker 1990)]{.cite}
+
+-   Antes de Acker, las organizaciones se entendían como asexuadas o neutras con respecto al género.
+-   **Lógica organizacional:** los sistemas de reglas y políticas, descripciones de cargo, escalas de salario y evaluaciones que damos por sentado.
+-   El género es una parte integral de la estructura y los procesos organizacionales, ya que está implicado en los contratos en los que se basan las organizaciones.
+
+## El trabajador "abstracto" {.compact}
+
+[(Acker 1990)]{.cite}
+
+-   La naturaleza generizada de las organizaciones se esconde bajo trabajos y jerarquías **aparentemente abstractos y neutros**, que en realidad asumen una división del trabajo por género y están definidos por la dominancia masculina.
+    -   Asumen que el trabajador típico es **hombre**, con cuerpo y sexualidad masculinos y un rol mínimo en la procreación.
+    -   Esto marginaliza a las mujeres y sirve como estrategia de control y de mantenimiento de la segregación de género en la organización.
+
+::: {.quote-callout}
+"The concept of a universal worker excludes and marginalizes women who cannot, almost by definition, achieve the qualities of a real worker because to do so is to become a man" (Acker 1990, 150).
+:::
+
+## Género en cinco procesos organizacionales
+
+[(Acker 1990)]{.cite}
+
+1.  **Divisiones de género:** tipo de trabajo, comportamientos permitidos, uso del espacio, distribución del poder.
+2.  **Símbolos e imágenes** que explican, refuerzan o se oponen a esas divisiones.
+3.  **Interacciones** de dominio y sumisión.
+4.  **Presentación de sí**: lenguaje, ropa.
+5.  **Lógica organizacional**: reglas, contratos, evaluaciones de desempeño.
+
+::: {.notes}
+Ejemplos de cada proceso. (1) Divisiones de género: en el tipo de trabajo, los comportamientos que son permitidos, el uso del espacio físico y la distribución del poder. (2) Símbolos e imágenes: por ejemplo, la imagen del gerente como una masculinidad fuerte y exitosa. (3) Interacciones: por ejemplo, diferencias de género en las conversaciones (tomar turnos, interrupciones, tiempo de habla); aquí se conecta con lo visto en la clase 3 (Ridgeway y Correll). (4) Presentación o expresión propia: uso del lenguaje, ropa, componentes de la identidad de género que se construyen en relación con la organización. (5) Lógica organizacional: las reglas, contratos y evaluaciones de desempeño, aparentemente neutrales, que asumen al trabajador "universal".
+:::
+
+## Baños públicos {background-image="img/C4/banos.jpg" background-size="cover" .on-dark}
+
+::: panel
+**¿Qué revela el diseño y la regulación de los baños públicos sobre el género como principio organizador?**
+:::
+
+::: {.notes}
+Puntos para la discusión. Separación binaria: los baños divididos en "hombres" y "mujeres" refuerzan una visión binaria del género. Supuestos corporales: se asume que los cuerpos determinan el espacio que deben ocupar. Normas de protección: la idea de que las mujeres necesitan protección en espacios públicos refuerza estereotipos de vulnerabilidad. Exclusión de identidades trans y no binarias: la estructura actual invisibiliza y excluye otras experiencias de género. Control institucional: las reglas sobre quién puede usar qué baño reflejan políticas explícitas e implícitas sobre género.
+:::
+
+## {.center}
+
+:::: {.columns}
+::: {.column width="45%"}
+![](img/C4/banos-colorado.png){fig-align="center"}
+:::
+::: {.column width="55%"}
+![](img/C4/banos-canada.png){fig-align="center"}
+
+![](img/C4/banos-maryland.png){fig-align="center"}
+:::
+::::
+
+## Baños y "penis panics"
+
+[(Schilt & Westbrook 2015)]{.cite}
+
+-   Foco solo en baños **de mujeres**, no en baños de hombres.
+-   El problema son los **genitales**, no la identidad.
+-   Supuesto heterosexual: los baños como zonas "libres de sexualidad".
+-   Mujeres como **débiles** que necesitan protección; personas trans como merecedoras de **menos** protección.
+
+::: {.notes}
+Desarrollo de los argumentos de Schilt y Westbrook (2015). El foco en cuerpos biológicamente "masculinos" demuestra que el problema son los genitales, no la identidad. El supuesto heterosexual asume que los baños segregados son zonas libres de sexualidad. Las personas LGBTQ han sido históricamente asociadas con predadores sexuales. Se construye un espacio "solo de mujeres" en que la presencia del pene es una amenaza y un peligro. Esto reproduce la imagen de las mujeres como débiles y necesitadas de protección, e implica que las personas trans merecen menos protección que mujeres y niños. Las imágenes de la diapositiva anterior (campañas en Colorado, Maryland y Canadá) ilustran estos encuadres.
+:::
+
+## De "hacer" a "determinar" género
+
+[(Westbrook & Schilt 2014)]{.cite}
+
+-   **Determinar género:** prácticas mediante las cuales *otras personas e instituciones* ubican a alguien en una categoría de género.
+-   Dos ideologías en tensión: **basada en la biología** (innata e inmutable) y **basada en la identidad** (si otros validan el reclamo).
+-   Casos: leyes de derechos laborales trans, cambio de sexo registral, atletas trans.
+
+::: {.notes}
+Determinar género es la contracara de hacer género (clase 3): yo presento información sobre mi género, otros la interpretan y deciden en qué categoría ubicarme. Westbrook y Schilt extienden la atribución de género de West y Zimmerman, pensada para interacciones cara a cara, hacia políticas, tribunales e interacciones imaginadas (cómo las personas cis imaginan encuentros con personas trans). Por eso encaja en el nivel institucional.
+
+El caso que abre el artículo (Littleton v. Prange, Texas, 1999): una mujer trans con documentos, matrimonio y veinte años viviendo como mujer fue declarada "cromosómicamente varón" por un tribunal; el juez escribió que "hay cosas que no se pueden hacer existir por voluntad". La ideología basada en la identidad no es un "todo vale": requiere que otros validen el reclamo como legítimo. Los tres casos analizados son proyectos de ley de no discriminación por identidad de género (2009–2011), la propuesta de Nueva York de eliminar el requisito de cirugía genital para cambiar el sexo en el certificado de nacimiento (2006) y las controversias sobre atletas trans.
+:::
+
+## Los criterios varían según el espacio {.compact}
+
+[(Westbrook & Schilt 2014)]{.cite}
+
+::: {style="font-size: 0.75em;"}
+| Tipo de espacio | Criterio dominante | Ejemplos |
+|:----------------|:-------------------|:---------|
+| **No sexual, integrado** | Identidad | Lugares de trabajo |
+| **No sexual, segregado** | Identidad + cuerpo | Baños, camarines, deporte |
+| **Sexual** | Biología (genitales) | Relaciones sexuales |
+:::
+
+-   **Pánicos de género** y **trabajo de naturalización** restituyen el binario.
+-   Los espacios de mujeres se vigilan más: desigualdad **bajo la apariencia de protección**.
+
+::: {.notes}
+Mientras más "oposición" entre géneros presupone un espacio, más se exige demostrar diferencia corporal. Pánicos de género: reacciones que reafirman frenéticamente la naturalidad del binario cuando este se ve desafiado. Trabajo de naturalización: políticas (por ejemplo, requisitos quirúrgicos u hormonales) que calman el pánico y restituyen el binario.
+
+Una misma persona trans puede tener un "género social", un "género sexual" y un "género deportivo" distintos. Ejemplo del texto: Kye Allums, hombre trans que jugaba básquetbol universitario en un equipo de mujeres; su género social era "hombre" y su género deportivo "mujer", mientras no iniciara testosterona. El paso de criterios cromosómicos (inmutables) a genitales u hormonales (modificables) muestra cierta apertura, pero preserva la lógica del sistema sexo/género/sexualidad: las personas que podrían cuestionarlo son "repatriadas" al binario.
+
+Vigilancia asimétrica: por creencias de que las mujeres son inherentemente vulnerables y los hombres peligrosos, el acceso a los espacios de mujeres concentra el conflicto, y se reproduce la desigualdad bajo la apariencia de proteger a las mujeres. Conectar con debates en Chile (Ley de Identidad de Género 21.120, participación de deportistas trans).
+:::
+
+## Lógica de género en evaluaciones {.compact}
+
+[(Correll et al. 2020)]{.cite}
+
+-   Gran empresa tecnológica de Silicon Valley.
+-   Evaluaciones de desempeño de **208 trabajadores**, hechas por sus gerentes: texto completo y puntaje (1 a 5), con 88 códigos de lenguaje.
+-   Dos tipos de lenguaje:
+    -   **Colaborativo:** comunal, personalidad positiva, perspectiva de equipo, trabajo de servicio.
+    -   **"Hacerse cargo":** agencia, visión, líder, genio, visionario, comunicación asertiva.
+
+## {.center}
+
+[(Correll et al. 2020)]{.cite}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](img/C4/correll-helpful.png)
+:::
+::: {.column width="50%"}
+![](img/C4/correll-taking-charge.png)
+:::
+::::
+
+::: {.notes}
+Figura 2a ("helpful"): el patrón es similar y no lineal para hombres y mujeres. Más lenguaje de "ayuda" se asocia con mejores puntajes entre 2 y 4, con un máximo en 4; ser "colaborador" no es común entre quienes reciben un 5. Las mujeres son vistas como más colaboradoras, pero como eso no se asocia con los puntajes más altos, ser vista como colaboradora solo lleva a las mujeres hasta cierto punto.
+
+Figura 2b ("taking charge"): diferencias de género claras. Para los hombres la relación entre hacerse cargo y el puntaje es positiva y lineal; para las mujeres llega a su máximo en 4. Las mujeres con puntaje 5 tenían niveles de lenguaje de "hacerse cargo" similares a las de puntaje 3. Hacerse cargo se valora más en los hombres: el nivel más alto se asocia con un 5 para ellos, pero solo con un 4 para ellas. Una explicación es que hacerse cargo es una conducta muy agéntica que genera *backlash* cuando la ejercen mujeres (Rudman et al. 2012, clase 3). Es un buen ejemplo de la "lógica organizacional" de Acker: la evaluación de desempeño, aparentemente neutral, incorpora creencias de género.
+:::
+
+## Perspectiva de género en las políticas organizacionales
+
+:::: {.columns}
+::: {.column width="28%"}
+![](img/C4/uc-equidad.jpg){fig-align="center"}
+:::
+::: {.column width="72%"}
+![](img/C4/reglamento-licencias.png){fig-align="center"}
+:::
+::::
+
+# El contexto nacional
+
+## La importancia del contexto nacional
+
+[(Hook 2006)]{.cite}
+
+-   Modelo teórico que integra mecanismos **individuales, del hogar y nacionales** para entender el trabajo no remunerado (cuidados y hogar) de los hombres.
+-   Más allá de las características individuales: ¿qué **políticas y prácticas** obstaculizan o facilitan el trabajo no remunerado de los hombres?
+-   Dos dimensiones del contexto nacional: el **empleo femenino** y la **política del Estado**.
+
+## {.center}
+
+![](img/C4/hook-figura2.png){fig-align="center" height="600"}
+
+::: {.notes}
+Los padres hacen más trabajo no remunerado cuando las mujeres casadas con empleo trabajan jornada completa y cuando el permiso parental es corto y está disponible para los hombres. En contextos donde las mujeres casadas con empleo trabajan pocas horas y los hombres no pueden usar el permiso parental, se predice que los padres hacen la misma cantidad de trabajo no remunerado que los hombres sin hijos. En suma, las prácticas nacionales de empleo femenino y las políticas nacionales son determinantes clave del tiempo de trabajo no remunerado de los padres a nivel individual.
+:::
+
+## {.center}
+
+![](img/C4/aborto-mapa.png){fig-align="center" height="620"}
+
+## Efectos de la legalización del aborto en EE.UU. {.compact}
+
+[(Myers & Welch 2021)]{.cite}
+
+-   Menos nacimientos (−4% a −11%) y menos maternidad adolescente (−34%).
+-   Reducción de 30–40% en la mortalidad materna de mujeres afroamericanas.
+-   Más educación, participación laboral, prestigio ocupacional e ingresos de las mujeres.
+-   Ser rechazada al solicitar un aborto aumenta la deuda (+78%) y los desalojos, quiebras y juicios (+81%).
+
+::: {.notes}
+Detalle y fuentes, según la revisión de Myers y Welch (2021). Disminución del número de nacimientos en un 4% a 11% (Levine, Staiger, Kane y Zimmerman 1999). Reducción de 34% en el número de madres adolescentes y de 20% en adolescentes que contraen matrimonio, con efectos más grandes para mujeres afroamericanas (Myers 2017). Reducción de 30–40% en la mortalidad materna de mujeres afroamericanas (Farin, Hoehn-Velasco y Pesko 2021). Aumento en los niveles educativos de las mujeres, la participación laboral femenina, el prestigio ocupacional y los ingresos (Angrist y Evans 1996; Kalist 2004; Lindo, Pineda-Torres, Pritchard y Tajali 2020; Jones 2021). Ser rechazada al solicitar un aborto aumenta en 78% la deuda y en 81% los registros públicos de desalojo, quiebra y juicios (Miller, Wherry y Foster 2020).
+:::
+
+## Discusión liderada por Candela y Trajan {background-image="img/C4/portada.jpg" background-size="cover" background-opacity="0.35" .center}
+
+![](img/C4/icono-discusion.png){.nostretch style="width:160px; margin:0;"}

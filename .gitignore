@@ -6,6 +6,7 @@ _site/
 
 # Material privado / de referencia, no se publica
 Gender GRAD/
+notas_privadas/
 index_sol191_referencia.qmd
 PROGRAMA 2025-*.md
 
@@ -22,3 +23,7 @@ clases/C2_clase.qmd
 clases/img/C2/
 clases/C3_clase.qmd
 clases/img/C3/
+clases/C4_clase.qmd
+clases/img/C4/
+clases/C5_clase.qmd
+clases/img/C5/

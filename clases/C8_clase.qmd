@@ -1,0 +1,152 @@
+---
+title: "Sociología del Género"
+subtitle: "SOL3061 | Clase 8. Masculinidades y manósfera"
+author: "Tania Hutt"
+lang: es
+format:
+  revealjs:
+    theme: [simple, slides.scss]
+    width: 1280
+    height: 720
+    margin: 0.06
+    slide-number: true
+    scrollable: true
+    link-external-newwindow: true
+---
+
+## ¿Qué es la manósfera?
+
+-   Red difusa de comunidades en línea unidas por una visión **antifeminista y supremacista masculina**.
+-   Los hombres como **víctimas** de la "feminización" de la sociedad.
+-   Subgrupos: activistas por los derechos de los hombres (MRA), *pick-up artists* (PUA), *Men Going Their Own Way* (MGTOW) e **incels**.
+-   La "**píldora roja**": despertar a la "verdad" de que el orden de género favorece a las mujeres.
+
+::: {.notes}
+Tiempo: 2–3 min. Definición de Ging (2019): una "confederación difusa" de blogs, foros y redes. Rothermel (2023) la resume como subgrupos con ideologías algo distintas, pero unidos por una visión misógina y supremacista masculina en la que los hombres deben defenderse de la "feminización" de sus sociedades, asociada a una pérdida de poder y derechos. Gerrand et al. (2025) recuerdan los cinco "polos" de Ging (2017): MRA, MGTOW, PUA, conservadores cristianos tradicionales y la cultura gamer/geek con los incels. El término incel ("célibe involuntario") lo acuñó una mujer en los años noventa para una comunidad de apoyo; hoy designa a una comunidad hostil a las mujeres (Judge 2026). Desde 2018 (ataque en Toronto) la manósfera se vincula con violencia en línea y fuera de línea.
+:::
+
+## De la manósfera a la "neo-manósfera"
+
+[(Gerrand, Ging, Roose & Flood 2025)]{.cite}
+
+::::: {.process}
+
+::: {.step}
+<h4>Migración</h4>
+
+De foros a TikTok, YouTube Shorts, Telegram.
+:::
+
+::: {.step}
+<h4>*Mainstreaming* y monetización</h4>
+
+Los *manfluencers* venden autoayuda, dinero y éxito.
+:::
+
+::: {.step}
+<h4>Diversificación</h4>
+
+Ideológica y étnica.
+:::
+
+::: {.step}
+<h4>Cruce con extremismos</h4>
+
+Extrema derecha, conspiraciones.
+:::
+
+:::::
+
+-   Motor común: los **algoritmos de recomendación** del capitalismo de plataformas.
+
+::: {.notes}
+Tiempo: 4 min. Gerrand et al. (2025, Men and Masculinities) distinguen la "neo-manósfera" de la de hace una década por cuatro desarrollos. (1) Migración a nuevas plataformas: el *mainstreaming* en TikTok o YouTube Shorts y, al mismo tiempo, el paso a espacios más cerrados y extremos como Telegram o Gab. (2) *Mainstreaming* y monetización: los *pick-up artists* fueron reemplazados por una industria más lucrativa de autoayuda, finanzas y "desarrollo personal" masculino (Andrew Tate). Estudios con datos masivos muestran que las comunidades más antiguas (PUA, MRA) dan paso a otras más extremas y misóginas (incels, MGTOW). (3) Diversificación ideológica y étnica: por ejemplo, *manfluencers* negros como el podcast Fresh and Fit, que usan el lenguaje de la justicia social para justificar la misoginia, o figuras como Tate que combinan retórica antiinmigración con su propio origen migrante y su conversión al Islam. (4) Cruce con otras ideologías extremas: la extrema derecha y el conspiracionismo. Los autores insisten en una respuesta estructural (regulación de plataformas y algoritmos), no solo educativa.
+:::
+
+## ¿Cómo convence? La "misoginia basada en evidencia"
+
+[(Rothermel 2023)]{.cite}
+
+-   Se citan (y malinterpretan) **estadísticas, estudios y noticias** para "probar" que los hombres están en desventaja.
+-   Imita los métodos del conocimiento legítimo: da una falsa **autoridad**.
+-   Construye una **identidad colectiva** como conocimiento "alternativo" al saber de género dominante.
+-   Conecta la manósfera con el conservadurismo y la **extrema derecha**.
+
+::: {.notes}
+Tiempo: 3 min. Rothermel (2023, Big Data & Society) propone el concepto de "misoginia basada en evidencia": una estrategia discursiva en la que se usan estadísticas, estudios, noticias y cultura popular, imitando las formas aceptadas de presentar conocimiento, para respaldar afirmaciones sobre las relaciones de género. Funciona como puente hacia otras comunidades de extrema derecha y conspirativas, porque comparte la idea de un saber oculto frente a la "ideología" dominante. Pregunta para conectar con el curso: ¿qué diferencia hay entre usar evidencia y esta mímesis? Es un buen recordatorio de por qué importa la calidad metodológica de los estudios que hemos leído (por ejemplo, Zell et al. en la clase 2 sobre diferencias entre sexos).
+:::
+
+## Conceptos clave: masculinidades
+
+-   **Masculinidad hegemónica** (Connell): la forma de masculinidad que legitima la subordinación de las mujeres y de otras masculinidades.
+-   **Masculinidades subordinadas**: hombres que no cumplen el ideal.
+-   **Masculinidades híbridas**: incorporan elementos marginados sin desafiar la jerarquía.
+
+::: {.box .box-q}
+La paradoja: los incels se definen como **perdedores** del orden de género, pero lo **defienden**.
+:::
+
+::: {.notes}
+Tiempo: 3 min. Es el marco que usa Halpin (2022, lectura mínima): los incels se ven como hombres "fracasados" en una jerarquía basada en el atractivo físico ("lookism"), y usan esa posición subordinada para justificar la degradación de las mujeres ("subordinación instrumentalizada"). Kettrey y Davis (2026) describen algo parecido con el "zeroing out": se apropian del lenguaje de la desigualdad y la discapacidad para reclamar privilegios masculinos que creen que se les deben. Advertencia de Judge (2026): parte de la literatura aplica mal el concepto de masculinidad hegemónica, confundiendo rasgos dominantes o dominantes en un grupo con la hegemonía en sentido de Connell (Lucy 2024). Vale la pena discutir si los incels encarnan, desafían o reproducen la hegemonía.
+:::
+
+## El costo para los propios hombres
+
+[(Halpin et al. 2025)]{.cite}
+
+-   ***Looksmaxxing***: comunidad de "mejora" de la apariencia con 6 millones de visitas mensuales.
+-   Una **mirada masculina hegemónica** sobre los cuerpos masculinos (simetría facial, mandíbula, estatura).
+-   Promueve **modificaciones corporales** extremas, incluso cirugías de alargamiento de piernas.
+-   **Desmoralización masculina**: los usuarios son tratados como hombres fracasados y alentados a dañarse.
+
+::: {.notes}
+Tiempo: 2 min. Halpin, Gosse, Yeo, Handlovsky y Maguire (2025, Sociology of Health & Illness) analizan 8.072 comentarios de un foro de *looksmaxxing*. Muestran que la masculinidad hegemónica no solo daña a las mujeres: en estas comunidades de "autoayuda" se critica el cuerpo de los hombres, se fomentan intervenciones riesgosas (desde "mewing", presionar la lengua contra el paladar, hasta cirugías) y se alienta la autolesión. Conecta con la clase 2 (el cuerpo como sitio de producción del género) y con la lectura mínima de Halpin (2022), que identifica el *lookism* como la jerarquía central para los incels.
+:::
+
+## ¿Por qué atrae? Amenaza al estatus y rabia
+
+[(Renström & Bäck 2026)]{.cite}
+
+-   Hombres suecos que perciben una **amenaza a su estatus** se involucran más con la manósfera.
+-   El mecanismo es emocional: la amenaza genera **rabia**, y la rabia, involucramiento.
+-   Resultados consistentes en una encuesta y **tres experimentos**.
+
+::: {.notes}
+Tiempo: 2 min. Renström y Bäck (2026, Group Processes & Intergroup Relations): encuesta con 2.751 hombres suecos y tres experimentos (con unos 600 participantes cada uno). La amenaza percibida al estatus masculino, medida como la creencia en un "giro del sexismo" (que ahora se discrimina a los hombres), se asocia con más involucramiento en la manósfera. En los experimentos, el contenido amenazante en redes genera rabia, y la rabia explica la intención de participar en la manósfera, en grupos por los derechos de los hombres o en grupos que buscan mejorar el estatus de los hombres. Es la continuación del estudio de 2024 (una de las lecturas opcionales), que mostró que seguir a *manfluencers* se asocia con deshumanizar a las mujeres.
+:::
+
+## Raíces estructurales: la norma del proveedor
+
+[(Gonalons-Pons & Gangl 2021)]{.cite}
+
+-   Datos de parejas en **29 países** (2004–2014).
+-   El desempleo masculino aumenta el riesgo de separación **donde la norma del hombre proveedor es fuerte**.
+-   Una desviación estándar más de esa norma aumenta 32% las probabilidades de separación asociadas al desempleo masculino.
+-   Donde la norma es débil, el efecto casi desaparece.
+
+::: {.notes}
+Tiempo: 2 min. Gonalons-Pons y Gangl (2021, American Sociological Review) no estudian la manósfera, pero ayudan a entender de dónde viene la "amenaza al estatus": las normas culturales que definen la masculinidad por el rol de proveedor hacen que la pérdida del empleo sea también una pérdida de masculinidad, con consecuencias en las relaciones. El efecto es mayor en parejas casadas, donde la identidad de proveedor es más saliente. Conecta con la clase 6 (división del trabajo, revolución estancada) y con la pregunta de por qué la precariedad económica de los hombres jóvenes puede alimentar la atracción por discursos que prometen recuperar estatus.
+:::
+
+## Cómo estudiar la manósfera
+
+[(Judge 2026)]{.cite}
+
+-   Tres disciplinas que **no dialogan**: estudios de masculinidades, psicología clínica y lingüística.
+-   Riesgo de **patologizar** a los incels (salud mental, autismo) y perder de vista el **sexismo normalizado**.
+-   La manósfera no se desvía del sexismo cultural: lo **acelera**.
+
+::: {.notes}
+Tiempo: 2 min. Judge (2026, Sociology Compass) revisa la literatura y muestra que cada disciplina trabaja aislada. La psicología clínica se enfoca en perfiles y tratamientos (depresión, ansiedad, autismo, dismorfia corporal), a menudo sin contacto con incels reales; la lingüística estudia el léxico y la cultura; los estudios de masculinidades usan a Connell. El llamado es a la interdisciplina y a situar la manósfera en el contexto digital y político más amplio. Punto central para sociología: estudios etnográficos (O'Neill; Sugiura) encuentran que el sexismo de estas comunidades no se desvía del sexismo culturalmente normalizado, sino que lo acelera. Riesgo de explicar la misoginia como un problema individual o clínico en vez de estructural.
+:::
+
+## Para las lecturas
+
+-   **Halpin (2022):** ¿cómo se usa la subordinación para legitimar la misoginia?
+-   **Kettrey y Davis (2026):** ¿qué significa apropiarse del lenguaje de la desigualdad?
+-   **Haslop et al. (2024):** ¿cómo llegan estos discursos a adolescentes?
+-   **Renström y Bäck (2024):** ¿qué efecto tienen los *manfluencers* en las actitudes?
+
+::: {.notes}
+Tiempo: 1 min. Cierre que enlaza con las lecturas del programa (Halpin como mínima, más una a elección) y con el resto del bloque. La pregunta que atraviesa todas: ¿la manósfera es un fenómeno marginal o la expresión acelerada de las normas de género que hemos estudiado en el curso?
+:::

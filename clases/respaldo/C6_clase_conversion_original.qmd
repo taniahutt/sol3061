@@ -1,0 +1,226 @@
+---
+title: "Sociología del Género"
+subtitle: "SOL3061 | Clase 6. Trabajo y familia"
+author: "Tania Hutt"
+lang: es
+format:
+  revealjs:
+    theme: [simple, slides.scss]
+    width: 1280
+    height: 720
+    margin: 0.06
+    slide-number: true
+    scrollable: true
+    link-external-newwindow: true
+    title-slide-attributes:
+      data-background-image: img/C6/portada.jpg
+      data-background-size: cover
+---
+
+# Familia
+
+## Familia: amor y cuidado, pero también diferencia y desigualdad
+
+-   **Desafío** con la incorporación de la mujer al mundo laboral: falta de tiempo para las tareas del hogar y el empleo remunerado.
+-   **Ideología de maternidad intensiva:** la crianza debe tomar mucho tiempo, energía y recursos materiales, ser la prioridad sobre otros intereses y ser realizada por las madres.
+
+## División del trabajo en el hogar en parejas
+
+-   **Tradicionalista:** los hombres proveen económicamente; las mujeres cuidan.
+-   **Neo-tradicionalista:** los hombres se enfocan en el trabajo; las mujeres pueden trabajar si no interfiere con su "real" trabajo de cuidar a la familia.
+-   **Igualitaria:** división relativamente simétrica entre ambos tipos de trabajo.
+
+## Barreras para la división igualitaria
+
+-   **Institucionales:**
+    -   La familia y el trabajo remunerado como **instituciones avaras**: demandan mucho tiempo y energía.
+    -   Políticas públicas que restringen el acceso a beneficios o responsabilidades por género.
+-   **Ideológicas:** maternidad intensiva, normas de género, expectativas sociales.
+-   Junto con la desigualdad de género en el trabajo, esto lleva a la **especialización** pese a aspiraciones igualitarias: maximización económica.
+
+## Estereotipos de ma-paternidad
+
+-   Los estereotipos y representaciones en medios sobre la ma-paternidad son *gendered*: la madre 100% dedicada y experta, el padre incompetente e inútil.
+-   Se ven en medios, películas, redes sociales, etc.
+
+[Video 1](https://www.youtube.com/watch?v=jHPbOGEUvZA) · [Video 2](https://www.youtube.com/watch?v=jyMZ_LOVcvo)
+
+# Trabajo remunerado
+
+## Género y clase en un mercado laboral de élite
+
+[(Rivera & Tilcsik 2016)]{.cite}
+
+-   Estudio de correspondencia en estudios de abogados.
+-   Postulantes recién graduados de la universidad.
+-   Manipulación experimental de **género** (nombre) y **clase** (señales en el currículum):
+
+![](img/C6/rivera-signos-clase.png){fig-align="center" width="75%"}
+
+::: {.notes}
+Rivera y Tilcsik (2016, American Sociological Review). Enviaron solicitudes de estudiantes ficticios de escuelas de derecho selectivas pero no de élite a 316 oficinas de grandes estudios de abogados en 14 ciudades de EE.UU., asignando aleatoriamente señales de clase y género a currículos por lo demás idénticos. La clase se señaló con el apellido y actividades extracurriculares (premio deportivo, mentoría, deportes como navegación o atletismo, intereses personales). Lo que se mide es la tasa de "callback", es decir, la invitación a entrevista.
+:::
+
+## Principales resultados
+
+-   Los hombres de clase alta reciben una tasa de respuesta **cuatro veces mayor** que el promedio de los demás postulantes.
+-   La clase alta aumenta la probabilidad de entrevista, **pero solo para los hombres**.
+-   En la encuesta experimental, los hombres de clase alta **no** son evaluados como más competentes ni más cálidos: se descartan esos dos mecanismos.
+
+::: {.notes}
+Cifras del artículo: el postulante hombre de clase alta tuvo una tasa de respuesta de 16,25%, más de cuatro veces la de las demás combinaciones (la de mujeres de clase baja, por ejemplo, fue de 3,83%). La clase social no es una categoría protegida, por lo que casi no hay datos que permitan estudiar la discriminación por clase en la contratación.
+:::
+
+## Las mujeres de clase alta: "poco compromiso"
+
+-   Las mujeres de clase alta son evaluadas como **menos comprometidas** con la carrera que los hombres de clase alta y que las mujeres de clase más baja.
+-   Las señales de clase alta se asocian con mejor **"fit"** cultural con la empresa, que aumenta la recomendación de entrevista.
+-   Mujeres de clase baja: buena ética de trabajo pero **mal fit**.
+-   Mujeres de clase alta: fuertes académica y profesionalmente, pero con **bajo compromiso**: se teme que no duren porque tendrán el privilegio económico de no hacerlo.
+
+# Trabajo doméstico y carga mental
+
+## Carga mental
+
+::::: {.columns}
+::: {.column width="50%"}
+![](img/C6/carga-mental-1.png){fig-align="center"}
+:::
+::: {.column width="50%"}
+![](img/C6/carga-mental-2.png){fig-align="center"}
+:::
+:::::
+
+## La dimensión cognitiva del trabajo doméstico
+
+[(Daminger 2019)]{.cite}
+
+![](img/C6/daminger-fig1.png){fig-align="center" width="85%"}
+
+-   **Invisible** para otras personas, y a veces para quien lo hace.
+-   Difuso: cuesta registrarlo y cuantificarlo.
+
+::: {.notes}
+Características del trabajo cognitivo: invisible para otras personas; invisible a veces para la misma persona que lo hace, porque es parte de cómo pensamos y operamos (hábitos); es difuso o abstracto y cuesta registrarlo o cuantificarlo; no tiene límite de espacio ni de tiempo para hacerse, interrumpiendo el tiempo de ocio y el trabajo remunerado.
+
+Daminger (2019, ASR): 70 entrevistas en profundidad a integrantes de 35 parejas. El trabajo cognitivo tiene cuatro componentes: anticipar necesidades, identificar opciones, decidir y monitorear.
+:::
+
+## Diferencias de género en el trabajo cognitivo
+
+[(Daminger 2019)]{.cite}
+
+-   Las mujeres hacen **más trabajo cognitivo** en general, y más de la **anticipación** y el **monitoreo**.
+-   La participación en la **decisión** es aproximadamente igual.
+-   Fuente frecuente de **conflicto** en las parejas.
+
+::: {.notes}
+Varias parejas muestran un patrón de desequilibrio de género en la anticipación y (menos frecuentemente) en la identificación, seguido de colaboración en la etapa de decisión. Ejemplo del texto: Jenna y Peter acuerdan inscribir a su hija en una clase de música, pero fue Jenna quien encontró la clase y alertó a Peter. La decisión, que es el componente más ligado al poder y la influencia, es el más igualitario; el trabajo invisible y continuo recae en ellas.
+:::
+
+## Encuesta de uso del tiempo en Chile
+
+::::: {.columns}
+::: {.column width="34%"}
+![](img/C6/enut-1.png){fig-align="center"}
+:::
+::: {.column width="66%"}
+![](img/C6/enut-2.png){fig-align="center"}
+:::
+:::::
+
+## {.center}
+
+![](img/C6/enut-3.png){fig-align="center" height="620"}
+
+# Maternidad y mercado laboral
+
+## Castigo a la maternidad en salarios en Latinoamérica
+
+[(Villanueva & Lin 2019)]{.cite}
+
+-   Castigo a la maternidad en cinco países: desde **12% en Brasil** a **21% en Chile** (el más alto).
+-   La participación de las madres en el **trabajo informal** explica parte del castigo.
+    -   Pero **no en Chile**: la maternidad no es un determinante tan importante del trabajo informal como en otros países.
+
+::: {.notes}
+Nota: los datos son anteriores a la pandemia, cuando la informalidad laboral de las mujeres aumentó bastante. El estudio usa 43 encuestas de hogares (2000–2017) de Argentina, Brasil, Chile, México y Perú, controlando por selección al empleo y capital humano.
+:::
+
+## Castigo a la maternidad en contrataciones en EE.UU.
+
+[(Correll et al. 2007; Ishizuka 2021)]{.cite}
+
+![](img/C6/correll-2007-tabla.png){fig-align="center" height="520"}
+
+::: {.notes}
+Ishizuka (2021): la presión de tiempo, la colaboración y las exigencias de viaje son más comunes en avisos de empleos profesionales y gerenciales, mientras que los horarios no estándar y la inestabilidad de horarios son más comunes en avisos de servicios de bajos salarios. Los empleadores discriminan más a las madres en empleos profesionales y gerenciales cuando la presión de tiempo, la colaboración y el viaje son requisitos explícitos. En cambio, discriminan de manera similar a las madres en empleos de servicios de bajos salarios sin importar si el aviso exige horarios no estándar, pero la inestabilidad de horarios predice una discriminación más fuerte.
+:::
+
+## Sesgos asociados a la maternidad
+
+-   El foco tiende a estar en la **maternidad**, con impactos en participación laboral, salarios y oportunidades.
+-   ¿Se extiende la penalización a mujeres que **no son madres**?
+-   Las mujeres podrían ser afectadas solo por la **expectativa** de que serán madres en el futuro.
+
+::: {.notes}
+Estudio diseñado para medir estereotipos en contextos de selección y evaluación de personas, para ver cómo son percibidas las mujeres que no son madres pero podrían ser consideradas "futuras madres".
+:::
+
+## Datos
+
+-   Encuesta experimental de **análisis conjunto** (*conjoint*) con **713 participantes** en EE.UU. (Hainmueller & Hiscox 2010; Schachter 2016).
+    -   Empleados a tiempo completo, con experiencia en contrataciones y supervisión.
+-   Escenario ficticio de evaluación de perfiles de postulantes; los perfiles varían aleatoriamente el **estado parental** y el **riesgo de maternidad futura**.
+-   Se evalúan costo, riesgo, crecimiento potencial y competencias.
+
+::: {.notes}
+Los experimentos conjoint permiten probar causalmente el efecto de cada atributo del perfil (por ejemplo, estar casada) sobre el puntaje, promediando sobre la distribución de los demás atributos (Hainmueller, Hopkins y Yamamoto 2014). Esto se llama efecto marginal promedio de componente (AMCE).
+:::
+
+## {.center}
+
+![](img/C6/perfil-postulante.png){fig-align="center" height="600"}
+
+::: {.notes}
+Este marco permite incluir información que típicamente no está en el currículum ni en las postulaciones, como el estado parental y los planes de familia. Para presentarlo de manera más realista, se les dijo que los postulantes se estaban mudando de ciudad para el trabajo, de modo que la información dice algo como "recién casada y esperando criar hijos en el área". También incluye información distractora.
+:::
+
+## Estereotipos de maternidad futura
+
+-   Las mujeres **sin hijos** con alto riesgo de maternidad futura son vistas como más **costosas** y, en algunas medidas, más **riesgosas**.
+-   **No** son penalizadas en crecimiento potencial ni en competencias.
+
+::: {.notes}
+Resultados para las mujeres que NO son madres. El gráfico (no incluido en esta versión) muestra los efectos marginales promedio de tener alto riesgo de maternidad futura. Un efecto mayor a cero indica que las mujeres de alto riesgo reciben una evaluación más alta en el indicador; las escalas van de 0 a 7. De acuerdo con la hipótesis, las mujeres de alto riesgo son vistas como más costosas en todas las medidas de costo y como más riesgosas en algunas. Contrario a la hipótesis, no son penalizadas en crecimiento potencial. Como se esperaba, no son penalizadas en competencias actuales. En resumen, entre mujeres no madres, la maternidad futura es penalizada solo en medidas de costo y riesgo.
+:::
+
+## Estereotipos de "hijo/a adicional"
+
+-   Las madres con alto riesgo de tener **otro hijo** son vistas como más costosas y riesgosas.
+-   Además son penalizadas en **crecimiento profesional** y **competencia**.
+-   Son el **grupo más penalizado** de todos.
+
+::: {.notes}
+Resultados para mujeres que son madres. Los efectos del alto riesgo de tener otro hijo entre madres son más extensos que entre mujeres sin hijos. El gráfico no está incluido en esta versión.
+:::
+
+# Brecha salarial
+
+## Video sobre la brecha salarial
+
+Para discusión.
+
+## Brecha salarial en Chile
+
+[(Cruz & Rau 2022)]{.cite}
+
+-   Datos administrativos: brecha salarial de **24%**, pero heterogénea.
+-   Por tamaño de empresa: hasta 10 trabajadores, **8%**; 200 o más, **36%**.
+-   Por sector: financiero, **9%**; minería, **48%**.
+-   **82–92%** de la brecha se debe a que las mujeres están subrepresentadas en empresas que pagan salarios altos y sobrerrepresentadas en las que pagan bajos.
+-   **8–18%** se debe a diferencias entre hombres y mujeres con igual educación y habilidad en las mismas empresas.
+
+## Discusión liderada por Susana {background-image="img/C6/cierre.jpg" background-size="cover" background-opacity="0.35" .center}
+
+![](img/C6/icono-discusion.png){.nostretch style="width:160px; margin:0;"}

@@ -17,6 +17,28 @@ format:
       data-background-size: cover
 ---
 
+## Sexualidad como construcción social
+
+[(Benavente & Vergara 2006)]{.cite}
+
+::: {.callout-note icon=false}
+## Definición
+La sexualidad es un **constructo social**: una capacidad física para la excitación sexual y el placer, significados personales y socialmente compartidos que forman las **identidades sexuales y de género**, y una interpretación cultural de funciones "naturales" ordenadas en **relaciones sociales jerárquicas**.
+:::
+
+::: incremental
+-   No es un impulso biológico que se expresa solo: se **aprende** y se **vigila**.
+-   Tres dimensiones: **capacidad física**, **significados compartidos** e **interpretación cultural** jerárquica.
+:::
+
+::: {.notes}
+- **Benavente & Vergara (2006, FLACSO Chile)**: definición tripartita de sexualidad como constructo social
+- **Capacidad física**: excitación y placer — lo biológico existe pero no determina por sí solo
+- **Significados compartidos**: forman identidades sexuales y de género — lo que "cuenta" como sexo, lo que es deseable o vergonzoso
+- **Interpretación cultural**: funciones "naturales" ordenadas en relaciones sociales jerárquicas — la sexualidad organiza poder
+- **Marco para la clase**: esta definición sustenta todo lo que sigue — guiones sexuales, imperativo del coito, brecha del orgasmo, justicia íntima
+:::
+
 ## La sexualidad como sistema de normas
 
 [(Gagnon & Simon 1973; Risman 2004)]{.cite}
@@ -61,44 +83,60 @@ Cómo se ubican las lecturas en el eje: Benavente y Vergara (2006) muestran cóm
 
 ## Cuerpo para sí, cuerpo para otro
 
-[(Benavente & Vergara 2006)]{.cite}
+[(Benavente & Vergara 2006, cap. I, pp. 40–45)]{.cite}
 
 <div class="pair">
 <div>
 **Hombres: cuerpo para sí**
 
-Ejercer la sexualidad reafirma la hombría; experiencia y placer como algo natural.
+::: incremental
+-   Ejercer la sexualidad **reafirma la hombría**
+-   Sexualidad sin control como parte de la identidad de género
+-   Se espera que adquieran **experiencia**
+-   Excitación física como algo **natural**
+-   Placer como parte de sus vidas
+:::
 </div>
 <div>
 **Mujeres: cuerpo para otro**
 
-Menstruación como inicio del riesgo; temor y vergüenza del cuerpo sexuado.
+::: incremental
+-   Discurso centrado en la **menstruación** y el cuidado del cuerpo
+-   **Secreto** y falta de información
+-   Menstruación como inicio del **riesgo** y de la necesidad de cuidarse
+-   **Temor y vergüenza** del cuerpo sexuado
+-   Lo femenino como **objeto** de placer
+:::
 </div>
 </div>
-
--   Lo masculino como **sujeto** de placer; lo femenino como **objeto** de placer.
 
 ::: {.notes}
-Tiempo: 3 min. Benavente y Vergara (2006, FLACSO Chile, cap. I, pp. 40–45) entienden la sexualidad como construcción social: una capacidad física para la excitación y el placer, unos significados personales y socialmente compartidos que forman las identidades sexuales y de género, y una interpretación cultural de funciones "naturales" ordenadas en relaciones sociales jerárquicas.
-
-Hombres (cuerpo para sí): ejercer la sexualidad es una manera de reafirmar la hombría; la sexualidad sin control se considera parte de la identidad de género; se espera que adquieran experiencia; la excitación física se ve como algo natural y el placer como parte de sus vidas.
-
-Mujeres (cuerpo para otro): el discurso se centra en la menstruación y el cuidado del cuerpo; hay secreto y falta de información; la menstruación marca el inicio del riesgo y de la necesidad de cuidarse; aparecen el temor y la vergüenza del cuerpo sexuado.
-
-Conexión con el eje de la clase: es la versión chilena de los guiones intrapsíquicos y de los escenarios culturales. Anticipa el imperativo del coito (siguiente diapositiva) y la justicia íntima (si el cuerpo de las mujeres es "para otro", su satisfacción tiende a medirse por la del otro). Es una lectura mínima: la discusión puede profundizar en las diferencias por clase y edad que el libro también analiza.
+- **Definición de sexualidad (Benavente & Vergara)**: constructo social — capacidad física para la excitación y el placer + significados personales y socialmente compartidos que forman identidades sexuales/de género + interpretación cultural de funciones "naturales" ordenadas en relaciones sociales jerárquicas
+- **Hombres (cuerpo para sí)**: ejercer la sexualidad reafirma la hombría; sexualidad sin control = parte de la identidad de género; se espera experiencia; excitación física = natural; placer = parte de sus vidas
+- **Mujeres (cuerpo para otro)**: discurso centrado en menstruación y cuidado; secreto y falta de información; menstruación = inicio del riesgo; temor y vergüenza del cuerpo sexuado
+- **Conexión con el eje de la clase**: versión chilena de los guiones intrapsíquicos y escenarios culturales → anticipa imperativo del coito y justicia íntima (si el cuerpo de las mujeres es "para otro", su satisfacción tiende a medirse por la del otro)
+- **Para la discusión**: profundizar diferencias por clase y edad que el libro también analiza
 :::
 
 ## Heteronormatividad y el imperativo del coito
 
 [(McPhillips, Braun & Gavey 2001)]{.cite}
 
+::: incremental
 -   **Hetero- y mononormatividad:** se supone la heterosexualidad y la monogamia.
 -   **Imperativo del coito:** el "sexo de verdad" es la penetración pene-vagina; todo lo demás "no cuenta".
--   Prioriza el **orgasmo masculino** y convierte la falta de deseo de las mujeres en "disfunción".
--   Los guiones asignan roles: él **toma la iniciativa**, ella **responde**.
+    -   Asume heterosexualidad
+    -   La dificultad o falta de deseo de penetración se lee como **"disfunción"**
+    -   Como los hombres suelen tener orgasmo con la penetración y las mujeres muchas veces no, el guion prioriza el **orgasmo masculino**
+-   Los guiones definen roles: él **toma la iniciativa** (asertivo), ella **responde** (receptiva, paciente).
+:::
 
 ::: {.notes}
-Tiempo: 3 min. McPhillips, Braun y Gavey (2001, *Women's Studies International Forum*) analizan cómo hombres y mujeres heterosexuales en Nueva Zelanda definen el "sexo" en torno al coito. Como los hombres suelen tener orgasmo con la penetración y las mujeres muchas veces no, este guion prioriza el placer masculino; la dificultad o la falta de deseo de penetración se lee como un problema médico o individual, y no como un efecto de la norma. Junto con otras normas, esto contribuye a la "brecha del orgasmo" en relaciones heterosexuales. Los guiones también definen roles: masculino asertivo, que toma la iniciativa y empuja la interacción; femenino receptivo, paciente, que responde a la iniciativa de él. Conectar con Benavente y Vergara: lo masculino como sujeto de placer (activo) y lo femenino como objeto de placer.
+- **McPhillips, Braun & Gavey (2001, *Women's Studies International Forum*)**: analizan cómo hombres y mujeres heterosexuales en Nueva Zelanda definen el "sexo" en torno al coito
+- **Priorización del placer masculino**: hombres suelen tener orgasmo con la penetración, mujeres muchas veces no → la dificultad o falta de deseo de penetración se lee como problema médico/individual, no como efecto de la norma
+- **"Brecha del orgasmo"**: este guion, junto con otras normas, contribuye a la brecha en relaciones heterosexuales
+- **Roles de guion**: masculino asertivo (toma la iniciativa, empuja la interacción) / femenino receptivo (paciente, responde)
+- **Conexión con Benavente & Vergara**: lo masculino como sujeto de placer (activo) y lo femenino como objeto de placer
 :::
 
 ## Cuando las categorías no calzan
@@ -169,27 +207,39 @@ El argumento: la brecha no está entre hombres y mujeres, sino entre las mujeres
 
 [(McClelland 2010, 2014)]{.cite}
 
+::: incremental
 -   Lo que sentimos que **merecemos** depende de nuestra posición social.
 -   Por eso la **satisfacción declarada** no mide igualdad.
 -   Al responder, las mujeres asocian el extremo bajo de la escala con **dolor**; los hombres, con **no tener sexo**.
+-   Las mujeres también califican alto cuando **su pareja** está satisfecha.
+:::
 
 ::: {.box .box-q}
 Si hombres y mujeres dijeran estar igual de satisfechos, ¿habría igualdad sexual?
 :::
 
 ::: {.notes}
-Tiempo: 3 min. Sara McClelland (2010, *Social and Personality Psychology Compass*; 2014) propone el concepto de justicia íntima: incorporar el "derecho" y el merecimiento al estudiar la satisfacción sexual. En sus entrevistas, mujeres y hombres anclan de manera distinta los extremos de la escala: para muchas mujeres el punto más bajo es el dolor o la degradación, mientras que para los hombres es no tener sexo o no tener orgasmo. Las mujeres también califican alto cuando su pareja está satisfecha. Una misma cifra de satisfacción puede esconder expectativas muy distintas.
-
-Es una idea central para posgrado porque conecta con el problema de medir desigualdad con indicadores subjetivos, como la satisfacción con la división del trabajo doméstico (clase 6) o la satisfacción laboral. Vuelve a la ENSSEX: la diferencia de 5,3 frente a 4,8 puede subestimar la desigualdad si las mujeres esperan menos. También conecta con Benavente y Vergara: el cuerpo "para otro" de las mujeres.
+- **Justicia íntima (McClelland 2010, 2014)**: incorporar el "derecho" y el merecimiento al estudiar la satisfacción sexual
+- **Anclaje distinto de la escala**: para mujeres el punto más bajo = dolor o degradación; para hombres = no tener sexo o no tener orgasmo → una misma cifra puede esconder expectativas muy distintas
+- **Mujeres califican alto** cuando su pareja está satisfecha → satisfacción como indicador de la pareja, no propio
+- **Conexión con ENSSEX**: la diferencia 5,3 vs. 4,8 puede subestimar la desigualdad si las mujeres esperan menos
+- **Central para posgrado**: conecta con el problema de medir desigualdad con indicadores subjetivos — igual que la satisfacción con la división del trabajo doméstico (clase 6) o la satisfacción laboral
+- **Conexión con Benavente & Vergara**: el cuerpo "para otro" de las mujeres
 :::
 
-## Puente a la discusión
+## Placer, performance y fingimiento
 
--   ¿En qué **nivel** (individual, interaccional, institucional) operan las normas que describen Benavente y Vergara, Miller y Pfeffer?
--   Chile cambió: **AUC** (2015), **Ley de Identidad de Género** (2018), **matrimonio igualitario** (2021). ¿Qué cambió en los guiones y qué no?
+::: incremental
+-   **Armstrong, England & Fogarty (2012)**: mujeres reportan más orgasmo en relaciones que en encuentros casuales — en parte porque en las relaciones hay más prácticas que favorecen el orgasmo femenino, y por un **doble estándar** que cuestiona el derecho de ellas al placer en encuentros casuales.
+-   **Jackson & Scott (2007)**: el placer y el orgasmo son una **performance interactiva** — "leer" a la pareja y producir una actuación calibrada. Fingir = **trabajo emocional** de mantener la relación heterosexual.
+-   **Chadwick & van Anders (2017)**: experimento con viñetas (N=810 hombres) — cuando la mujer tiene orgasmo, funciona como **logro de masculinidad**. Esto podría dar luces de una razón por qué algunas mujeres fingen.
+:::
 
 ::: {.notes}
-Tiempo: 1–2 min. Cierre que entrega la conversación a la discusión liderada (Isidora P.). Dos de las tres lecturas mínimas son de EE.UU. (Pfeffer, Miller) y la de Chile es de 2006: vale la pena preguntar qué cambió en Chile desde entonces y qué datos actuales faltan para responder. Lecturas complementarias para quien quiera profundizar: Rostagnol (2014) sobre aborto y relaciones de género, y Ahlm (2017) sobre la "promiscuidad respetable" en aplicaciones de citas y el liberalismo queer.
-
-Documentales recomendados (para después de la clase): *Los principios del placer* (Netflix, 2022) y *The Dilemma of Desire* (Maria Finitzo, 2020).
+- **Armstrong, England & Fogarty (2012, *ASR*)**: encuesta online en 21 universidades de EE.UU. + 85 entrevistas en dos universidades; hombres y mujeres describen a los hombres como poco atentos al placer femenino en encuentros casuales y más atentos en relaciones
+- **Doble estándar**: hombres y mujeres cuestionan el derecho de las mujeres al placer en encuentros casuales, pero no el de los hombres
+- **Jackson & Scott (2007)**: la presión a fingir como parte del trabajo emocional; el orgasmo es una performance interpretativa, no un evento puramente fisiológico
+- **Chadwick & van Anders (2017)**: experimento con viñetas; 810 hombres imaginaron que una mujer tenía o no orgasmo con ellos → cuando lo tenía, funcionaba como logro de masculinidad → podría explicar por qué algunas mujeres fingen (para validar la masculinidad de la pareja)
+- **Conexión con cuerpo "para otro"**: el orgasmo de ella se mide como logro de él, no como placer de ella
 :::
+

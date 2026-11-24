@@ -14,6 +14,20 @@ format:
     link-external-newwindow: true
 ---
 
+
+## Cierre del curso
+
+Gracias por su interés y participación este semestre!
+
+::: {.step}
+
+**Evaluación docente**: por favor contestar en Canvas.
+
+:::
+
+---
+
+
 ## ¿Qué es la manósfera?
 
 -   Red difusa de comunidades en línea unidas por una visión **antifeminista y supremacista masculina**.
@@ -115,38 +129,15 @@ Tiempo: 2 min. Halpin, Gosse, Yeo, Handlovsky y Maguire (2025, Sociology of Heal
 Tiempo: 2 min. Renström y Bäck (2026, Group Processes & Intergroup Relations): encuesta con 2.751 hombres suecos y tres experimentos (con unos 600 participantes cada uno). La amenaza percibida al estatus masculino, medida como la creencia en un "giro del sexismo" (que ahora se discrimina a los hombres), se asocia con más involucramiento en la manósfera. En los experimentos, el contenido amenazante en redes genera rabia, y la rabia explica la intención de participar en la manósfera, en grupos por los derechos de los hombres o en grupos que buscan mejorar el estatus de los hombres. Es la continuación del estudio de 2024 (una de las lecturas opcionales), que mostró que seguir a *manfluencers* se asocia con deshumanizar a las mujeres.
 :::
 
-## Raíces estructurales: la norma del proveedor
-
-[(Gonalons-Pons & Gangl 2021)]{.cite}
-
--   Datos de parejas en **29 países** (2004–2014).
--   El desempleo masculino aumenta el riesgo de separación **donde la norma del hombre proveedor es fuerte**.
--   Una desviación estándar más de esa norma aumenta 32% las probabilidades de separación asociadas al desempleo masculino.
--   Donde la norma es débil, el efecto casi desaparece.
-
-::: {.notes}
-Tiempo: 2 min. Gonalons-Pons y Gangl (2021, American Sociological Review) no estudian la manósfera, pero ayudan a entender de dónde viene la "amenaza al estatus": las normas culturales que definen la masculinidad por el rol de proveedor hacen que la pérdida del empleo sea también una pérdida de masculinidad, con consecuencias en las relaciones. El efecto es mayor en parejas casadas, donde la identidad de proveedor es más saliente. Conecta con la clase 6 (división del trabajo, revolución estancada) y con la pregunta de por qué la precariedad económica de los hombres jóvenes puede alimentar la atracción por discursos que prometen recuperar estatus.
-:::
-
 ## Cómo estudiar la manósfera
 
 [(Judge 2026)]{.cite}
 
 -   Tres disciplinas que **no dialogan**: estudios de masculinidades, psicología clínica y lingüística.
 -   Riesgo de **patologizar** a los incels (salud mental, autismo) y perder de vista el **sexismo normalizado**.
--   La manósfera no se desvía del sexismo cultural: lo **acelera**.
+-   La manósfera **acelera** sexismo cultural.
 
 ::: {.notes}
 Tiempo: 2 min. Judge (2026, Sociology Compass) revisa la literatura y muestra que cada disciplina trabaja aislada. La psicología clínica se enfoca en perfiles y tratamientos (depresión, ansiedad, autismo, dismorfia corporal), a menudo sin contacto con incels reales; la lingüística estudia el léxico y la cultura; los estudios de masculinidades usan a Connell. El llamado es a la interdisciplina y a situar la manósfera en el contexto digital y político más amplio. Punto central para sociología: estudios etnográficos (O'Neill; Sugiura) encuentran que el sexismo de estas comunidades no se desvía del sexismo culturalmente normalizado, sino que lo acelera. Riesgo de explicar la misoginia como un problema individual o clínico en vez de estructural.
 :::
 
-## Para las lecturas
-
--   **Halpin (2022):** ¿cómo se usa la subordinación para legitimar la misoginia?
--   **Kettrey y Davis (2026):** ¿qué significa apropiarse del lenguaje de la desigualdad?
--   **Haslop et al. (2024):** ¿cómo llegan estos discursos a adolescentes?
--   **Renström y Bäck (2024):** ¿qué efecto tienen los *manfluencers* en las actitudes?
-
-::: {.notes}
-Tiempo: 1 min. Cierre que enlaza con las lecturas del programa (Halpin como mínima, más una a elección) y con el resto del bloque. La pregunta que atraviesa todas: ¿la manósfera es un fenómeno marginal o la expresión acelerada de las normas de género que hemos estudiado en el curso?
-:::
